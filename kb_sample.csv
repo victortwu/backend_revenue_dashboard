@@ -1,0 +1,1093 @@
+Date,Name,Order,Number of Items,Subtotal,Taxes,Discount,Promo Code,Tips,Total,Transaction Client ID,Transaction ID,Location,Checkout Step: Order Name
+04/30/2021 04:00 PM,Fritz,1x 6) Lamb And Beef Berliner,1,13.39,1.37,0,,0.00,14.76,F767A41F-83F8-4BF5-9C50-B6E0A54BA44C,PjLOUy11040RxJBrMbamNp9eV,South Lake Union,Fritz
+04/30/2021 03:44 PM,Anne,1x Can Coke Zero,1,1.25,0.13,0,,0.28,1.66,13AF48AB-5CA9-45B5-884F-6A6B87301594,pknx7jv8OVIgkuzCfMSPiGzeV,South Lake Union,Anne
+04/30/2021 03:36 PM,Y,1x Bottle Mango Lassi Drink,1,3.00,0.31,0,,0.00,3.31,1D9CE62D-2798-430D-879C-3177E2CDE92B,HNGKxUSgvv8chewEZ1ZzwIzeV,South Lake Union,Y
+04/30/2021 03:14 PM,Anne,1x 9) House Tofu/Feta,1,7.25,0.74,0,,2.00,9.99,AF8A004A-387F-484A-961F-CED3CC4B17C8,NivabXkceNOlXIF7ciH35s4eV,South Lake Union,Anne
+04/30/2021 03:12 PM,Am,1x Bottle Plain Yogurt Drink; 1x Can Coke,2,4.25,0.44,0,,0.00,4.69,947F1BE5-413C-4FBF-8B9C-F1BC99F52714,nNwTfbexfCkkJFOiVWpJJM3eV,South Lake Union,Am
+04/30/2021 03:11 PM,Ali,1x 2) Chicken Berliner; 2x 2) Chicken Berliner; 1x 7) Lamb And Beef Fiery Kreuzberg,4,33.56,3.44,0,,5.55,42.55,BA394016-99E9-4A3B-84F3-67D26765F497,79zjnH5PQiB57EQymLdozTveV,South Lake Union,Ali
+04/30/2021 02:57 PM,Michael,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.74,10.44,009E2937-5D42-439C-AC4C-9D1101A44C34,hEvc3XQhtHPwc7NUNcp4gf1eV,South Lake Union,Michael
+04/30/2021 02:51 PM,Bri,1x 1) House Chicken; 1x Can Coke,2,9.64,0.99,0,,2.00,12.63,4147DDD8-DDF5-4B2A-8DAD-04785339591F,nf1FFlkeDR18tAsQt4NakeueV,South Lake Union,Bri
+04/30/2021 02:43 PM,Mitesh,1x 11) Fiery Tofu/Feta,1,7.75,0.79,0,,0.00,8.54,D1B7A2EC-4BC0-4F28-B958-E875CA1C994A,fxMtaRTGAnjIpyhBhEBGVPseV,South Lake Union,Mitesh
+04/30/2021 02:42 PM,Mason,1x 1) House Chicken,1,8.39,0.86,0,,0.00,9.25,62A5173D-21B9-4919-B5F1-FC23069DC085,9oaScyHUsqu7WQXkBnQmvY6eV,South Lake Union,Mason
+04/30/2021 02:37 PM,Nic,1x Fiery Chicken Salad,1,9.39,0.96,0,,1.55,11.90,EC80BCAC-4070-4023-B049-E5E4DC9C5930,fZqGeUSZ9xgXZJGfhTXvy4reV,South Lake Union,Nic
+04/30/2021 02:32 PM,Ire,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,7C5FEFD0-66AA-4A79-A744-5D58B252E1CB,njlGY4IjODybZJLJ7Kyr11neV,South Lake Union,Ire
+04/30/2021 02:31 PM,H,1x 1) House Chicken; 1x Can Coke Zero,2,9.14,0.94,0,,1.00,11.08,5FA44EA6-9BFE-4E90-9574-A6804A2133EE,HfFLeZibkI9CLFwI4FPpE7keV,South Lake Union,H
+04/30/2021 02:26 PM,Dave,1x 2) Chicken Berliner; 1x Chips,2,10.39,1.06,0,,0.00,11.45,566FC42E-58DA-4424-B4C2-1ADBCA4F557B,7TUs2R0gHeYP4uDCjJvqJh4eV,South Lake Union,Dave
+04/30/2021 02:22 PM,Dee,1x 6) Lamb And Beef Berliner,1,9.89,1.01,0,,2.18,13.08,0346947A-B07C-419E-8C21-E2FB48E06C95,X9CkeZGSUnEsKjKWqsRcJd0eV,South Lake Union,Dee
+04/30/2021 02:21 PM,Sam,1x 6) Lamb And Beef Berliner,1,10.39,1.06,0,,0.50,11.95,1F67EB39-A04B-4C53-8E25-87E367404022,p2qQSoodwDDDuJlbBoMwdzzeV,South Lake Union,Sam
+04/30/2021 01:56 PM,Max,1x Chicken Platter,1,9.89,1.01,0,,0.00,10.90,AB8F04DC-8CA4-4B76-BBC8-13358774E3AB,1SRELDGxyBzYc3z3aoEpZvueV,South Lake Union,Max
+04/30/2021 01:52 PM,Anna,1x 3) Chicken Fiery Kreuzberg; 1x Berliner Chicken Salad,2,17.28,1.77,0,,2.86,21.91,8862E5CF-E0D1-4054-8633-D818753F3447,rL8c8BSa9rya6MKqT8EpQwteV,South Lake Union,Anna
+04/30/2021 01:51 PM,Anatolie ,2x 2) Chicken Berliner; 1x Bottle Mexican Coke,3,23.53,2.41,0,,5.19,31.13,2899E2F7-B7AE-4C8B-9205-C981952A49F8,ZqU0XZthb0cweo7Z3hpkcWseV,South Lake Union,Anatolie 
+04/30/2021 01:39 PM,Chris ,1x Bottle Mango Lassi Drink; 1x 6) Lamb And Beef Berliner,2,11.89,1.22,0,,0.00,13.11,5631A150-1B3E-4465-928F-CEE3A2F7E7A3,RAZ8PccAnae735HWYpsLxZ9eV,South Lake Union,Chris 
+04/30/2021 01:26 PM,Victor,1x 6) Lamb And Beef Berliner; 1x Bottle Mexican Coke,2,11.64,1.19,0,,1.92,14.75,DDA7A6F1-C2E3-4DA0-8720-9862702F54CB,TrOMNRQmL38yd26CZQC708yeV,South Lake Union,Victor
+04/30/2021 01:21 PM,Roy,1x 2) Chicken Berliner,1,10.89,1.12,0,,0.00,12.01,5AAC9DAC-0035-4D8D-AF6E-F955333497E9,VyN6PeHvOcOPzYVDxKFaxp4eV,South Lake Union,Roy
+04/30/2021 01:19 PM,Divya,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.00,10.80,B26076C6-5D88-4879-A51D-48CABA8DBD17,Vg6vKxbl86jnuJYnpBHKvqleV,South Lake Union,Divya
+04/30/2021 01:18 PM,Manuj,1x 3) Chicken Fiery Kreuzberg; 1x 11) Fiery Tofu/Feta,2,16.14,1.65,0,,2.67,20.46,E4329683-4738-4422-AF48-306F73CE8768,dIkVh0EBGVB3LsKC2pcYgN5eV,South Lake Union,Manuj
+04/30/2021 01:14 PM,Emran,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,BB5E61C1-BE24-4780-AF6B-69D2F8D6CB50,hysL5rzLmSF5GpDK4BQ1OSyeV,South Lake Union,Emran
+04/30/2021 01:12 PM,Raj,1x 3) Chicken Fiery Kreuzberg; 1x Chips,2,9.39,0.96,0,,0.00,10.35,939251A2-D3F8-4680-982E-CA383CC42FBA,1UM5ZkOKtlAOb7OEOE2dfpgeV,South Lake Union,Raj
+04/30/2021 01:11 PM,Rick,1x 6) Lamb And Beef Berliner; 1x Can Coke,2,11.14,1.14,0,,0.00,12.28,E4BC03B9-4AD6-4F13-85D2-30248CEA8A94,HRinHxBGvIwspH5su6XkKzneV,South Lake Union,Rick
+04/30/2021 01:09 PM,Will,1x 5) House Lamb & Beef,1,8.89,0.91,0,,0.00,9.80,31B63782-E2D7-490F-ABC5-9410231B0954,566paCpZjGdrdfCbpEvGO24eV,South Lake Union,Will
+04/30/2021 01:08 PM,Matt,1x 5) House Lamb & Beef; 1x Chips; 1x Bottled Water,3,12.14,1.24,0,,2.01,15.39,F357A7DE-6A62-47A4-9A5E-DCE48ED6BC8C,VmxbPvZtLt0y4VmPdllPX0geV,South Lake Union,Matt
+04/30/2021 01:08 PM,Mitchell,1x 5) House Lamb & Beef,1,8.89,0.91,0,,0.00,9.80,65AD8FA4-56A3-494E-A699-D20A56439B69,Fw65A47Bkbyo71uX2emDaxieV,South Lake Union,Mitchell
+04/30/2021 01:04 PM,Cassandra ,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,C80014CE-03EF-4BC0-97EB-CE90559A9EC2,HTXTiIWEwfLoIwm9bRZykbmeV,South Lake Union,Cassandra 
+04/30/2021 01:03 PM,Wayne,1x 5) House Lamb & Beef,1,11.39,1.17,0,,0.00,12.56,33AB4D7A-C724-4BCE-8688-F15CB86484EA,9cMYhIQRqciLi2pds3lhwu4eV,South Lake Union,Wayne
+04/30/2021 01:00 PM,David,1x Fiery Lamb & Beef Salad; 1x Can Coke Zero,2,14.64,1.50,0,,2.00,18.14,D5829C54-FE14-42BE-8BD4-9A4B4C438058,jxBQSpmEre2kVuy2YFWDmoxeV,South Lake Union,David
+04/30/2021 12:58 PM,Dominik,1x 5) House Lamb & Beef; 1x Can Diet Coke,2,10.14,1.04,0,,0.00,11.18,52D7D2E2-BFD7-405F-B1AC-603B60AEB8F0,vLvO6wVKpCU11VvuyfCrAIxeV,South Lake Union,Dominik
+04/30/2021 12:52 PM,Jay,1x 6) Lamb And Beef Berliner; 1x 10) Berliner Tofu/Feta,2,17.64,1.81,0,,1.00,20.45,579D69EB-10B4-4DCA-8BC4-9CE034519101,nRiZEkJ4odTWJbcTL8XWtN7eV,South Lake Union,Jay
+04/30/2021 12:51 PM,Evgeni,1x 7) Lamb And Beef Fiery Kreuzberg; 1x 8) Lamb And Beef Scorching Kreuzberg,2,17.78,1.82,0,,0.00,19.60,A7EB547D-1A9A-4D16-B5A2-70F0E012B115,PFOV3a0uHBh9nFVBqsiU4KveV,South Lake Union,Evgeni
+04/30/2021 12:50 PM,Jm,1x Berliner Lamb and Beef Salad,1,10.39,1.06,0,,2.86,14.31,99307E93-E2DC-4BFA-A7B9-44A5603FDEEE,NqTCrH5bVWJZUKjKi55rBgreV,South Lake Union,Jm
+04/30/2021 12:43 PM,Derek,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,E156A831-D12D-4798-A7A0-DA6E80BC6E7B,bfUdCV0vECUXPeU3A3a1Ue4eV,South Lake Union,Derek
+04/30/2021 12:42 PM,H,1x 1) House Chicken; 2x 5) House Lamb & Beef,3,25.67,2.63,0,,4.24,32.54,F8ED5E67-3CDF-405F-B536-833AE6FFC635,b9tsl0o00wz8uH7KhkBgtCkeV,South Lake Union,H
+04/30/2021 12:37 PM,Albert,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,0.00,9.80,A5F01C7B-07A1-4CCE-9282-0A86A6C48970,VYKbdwYCwQx2wZRWUR07qMfeV,South Lake Union,Albert
+04/30/2021 12:30 PM,Vp,2x Bottle Mexican Coke,2,5.50,0.56,0,,0.00,6.06,F57FF3EB-544B-4114-A2FB-637287D1E403,TXU8djIJyOil17FT3l0INEqeV,South Lake Union,Vp
+04/30/2021 12:26 PM,Cody m,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,2A4EA333-5B3B-4D6E-8578-80CE33F7A856,lYo6Odih75tlx2p9NdHId63eV,South Lake Union,Cody m
+04/30/2021 12:22 PM,Hannah,1x 7) Lamb And Beef Fiery Kreuzberg,1,9.89,1.01,0,,1.00,11.90,1B63E1A9-F236-4DB6-B4DA-44C4FD36FD1A,ZItLmewYkqf0FkaqbhMwJL9eV,South Lake Union,Hannah
+04/30/2021 12:12 PM,Eddie,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.00,10.80,4960BFA4-8277-418F-8EBA-BF943278112E,PLHURaQ4Cbi3OwKtisXhrIAfV,South Lake Union,Eddie
+04/30/2021 12:11 PM,Noori,2x 6) Lamb And Beef Berliner,2,17.78,1.82,0,,2.94,22.54,EB4E3222-131E-449C-8324-B0766A49B0E0,9yttC855nhXjGP3CuHparMneV,South Lake Union,Noori
+04/30/2021 12:05 PM,E,1x 8) Lamb And Beef Scorching Kreuzberg; 1x Bottle Mexican Coke,2,11.64,1.19,0,,1.92,14.75,FCBE2079-66FA-4D4B-92A1-73F3810C8D44,bhJpZMgI4MlCnpafvSc4RHoeV,South Lake Union,E
+04/30/2021 11:55 AM,Tim,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,2.45,12.25,D973B5C3-3E24-41EB-937C-3C432BB54EF2,xqstU7CKdPvBkbjV5Lcvyc8eV,South Lake Union,Tim
+04/30/2021 11:54 AM,Mike,1x 5) House Lamb & Beef,1,8.89,0.91,0,,0.00,9.80,E9B546CB-B635-4391-A31C-C649D3430DC8,7jkIqNcGPAzBGcFfCAcrBbpeV,South Lake Union,Mike
+04/30/2021 11:54 AM,Dan,1x 6) Lamb And Beef Berliner,1,9.39,0.96,0,,1.55,11.90,FCA4EDA4-07AE-42A3-89E3-8C87821094DC,J0v3aGIbKQ61YFadwjlFlAxeV,South Lake Union,Dan
+04/30/2021 11:53 AM,Pat,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,38D92ACB-1F03-4B3F-8ADF-B51914C632F0,vVgg8qF3uTuF67o5ZYyXFx3eV,South Lake Union,Pat
+04/30/2021 11:47 AM,Noori ,1x 6) Lamb And Beef Berliner; 1x 6) Lamb And Beef Berliner; 2x Bottled Water,4,24.78,2.54,0,,4.10,31.42,FD103ADD-604E-47B6-B4B8-A20BDFA820A6,Rwrdd6ck26886KYzDu8DJvieV,South Lake Union,Noori 
+04/30/2021 11:46 AM,Amit,1x 2) Chicken Berliner,1,8.89,0.91,0,,0.00,9.80,4ED3A141-0403-43AC-9C16-79BB6EC6CF23,pgpFuI1ftH3IIbv6XWLfkUueV,South Lake Union,Amit
+04/30/2021 11:45 AM,Brian,1x 3) Chicken Fiery Kreuzberg; 1x 6) Lamb And Beef Berliner,2,17.78,1.82,0,,0.00,19.60,03F1E391-BD70-4D92-8FE0-A700ACD4EFEF,HDpgYf0slUNGeeDYGOn2ldqeV,South Lake Union,Brian
+04/30/2021 11:39 AM,Larry,1x 2) Chicken Berliner,1,8.89,0.91,0,,0.00,9.80,8412224D-0F07-4384-BBB9-1902AF30C52A,paSdlzxYuUIjb5YMjDMvz0qeV,South Lake Union,Larry
+04/30/2021 11:29 AM,Kim,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,B297E893-5128-471C-85C4-586048C756BC,vd46Yk9LoVS0FHrG7kJvWqkeV,South Lake Union,Kim
+04/30/2021 11:19 AM,Prince,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,B8496C33-FA05-45B0-AD9A-1D952029A814,3JgQe0bdb40HyxbahFszK00eV,South Lake Union,Prince
+04/30/2021 11:16 AM,Conor,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.96,11.76,63D77C46-ED2C-4BDB-9567-5B82492A01DC,dYAvr7p2Tjdls3IHHM6lttoeV,South Lake Union,Conor
+04/30/2021 11:10 AM,RT,2x 3) Chicken Fiery Kreuzberg,2,16.78,1.72,0,,0.00,18.50,1C682666-7A00-4C30-AE79-BB550F977AB6,t0QkCUIFs0AGu8pLh36d7aheV,South Lake Union,RT
+04/30/2021 11:06 AM,Alex,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,8B67BA5D-4257-49F0-AFE9-D280BD396F84,Rwtqb2w2fTeCtezIDHF0UsveV,South Lake Union,Alex
+04/30/2021 11:06 AM,Dai,1x 3) Chicken Fiery Kreuzberg; 1x Can Coke,2,9.14,0.94,0,,1.51,11.59,0659018D-CDA3-431F-84DE-DC70935FE791,NQ8NzdUCkp41WaPrKsiEF26eV,South Lake Union,Dai
+04/29/2021 06:37 PM,Gang,1x 9) House Tofu/Feta,1,7.25,0.74,0,,0.00,7.99,9185FFF8-FA8A-4827-9EA4-63D11C0F2D07,fxmSC79m2pqs57ncjNXcBTweV,South Lake Union,Gang
+04/29/2021 06:36 PM,Gang,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,61FB5F4D-13DC-4F03-B650-6C4F29B0AA17,963441LkNQPshOnm27n4I65eV,South Lake Union,Gang
+04/29/2021 06:01 PM,G,1x Side House Bread,1,1.50,0.15,0,,0.00,1.65,C9E97662-B701-470A-9BAC-6C55D4A734DC,jj8Pxf3u7vKGjM1swv4Z5rfeV,South Lake Union,G
+04/29/2021 05:55 PM,Dan,1x 5) House Lamb & Beef; 1x 6) Lamb And Beef Berliner,2,17.78,1.82,0,,3.92,23.52,79FC425A-54C1-428D-89CA-3A13CF3514BF,lkknXNOvAcYk2A32lSmVEPoeV,South Lake Union,Dan
+04/29/2021 05:44 PM,Sam,1x Chicken Platter; 1x Lamb/Beef Platter,2,20.78,2.13,0,,0.00,22.91,72682B95-971D-4AC3-B276-791D06E7021E,z3YYGki1u0hhvIgfz9FKxmleV,South Lake Union,Sam
+04/29/2021 05:39 PM,Daniel,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,F7178BA2-2E16-4AC0-A862-6B57D5E189DB,fFqZDxzyzx386IZGKwk1IdteV,South Lake Union,Daniel
+04/29/2021 05:38 PM,Ian,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,CA7150E0-A62A-4377-8D8D-ECAC1BD7C5B3,rTCPnuyjo3SALJCHpXoPShleV,South Lake Union,Ian
+04/29/2021 05:19 PM,Eddy,1x Lamb/Beef Platter,1,10.89,1.12,0,,1.80,13.81,4DE370D1-0C91-428B-9919-55808F5D3F89,tOlyZZoCkJOdL79dLUYQuKgeV,South Lake Union,Eddy
+04/29/2021 05:07 PM,Naumaan,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,0.00,9.80,8F3575BB-F331-4B98-B7C7-729278DD4A6E,FK90ISO7w8PJHmuyRsx2KJxeV,South Lake Union,Naumaan
+04/29/2021 04:49 PM,Amanda,1x Lamb/Beef Platter,1,12.39,1.27,0,,0.00,13.66,0D632817-2ECF-4030-82EC-4ED28D24F248,tgYRUQqdjSRNMcSM9lflSFyeV,South Lake Union,Amanda
+04/29/2021 03:47 PM,Phil,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.00,10.80,240271BE-ACC7-48B2-A2DC-4F43BD5F6349,daFb6myyb5pU8ullj76KLpveV,South Lake Union,Phil
+04/29/2021 03:36 PM,Simeon,1x 2) Chicken Berliner,1,10.39,1.06,0,,1.72,13.17,D51015FD-BF14-49D2-AE27-5E6C8408B646,PjdDEvVbGKLrSb1XSBvyfZveV,South Lake Union,Simeon
+04/29/2021 03:35 PM,Elizabeth ,2x 7) Lamb And Beef Fiery Kreuzberg,2,18.78,1.92,0,,0.00,20.70,252F5FAC-6EEF-488A-9BB4-EBEEA1C9DFBD,nxAOHSfdi1pY3IAO9bblgN0eV,South Lake Union,Elizabeth 
+04/29/2021 03:11 PM,Rob,1x 5) House Lamb & Beef; 1x 6) Lamb And Beef Berliner; 2x Can Coke; 1x Chips,5,25.28,2.59,0,,5.57,33.44,33439D9E-1C28-4F42-8095-30DB40DB8E64,J83ZiGmfPOMiJR1BT4O80RveV,South Lake Union,Rob
+04/29/2021 02:18 PM,Isaac,1x 1) House Chicken,1,7.89,0.81,0,,1.30,10.00,AC867FCF-3028-432C-8F10-EC9454FBD295,zFpV0RSuBv9hrFf9zZjR33oeV,South Lake Union,Isaac
+04/29/2021 02:17 PM,Vin,1x 2) Chicken Berliner,1,8.39,0.86,0,,0.00,9.25,DEC80D6F-B23A-4700-B5E0-95910FE79F2E,REPkCyU2Gf0P6fvuJPKKUVyeV,South Lake Union,Vin
+04/29/2021 02:17 PM,Rahma,1x 6) Lamb And Beef Berliner,1,9.39,0.96,0,,0.00,10.35,FC381B16-310B-4510-A118-06B07FFF4AAC,JGg3YcPe10x0YmQDnXUQCT5eV,South Lake Union,Rahma
+04/29/2021 01:58 PM,Hans,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.47,11.27,37A39413-F772-4C82-BB40-31209B2204FC,zJx4kZiETGKnDFGJgjQ9W12eV,South Lake Union,Hans
+04/29/2021 01:52 PM,Jackson,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.50,9.20,B2B47F53-065A-479F-8A9E-453EA3F8553F,FePO7aOaU0zrJBOL7sQsiGzeV,South Lake Union,Jackson
+04/29/2021 01:44 PM,Adrian ,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,E94319E8-B255-4629-AAB6-B4082882BB10,DHcWDHdUnttAOuEakzFsfSteV,South Lake Union,Adrian 
+04/29/2021 01:30 PM,Karlo,1x 6) Lamb And Beef Berliner,1,9.89,1.01,0,,0.00,10.90,4886926B-D3EE-491C-ACF3-5BA1F80AAA32,DxNIFDZ8c9zNlQBkMtUlym0eV,South Lake Union,Karlo
+04/29/2021 01:28 PM,Anna,1x Berliner Chicken Salad,1,8.89,0.91,0,,0.00,9.80,22C9F9AE-DF9C-4A80-874D-85213F2DCF61,frx3hfL76RfAsyoikozrim8eV,South Lake Union,Anna
+04/29/2021 01:23 PM,Nick,1x 3) Chicken Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,641D839A-9225-4DD0-858A-0937504E9753,DpbxTqReH2xRL5EuZt3ztvteV,South Lake Union,Nick
+04/29/2021 01:11 PM,Jeremy,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,2.45,12.25,BC3D96C4-DA92-415C-9D88-2C0CACF46169,jPqtGTilNMfxdJm5jEG90PoeV,South Lake Union,Jeremy
+04/29/2021 12:56 PM,Kyle,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,76CF00F7-743E-44F6-9A47-4BF2BA42BE33,TPS3gGgt7fdH2yQtDdgIXqmeV,South Lake Union,Kyle
+04/29/2021 12:53 PM,Prashant,1x 10) Berliner Tofu/Feta; 2x 3) Chicken Fiery Kreuzberg,3,28.03,2.87,0,,3.00,33.90,4CFDE6A8-A655-47AB-BA01-38563AF75440,rjW9jeYnke6MfSZbtwPBDvkeV,South Lake Union,Prashant
+04/29/2021 12:53 PM,Anton,1x Lamb/Beef Platter,1,12.39,1.27,0,,0.00,13.66,7D811C12-C9FA-43DA-A780-A2DC8A21E700,xYr7DMqsxrczPZF9tqhOR5reV,South Lake Union,Anton
+04/29/2021 12:51 PM,Ken,1x House Lamb And Beef Salad,1,12.39,1.27,0,,2.05,15.71,D80204B6-31A1-4567-8C0E-E4CE7166AB9B,P5uE5qvB3kT5YVsX77sGPpxeV,South Lake Union,Ken
+04/29/2021 12:41 PM,Wimberly,1x 7) Lamb And Beef Fiery Kreuzberg; 1x 2) Chicken Berliner,2,17.28,1.77,0,,2.86,21.91,99DE01D5-630B-4968-AF71-04CF480DAD72,NmDnhXp98872PBbGW88yN17eV,South Lake Union,Wimberly
+04/29/2021 12:40 PM,Eric,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,7A7EECB5-1D47-47E2-AD06-B705D9454A64,RUPM6VN2cloyNjbQFZx5hlpeV,South Lake Union,Eric
+04/29/2021 12:38 PM,Dwight,1x 5) House Lamb & Beef,1,11.39,1.17,0,,1.88,14.44,5F15000B-FB0C-4DD2-BCCE-050850F6B46D,FunwcmnS2NPxFnDyhrvmISreV,South Lake Union,Dwight
+04/29/2021 12:35 PM,Varun,1x 9) House Tofu/Feta,1,9.75,1.00,0,,0.00,10.75,E534CEC2-9025-4DE9-91EB-D25DC19CB29A,9u5Cz994rD8MuRt8xmrxbPmeV,South Lake Union,Varun
+04/29/2021 12:34 PM,Shannon,1x 6) Lamb And Beef Berliner; 1x 1) House Chicken; 1x 7) Lamb And Beef Fiery Kreuzberg; 1x 5) House Lamb & Beef,4,36.06,3.70,0,,7.95,47.71,76E13FA6-A34D-45F1-832B-2B6398B7DC68,hwfBDDgewIZDc549CyQyZXoeV,South Lake Union,Shannon
+04/29/2021 12:29 PM,Sam,1x 6) Lamb And Beef Berliner; 1x Bottle Mexican Coke,2,11.64,1.19,0,,2.57,15.40,9ED76901-127E-4337-951B-D7CCFC2218FD,dWFki4cti0wDM4pZLSBAuIyeV,South Lake Union,Sam
+04/29/2021 12:28 PM,G,1x 9) House Tofu/Feta,1,7.25,0.74,0,,0.00,7.99,58314B09-83E9-471F-B875-2E418251C2C5,tI2cxLr7MJJTSDVxg6PHrlweV,South Lake Union,G
+04/29/2021 12:27 PM,Steve,1x 8) Lamb And Beef Scorching Kreuzberg,1,9.39,0.96,0,,0.00,10.35,5E47A21F-D150-49EE-9DCF-E59FE64B3FCC,VuTqdY67GHrr0U72itzKvAweV,South Lake Union,Steve
+04/29/2021 12:27 PM,Nick,1x 7) Lamb And Beef Fiery Kreuzberg; 1x Can Diet Coke,2,11.14,1.14,0,,1.84,14.12,0D28BBAE-5B9D-4FBB-8B6A-B8D02ECBAFBB,ts042KezLseZRvJNyREbW5geV,South Lake Union,Nick
+04/29/2021 12:26 PM,Jonah,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,6BEB64F6-A56C-4570-B5F8-2F717D17D779,X7T1GBFZL0JwUEUUnJvoXAseV,South Lake Union,Jonah
+04/29/2021 12:26 PM,Chris,1x 7) Lamb And Beef Fiery Kreuzberg,1,11.39,1.17,0,,2.51,15.07,92BB1AC6-127C-4492-BF55-02F2C4660CD4,Hxqvnw4p9MCoOjOqt9x4mNveV,South Lake Union,Chris
+04/29/2021 12:25 PM,I,1x 5) House Lamb & Beef,1,8.89,0.91,0,,0.00,9.80,B37D0F60-80D2-4443-AC74-53C03A71202F,3RGJMdt1SsjfLFZvq7qrW39eV,South Lake Union,I
+04/29/2021 12:25 PM,Connor,1x 7) Lamb And Beef Fiery Kreuzberg,1,11.39,1.17,0,,1.88,14.44,A650CEA3-B6DB-41E6-9CE5-B2AC24BDDDC8,xm23AyTEjXUdo9oP4Q95ca0eV,South Lake Union,Connor
+04/29/2021 12:24 PM,Alex,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,0CE9BB5E-C358-470E-BD94-C8ABE91C600A,dkkWpa6fgk38yUF2UIjuckweV,South Lake Union,Alex
+04/29/2021 12:19 PM,Billy ,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,0.00,9.80,2D84361E-5F7F-4E5F-A45B-0BEEDDE92CD4,1UWIWehSBAhLGS5R0T1caXAfV,South Lake Union,Billy 
+04/29/2021 12:16 PM,Nauris ,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,13FB4F9D-A079-4D30-92F3-54F52974C21F,ZieJoiTtzMjtl4nndNdiTG1eV,South Lake Union,Nauris 
+04/29/2021 12:12 PM,Mike k,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,E8103607-439A-4661-8800-EFAEE9B0C131,TZrdCmzGusL7AJ9z16BjQS3eV,South Lake Union,Mike k
+04/29/2021 12:12 PM,Deb,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,4DCE27C3-22F0-4710-B353-3E978F3E742F,JkxSrPlgPdU7okmCjteQX9seV,South Lake Union,Deb
+04/29/2021 12:10 PM,Sweta,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.00,9.70,ADDA222B-9C04-467D-B66C-343F6D97C92B,35G7kuJAX8Rx1rJdkuuaT45eV,South Lake Union,Sweta
+04/29/2021 12:09 PM,Nicl,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.47,11.27,2BE08B54-C021-40C2-A1F0-299A60A90778,FkK2xmuwytqNrUwo2ZrxfR1eV,South Lake Union,Nicl
+04/29/2021 12:05 PM,Kate,1x 12) Scorching Tofu/Feta,1,7.25,0.74,0,,1.60,9.59,A1D7CCD5-1DE5-4D7A-B6A9-84EE957B08B6,7rIskRKA5SAH9gRdFq0rlqieV,South Lake Union,Kate
+04/29/2021 12:05 PM,Murphy,1x 5) House Lamb & Beef; 1x Bottle Mexican Fanta,2,15.14,1.55,0,,2.50,19.19,B0BB00B1-794A-44B8-A958-CA48FCE08113,XVERjLWgdnpl7hUO2lqPgSueV,South Lake Union,Murphy
+04/29/2021 12:04 PM,Adam,1x 1) House Chicken,1,9.39,0.96,0,,2.07,12.42,8B324C70-16AF-4562-8BF7-9B2E01D1F2FF,1ClSxEVFErxNvr7f2cN4xz3eV,South Lake Union,Adam
+04/29/2021 12:03 PM,Blake,1x 7) Lamb And Beef Fiery Kreuzberg; 1x 2) Chicken Berliner,2,17.28,1.77,0,,0.00,19.05,8F7A2294-0E83-47C5-90BD-DDB6205274C1,DD2I9rtQQebGx1i18gAWsifeV,South Lake Union,Blake
+04/29/2021 11:57 AM,Tom,1x 6) Lamb And Beef Berliner,1,9.39,0.96,0,,1.55,11.90,FAC88062-5A87-405B-9496-60CAE382A992,75Frg6islZSIcIF3yDJGvXueV,South Lake Union,Tom
+04/29/2021 11:53 AM,Doug,1x 8) Lamb And Beef Scorching Kreuzberg; 1x Can Diet Coke,2,11.14,1.14,0,,2.46,14.74,72C09623-785F-461C-9B12-AF465F3FE68D,xE72YDcHHJFHn7ALm2tVYUleV,South Lake Union,Doug
+04/29/2021 11:39 AM,Prince ,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,DBC40527-3DF3-4882-A9A7-96DB8AAAD77F,NwCwhqSRQ4Wgh6AvkzYYAoqeV,South Lake Union,Prince 
+04/29/2021 11:37 AM,Brad,1x 2) Chicken Berliner,1,10.89,1.12,0,,1.80,13.81,0EDA86DF-8003-4F33-9CC2-EDB5F98D9124,F0gJjqj5gCLYeSwXRfNN8x8eV,South Lake Union,Brad
+04/29/2021 11:29 AM,Liam,3x Bottled Water,3,5.25,0.54,0,,0.00,5.79,78A6523D-9B07-40B3-9B9C-24241CCC861C,9WTb6JSuSQMocgTb2ttN7dfeV,South Lake Union,Liam
+04/29/2021 11:29 AM,Garry Sandhu,1x 9) House Tofu/Feta; 1x 10) Berliner Tofu/Feta,2,14.50,1.49,0,,0.00,15.99,7629BA6F-139F-451F-8D41-B5CE6A08145D,F2lFaFstIYAqWssICfc9xs3eV,South Lake Union,Garry Sandhu
+04/29/2021 11:22 AM,Liam,1x 5) House Lamb & Beef; 2x 7) Lamb And Beef Fiery Kreuzberg,3,26.67,2.73,0,,2.00,31.40,1CFF181D-75F7-48CA-A04E-2C3E16D74667,NIYJRnzAHEW660sVYYfx4H9eV,South Lake Union,Liam
+04/29/2021 11:21 AM,Michael,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,1.47,11.27,3A238B60-B0E0-4EFB-82D2-2F79B9B82511,v3xUsNheA9hNTWrbqzOvBW7eV,South Lake Union,Michael
+04/29/2021 11:17 AM,Vitaliy,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,BDA9987D-92E0-436B-A2D8-DC9D5E2A29AE,p8FKbxom1z9YWPHv6oFeJ0eeV,South Lake Union,Vitaliy
+04/29/2021 11:16 AM,Pei,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,9FF7FE77-733B-4B37-82B9-E11E3C168838,71pSGMc6kniTPBxJahhJrFveV,South Lake Union,Pei
+04/29/2021 11:09 AM,Jacob,1x Fiery Chicken Salad,1,8.89,0.91,0,,1.47,11.27,557F7D4E-BD8B-454A-9F83-0D714C92D754,rBRn5siklaqAAfrhtwhHwj5eV,South Lake Union,Jacob
+04/29/2021 11:08 AM,Andrew,1x Fiery Chicken Salad; 1x Can Diet Coke,2,10.14,1.04,0,,1.68,12.86,52D3C08D-EF16-4FA2-B196-332CAF2A9C24,r3MRqcBdS3osgWe5auyYzk1eV,South Lake Union,Andrew
+04/29/2021 11:06 AM,Carson,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.74,10.44,233C1416-2E42-4CA1-AB31-ABF0183CC1BD,r3uqEBQkoNCm4yhUKR6rFv5eV,South Lake Union,Carson
+04/29/2021 11:06 AM,Steve ,1x 3) Chicken Fiery Kreuzberg; 1x Berliner Chicken Salad,2,19.78,2.03,0,,1.00,22.81,94A13D0F-693F-497B-9F2F-EC980BF7EA29,XDTNnXfKMVHgEWifF5VAIg4eV,South Lake Union,Steve 
+04/28/2021 07:12 PM,Gg,1x 2) Chicken Berliner,1,10.39,1.06,0,,1.72,13.17,0818EB32-AFAC-4AD5-8BB5-CEEFCD8B5141,ZCU4CGELNHhISLNxqlg1HN2eV,South Lake Union,Gg
+04/28/2021 06:41 PM,Tansu,1x 7) Lamb And Beef Fiery Kreuzberg; 1x Bottle Mexican Coke,2,11.64,1.19,0,,0.00,12.83,FDC44C92-95BB-4C17-8032-ACEF0072164D,HBK3XZGxyFjnIC5G1xsvvXfeV,South Lake Union,Tansu
+04/28/2021 06:24 PM,G,2x 5) House Lamb & Beef,2,17.78,1.82,0,,0.00,19.60,A1E9F754-6A05-4C2C-A01A-6FF82FF95B70,BwTjNJ0hGNZYnZrEbdtE09leV,South Lake Union,G
+04/28/2021 06:23 PM,Charlie,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,1.47,11.27,C031B041-D8D7-4E82-B385-87CECA0E4B7B,PzDGoIzjPfwKGGksjOtS627eV,South Lake Union,Charlie
+04/28/2021 05:33 PM,Chris ,1x 6) Lamb And Beef Berliner; 1x Bottle Mango Lassi Drink,2,11.89,1.22,0,,0.00,13.11,A05BACC2-3BB7-49C7-B7F1-2AB1DBF4EFAE,1WtXkIHVJFNIbiUxFBGHaTveV,South Lake Union,Chris 
+04/28/2021 04:09 PM,Kat,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,429BB396-61D1-4D97-95E6-AE8F2E0C249E,LPusoOpCecCcjoLilx4y6exeV,South Lake Union,Kat
+04/28/2021 03:56 PM,G,2x Side House Bread,2,3.00,0.31,0,,0.00,3.31,85E7E92C-31A4-4DDB-9C64-D13930C4A750,RKof0JpJ8BngiBR4L6vpYJ5eV,South Lake Union,G
+04/28/2021 03:21 PM,Perry,2x 3) Chicken Fiery Kreuzberg; 2x Bottle Mexican Fanta,4,22.28,2.28,0,,3.68,28.24,0F534A1A-0356-47A7-9C71-64786F509BA2,BMV5RQApt7KmeLHBoNv9KnAfV,South Lake Union,Perry
+04/28/2021 02:59 PM,Bruce,1x 7) Lamb And Beef Fiery Kreuzberg,1,10.39,1.06,0,,1.50,12.95,55E592A3-DBFA-4B6C-9F16-B6395C3D2361,DFXmyMmzm1GN7n7H2nrs9mleV,South Lake Union,Bruce
+04/28/2021 02:58 PM,Nik,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.96,11.76,13DC41CA-6C8C-458C-8B1F-0BCEBA95270F,Z2CoZkk49K7QMrgJGTMhUC5eV,South Lake Union,Nik
+04/28/2021 01:47 PM,Nic,1x Berliner Lamb and Beef Salad,1,10.39,1.06,0,,1.72,13.17,266BC569-F406-4022-8365-E73C4B733A5E,RWGvoKFhcObdOPqI9qk6uFoeV,South Lake Union,Nic
+04/28/2021 01:45 PM,Mat,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,081B515C-69E1-4A33-A521-C45E717D2799,Vi7dTSBj1TOyGJzU8Xc2a7peV,South Lake Union,Mat
+04/28/2021 01:45 PM,Ahmet,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,4E764B04-4794-43D5-A444-8F86539E95AB,vhWIsEEnD0LxdbMxcZHyqNoeV,South Lake Union,Ahmet
+04/28/2021 01:33 PM,Hm,1x 1) House Chicken,1,7.89,0.81,0,,1.00,9.70,DDAFA8EB-5DFA-485F-80F4-221E8876AB73,FCFOGsC7ojLLlExpMj99DDheV,South Lake Union,Hm
+04/28/2021 01:23 PM,Jason,1x 1) House Chicken; 1x 11) Fiery Tofu/Feta; 2x Can Diet Coke,4,17.64,1.81,0,,0.00,19.45,5DB6A666-5718-4FBA-9C3D-C8B6DBDECEC2,vBwVkcBriB8gxbg2spXWiMqeV,South Lake Union,Jason
+04/28/2021 01:15 PM,Tyler,1x 11) Fiery Tofu/Feta; 1x Chips,2,8.75,0.90,0,,1.00,10.65,B6C026B2-AFC7-43D9-A293-23BFFB562D3A,P1Qcsm1N2NqlGhE1VE2W6txeV,South Lake Union,Tyler
+04/28/2021 01:14 PM,Nate,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,08B71686-99CB-4CAE-AA01-A997D90F6778,7HamABMQxsUnHhIIjxcbJi0eV,South Lake Union,Nate
+04/28/2021 01:12 PM,Yaw,1x 3) Chicken Fiery Kreuzberg; 1x Chips,2,9.89,1.01,0,,1.64,12.54,6AFDF6F8-925E-41F9-9164-38B48BB9B7C3,VmRHD8QsnDzmh8SzR4GSuC3eV,South Lake Union,Yaw
+04/28/2021 01:08 PM,Ana,1x 4) Chicken Scorching Kreuzberg; 1x Lamb/Beef Platter,2,18.78,1.92,0,,0.00,20.70,57CC693E-732B-4318-A1C8-829D3B8D256E,VGPUQLtaxcUhM5oelxpnfkueV,South Lake Union,Ana
+04/28/2021 12:52 PM,Ray,1x 6) Lamb And Beef Berliner,1,11.39,1.17,0,,1.88,14.44,C546ADE8-05CC-45A2-AA02-2E6724DC45CE,Ll3bYEAWQ8M9zBzZ7oHnAeqeV,South Lake Union,Ray
+04/28/2021 12:42 PM,Ryan,1x 1) House Chicken,1,8.89,0.91,0,,1.47,11.27,9CC61799-E3BB-42B5-8F0F-329FF1EF4952,92tom9IPAK9B99GWK0o4LMveV,South Lake Union,Ryan
+04/28/2021 12:40 PM,Eric,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.96,11.76,5ABF770B-4572-4C77-9599-5543F7187F90,nXtROMjchr85L20xw88RYM9eV,South Lake Union,Eric
+04/28/2021 12:40 PM,Linda,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,1.96,11.76,65881920-FCE0-499E-A364-8B3CA2B6D517,Zey88kk7uQ2eIKOOk519qYpeV,South Lake Union,Linda
+04/28/2021 12:32 PM,Felix,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,0.00,9.80,036DA460-F941-4285-A157-B4AD7F1F2EDF,7TcK18ThU9SFdJ1HcZfAVJueV,South Lake Union,Felix
+04/28/2021 12:31 PM,Mo,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,CA8BCD71-0D4E-49B6-B7C6-E2484FE5F02A,nfPSlluxmsqLZEdCK4F0CNteV,South Lake Union,Mo
+04/28/2021 12:31 PM,Victor,1x Can Coke Zero; 1x 3) Chicken Fiery Kreuzberg,2,9.14,0.94,0,,1.51,11.59,D56C2078-637F-4D8E-AFA8-56571F6FAA0F,9cA0y2T70IgrbXZvn0ooBZieV,South Lake Union,Victor
+04/28/2021 12:30 PM,Anatolie ,1x 2) Chicken Berliner; 1x Bottle Mexican Coke,2,13.14,1.35,0,,2.90,17.39,6B3052D5-2FC9-4129-874C-35F72AE7F613,P5sX9LXujDmrvGIK1IUWsO6eV,South Lake Union,Anatolie 
+04/28/2021 12:15 PM,Ram,1x Berliner Chicken Salad,1,8.89,0.91,0,,1.96,11.76,8D7ACBDC-B5C9-4ABF-BB5D-AB6784DDE1CF,XZCZUXdAto7QzYI3xj9GlS3eV,South Lake Union,Ram
+04/28/2021 12:09 PM,Prashant,1x 10) Berliner Tofu/Feta,1,7.25,0.74,0,,1.00,8.99,B57162D2-C4CF-4C0D-ADF6-7446F6932101,jPQCV0PfUghEsQ0CIA3IwfzeV,South Lake Union,Prashant
+04/28/2021 12:08 PM,Dom,1x 6) Lamb And Beef Berliner,1,9.89,1.01,0,,1.00,11.90,8CAAEED5-B2D0-4626-BE63-178C7F304225,tksYxTSymHDoSSWcudla0QxeV,South Lake Union,Dom
+04/28/2021 12:04 PM,Zach,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,C99FA075-4D1B-47BF-95CE-9810F568CDE9,PdQyWNINK45UItjOKlLPeOneV,South Lake Union,Zach
+04/28/2021 12:02 PM,Kaylie,2x 6) Lamb And Beef Berliner,2,17.78,1.82,0,,2.94,22.54,E697EDAD-92DA-40EC-9178-71AB3F20AE54,5eKCjaCqFTRVxCgNYhqZw90eV,South Lake Union,Kaylie
+04/28/2021 11:58 AM,Matt,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,2B739DC4-FEC4-46D3-A15D-C06756EFA739,J0xIq6sz8eyF5VioQn5vWNzeV,South Lake Union,Matt
+04/28/2021 11:43 AM,Michelle,1x Fiery Lamb & Beef Salad; 1x House Chicken Salad,2,20.28,2.08,0,,2.00,24.36,1F69A234-A83C-4EB0-A23C-FA5B32A08C40,9EcWBOh7tO6KyKAemxc17MmeV,South Lake Union,Michelle
+04/28/2021 11:41 AM,Dylan,1x 6) Lamb And Beef Berliner; 1x Can Coke,2,10.14,1.04,0,,1.00,12.18,161147F7-C313-4F7F-9509-5069EEDCDBFB,jPQe1pXw8GP7OPCdw5p6lw8eV,South Lake Union,Dylan
+04/28/2021 11:39 AM,Josh,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,149A3B7C-2F0D-46DA-B0FD-EB624AE4F062,TVp7d0ZFknyzsvSDvlWEZdAfV,South Lake Union,Josh
+04/28/2021 11:35 AM,Jeff,1x Lamb/Beef Platter,1,12.39,1.27,0,,2.05,15.71,291EA2F8-BE1E-4BBD-ADAD-5514FA1FA8BD,Z6801Eh5LfaWmHcjvtn7U2leV,South Lake Union,Jeff
+04/28/2021 11:34 AM,Dean,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,84A07700-C8A3-49EB-8B4C-FF9D00C0C0F6,LJd9etmjIvZVikt5f6psNwyeV,South Lake Union,Dean
+04/28/2021 11:34 AM,Josh,1x Lamb/Beef Platter,1,10.89,1.12,0,,1.80,13.81,A19D5785-055A-4359-80A6-C6BA417CC20A,BywjSn2Xwpprj7goCSe3JYueV,South Lake Union,Josh
+04/28/2021 11:27 AM,Rory,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,8DEB2E4D-D2C4-406A-B2B2-35BFF16C4CC6,NOJaWBGLQISdiV7suRaFwJweV,South Lake Union,Rory
+04/28/2021 11:23 AM,Divanshu,1x 10) Berliner Tofu/Feta,1,7.75,0.79,0,,1.00,9.54,64169066-CBB1-4E7F-9010-5687AFE93212,Fs2UegVwlQ22wLcJYmZUekfeV,South Lake Union,Divanshu
+04/28/2021 11:18 AM,Kay,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,51A2B260-3079-4B5F-B413-0B463A7BD7F2,xOS7kwvODOGZujAI3yhb2xkeV,South Lake Union,Kay
+04/28/2021 11:05 AM,Deven,1x House Lamb And Beef Salad,1,9.89,1.01,0,,0.00,10.90,90968230-F91F-425C-AB7D-755E4C78E370,PvbRlPRYxqRBh9QXu9Sp9NteV,South Lake Union,Deven
+04/27/2021 02:36 PM,Indrek,1x 3) Chicken Fiery Kreuzberg; 1x Bottle Plain Yogurt Drink,2,11.89,1.22,0,,1.97,15.08,8D95D5DF-5DF8-4767-8C6D-C7B0AAD428C6,7R11gmL1MDw7SdF1u67rwwreV,South Lake Union,Indrek
+04/27/2021 02:27 PM,Chris,2x 3) Chicken Fiery Kreuzberg,2,15.78,1.62,0,,3.48,20.88,FB92B689-132B-49AE-AED1-C8198275CF63,PjFNT7U4UgVQch9jZCKfqVteV,South Lake Union,Chris
+04/27/2021 02:14 PM,J,1x 3) Chicken Fiery Kreuzberg; 1x Side House Bread; 1x Side Garlic Sauce,3,9.89,1.01,0,,1.00,11.90,C88AA40A-CA6D-4B0A-B0BA-3284E8D47AF2,dcy9ICi1IGVbkF7sGqjRUOxeV,South Lake Union,J
+04/27/2021 01:52 PM,Rohit,1x 4) Chicken Scorching Kreuzberg,1,8.39,0.86,0,,1.39,10.64,3BD8553C-3658-4B9E-B809-EA62E6B7F93A,hEfOu4M8mnfnYHvYdQPV0PmeV,South Lake Union,Rohit
+04/27/2021 01:46 PM,Ben,1x Lamb/Beef Platter,1,10.89,1.12,0,,2.40,14.41,835DD281-D7CA-4135-BF02-22B63FB7FDDF,vBI73vZxOG4i7PO0KOqpO4weV,South Lake Union,Ben
+04/27/2021 01:45 PM,B,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,F436CB08-CBA3-49D4-978F-C1499764676B,tyjOIJR867g5sxwH14DEjYteV,South Lake Union,B
+04/27/2021 01:26 PM,Kevin,1x 6) Lamb And Beef Berliner,1,11.89,1.22,0,,1.50,14.61,F3E02E8E-F8B8-4E1D-BC86-C416E5210E8B,DRHTamohB2EqUTiMPh6wg7eeV,South Lake Union,Kevin
+04/27/2021 01:25 PM,Farah,1x 2) Chicken Berliner; 1x 6) Lamb And Beef Berliner,2,18.28,1.87,0,,3.02,23.17,3B2CF1D9-1249-4C91-A216-62233D353153,ValITBzlylGprCwTrYpH9nAfV,South Lake Union,Farah
+04/27/2021 01:24 PM,Ragu,1x 2) Chicken Berliner; 1x Can Diet Coke; 1x Chips,3,11.14,1.14,0,,0.00,12.28,3A1F3477-6E82-48C2-8715-C408C853A728,xQlMivcvG0q5Y97k8vnioWkeV,South Lake Union,Ragu
+04/27/2021 01:21 PM,Tami,1x House Lamb And Beef Salad; 1x Chips,2,11.39,1.17,0,,1.88,14.44,563F1C29-24E7-4762-B1C1-68BFE58B40FE,LxJLhiaID5DLzGq4hJfQqD3eV,South Lake Union,Tami
+04/27/2021 01:15 PM,Anton,1x Lamb/Beef Platter,1,12.39,1.27,0,,0.00,13.66,7B646383-58D7-4C30-A0EA-25B0B5E0B314,jvqx03QaOAUfNNQVT029qSyeV,South Lake Union,Anton
+04/27/2021 01:06 PM,Chung,1x Berliner Chicken Salad,1,8.89,0.91,0,,1.47,11.27,FE7722E4-709A-4267-B155-B0AB4B0BF095,FmJVrbwuagqiTDT5KN33QFxeV,South Lake Union,Chung
+04/27/2021 01:05 PM,Andy Jassy,1x 5) House Lamb & Beef,1,9.39,0.96,0,,1.55,11.90,E572DEA2-BFCA-4FB7-8CA7-FCD29D9417B8,DTmMNpeS0YjkhpIIskgrQDAfV,South Lake Union,Andy Jassy
+04/27/2021 01:04 PM,Thor,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,24630950-35F5-4B3D-8932-EF988B812AE6,fhqaxUkv5RpZi9JfwHATcL6eV,South Lake Union,Thor
+04/27/2021 01:04 PM,Brandon,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.47,11.27,FD0F13A6-79E5-4FD1-9D2D-BD4F9C3AD68D,ztHW4sC8n2Irkd9EVc4KBQheV,South Lake Union,Brandon
+04/27/2021 01:03 PM,Josh,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,1.47,11.27,9EB55E4E-BF61-4C78-8B7B-F3CBD3184DDC,xcTEEBZLUajPT5KSZNlcOlneV,South Lake Union,Josh
+04/27/2021 01:00 PM,Scott,1x 1) House Chicken; 1x Bottle Mexican Coke,2,10.64,1.09,0,,2.93,14.66,4C870695-4D4A-4E17-9D8A-8FCE59B0B553,xMjKldiJGTZt9sHPbMQeCuieV,South Lake Union,Scott
+04/27/2021 12:41 PM,Jeremiah,1x 1) House Chicken; 1x Side House Bread; 1x Side House Bread,3,10.89,1.12,0,,1.80,13.81,00196A52-07B3-4078-AA28-21B8436C9F00,1gIuoJ4QJ2aAeJHITrgU9j7eV,South Lake Union,Jeremiah
+04/27/2021 12:37 PM,Nicole,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,F797C263-B7EE-4881-AD3F-6F8BD5E6F3DA,94MR5IAcQ2xWdpxRTAb3UTgeV,South Lake Union,Nicole
+04/27/2021 12:37 PM,Rachel,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,D5D53930-F321-4BF8-91CC-62B35B2D115A,XNA3gO58Ybq0qxKnL8QzBMieV,South Lake Union,Rachel
+04/27/2021 12:36 PM,Kevser ,1x Berliner Chicken Salad; 1x Berliner Lamb and Beef Salad,2,23.78,2.44,0,,3.93,30.15,4A9A0660-7672-42C5-A7EC-26E9FF60113F,5WY5iklQBdtT0Lz7JledTBzeV,South Lake Union,Kevser 
+04/27/2021 12:33 PM,Swapsterdy,1x 2) Chicken Berliner; 1x 4) Chicken Scorching Kreuzberg,2,17.28,1.77,0,,2.86,21.91,C0CA88A4-B790-4E72-A413-8567FC09182C,HpAC4fWqx0dE2V7sN97f0vmeV,South Lake Union,Swapsterdy
+04/27/2021 12:33 PM,Erik,1x 2) Chicken Berliner,1,8.89,0.91,0,,0.00,9.80,14F95278-15E0-4889-B7FA-A79B7A5B9660,JyoIer2pPIbY9NjnqkgAgT3eV,South Lake Union,Erik
+04/27/2021 12:32 PM,Prashant,1x 10) Berliner Tofu/Feta,1,7.25,0.74,0,,1.00,8.99,63BE474F-13B5-49E8-BA4B-50DC1421EE38,tKVbVHmo5e9QPcxMfSrhS87eV,South Lake Union,Prashant
+04/27/2021 12:28 PM,Dinesh,1x Fiery Chicken Salad,1,11.39,1.17,0,,0.00,12.56,9E0FE413-AFE4-4826-B2A1-CC7AD8933C83,z3kg5JA7Nz8LWIFHo79VWGgeV,South Lake Union,Dinesh
+04/27/2021 12:25 PM,Jared,1x Chicken Platter,1,9.89,1.01,0,,1.64,12.54,C9339CFF-9E0A-424C-A808-E641805652A8,50t2vwRiKrtJnoYyZTZQURgeV,South Lake Union,Jared
+04/27/2021 12:24 PM,Nicole,1x House Lamb And Beef Salad; 1x Can Diet Coke,2,11.64,1.19,0,,1.92,14.75,C29BA351-BE96-49BD-BC64-CC433C12A0C3,1QC7EkcKiMUoLcAOythLuEreV,South Lake Union,Nicole
+04/27/2021 12:21 PM,Angela,1x Chicken Platter,1,9.89,1.01,0,,0.00,10.90,75457B48-6B31-40E4-95DE-D1538FA46974,XPNjfkrIYh0tRBOcfbJ6yyueV,South Lake Union,Angela
+04/27/2021 12:19 PM,Divanshu,1x 10) Berliner Tofu/Feta,1,7.75,0.79,0,,0.00,8.54,DC92C5A0-81C5-4921-8FF2-1103F002EDAA,RSqkL1CD4tKLCr2cDdtmG7eeV,South Lake Union,Divanshu
+04/27/2021 12:19 PM,Bhaskar,1x 11) Fiery Tofu/Feta,1,7.75,0.79,0,,0.00,8.54,12F17ED5-0A0C-4B6E-8540-30AA96DDD821,vvZOKPtN7vYqrrnpTa8FSLreV,South Lake Union,Bhaskar
+04/27/2021 12:17 PM,Jonathan,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,1C997F3D-1435-44EC-B45D-7101591FCC0A,RcpZz3AQ8kx0FViAtvBxjDueV,South Lake Union,Jonathan
+04/27/2021 12:09 PM,Joe,1x Berliner Lamb and Beef Salad,1,9.89,1.01,0,,1.00,11.90,F26B0EF9-33D7-437D-A443-46131882C02B,bXUpnFI1sYt3eBSUPB31hToeV,South Lake Union,Joe
+04/27/2021 12:08 PM,Lincoln,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,0FE5014D-04EE-4342-8D7D-2BADF4AC7D88,JMPPRKUvd9KYxgA9TLlFam1eV,South Lake Union,Lincoln
+04/27/2021 12:08 PM,Michael,1x Berliner Lamb and Beef Salad,1,9.89,1.01,0,,1.64,12.54,0F01AA6F-37EF-4FC6-A543-5E0803337931,NiprbsvNaZ2ES6JYqo8KIbxeV,South Lake Union,Michael
+04/27/2021 12:07 PM,Jeff,1x 11) Fiery Tofu/Feta,1,7.25,0.74,0,,1.20,9.19,04B46552-09F8-449E-BB8A-D3927A1CF48D,Hz3nCHjYxhQzZX7qNSQbfuoeV,South Lake Union,Jeff
+04/27/2021 12:00 PM,Garrett,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.74,10.44,B0CC09BF-1116-48F4-8B2A-9DE9F4998505,zr8Z48lCre9ZbH6DYxzUoR9eV,South Lake Union,Garrett
+04/27/2021 11:54 AM,James ,1x 4) Chicken Scorching Kreuzberg,1,7.89,0.81,0,,1.30,10.00,C59976AC-5BA2-4E3C-824A-12F78D3F589D,TxDb8bAtKyDNoUFzgyY7kS6eV,South Lake Union,James 
+04/27/2021 11:53 AM,Alex,1x House Lamb And Beef Salad,1,9.89,1.01,0,,1.10,12.00,31886364-E8B1-466C-A24A-5B3091E7366B,FEmQB1iIO7P8pVEOZOxmZWweV,South Lake Union,Alex
+04/27/2021 11:51 AM,Isaac,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,2F76ED78-2784-4285-A810-B116392B4307,J0Faq42IRvBFGKuHXK8SwQ7eV,South Lake Union,Isaac
+04/27/2021 11:44 AM,Ethan,1x 5) House Lamb & Beef,1,10.39,1.06,0,,1.72,13.17,0DFA5BA2-9605-4975-A5C0-8499BBF6C997,PReGP7AEpEL5LbESsq0VBvAfV,South Lake Union,Ethan
+04/27/2021 11:28 AM,Som,1x 4) Chicken Scorching Kreuzberg,1,10.39,1.06,0,,0.00,11.45,7892D418-C60B-45F9-AC45-34D1FC0C73B1,ZCS1pcnyfRMZrkfRQhwgcPxeV,South Lake Union,Som
+04/27/2021 11:28 AM,Hong,2x 2) Chicken Berliner,2,15.78,1.62,0,,0.00,17.40,9642FC31-670E-498D-8ED2-110404576299,hAZ23YvwzfYaWOFgmueDFfmeV,South Lake Union,Hong
+04/27/2021 11:27 AM,Jaswanth,1x 2) Chicken Berliner,1,10.39,1.06,0,,0.00,11.45,01260989-E4EE-484B-ACD2-C58D31069D29,3vz0YYJnQ8mNLsTPtBszDOmeV,South Lake Union,Jaswanth
+04/27/2021 11:04 AM,Es,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,6A558DE0-EF6D-4534-9E95-D289EDA45489,VYwyNTwLH94959eFcsxkp3yeV,South Lake Union,Es
+04/27/2021 11:04 AM,Kabir,1x 2) Chicken Berliner; 2x Can Coke Zero,3,10.89,1.12,0,,1.80,13.81,0CFE7F9D-0D56-4415-90CA-C2E4FF793237,3bRkEJAmMQzIKpr0v9M6vakeV,South Lake Union,Kabir
+04/27/2021 11:02 AM,Mack,2x 6) Lamb And Beef Berliner; 3x Can Coke,5,21.53,2.21,0,,4.75,28.49,0E38D426-4CB0-43ED-B4C8-BDF63E3CEBFF,ZGAn7cwV0Ny78ZaDX2bLOe3eV,South Lake Union,Mack
+04/27/2021 11:02 AM,Mad,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,433FD5AD-6EA4-4E4F-AD3D-5F7078F9DFBA,ZmOSHXYdry0BPcR5p6QycffeV,South Lake Union,Mad
+04/26/2021 02:36 PM,Eddie,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,21AA4B3B-51DB-4A2E-AC81-C91A4E7E5559,Hl8pMLufktskAjOMUjcogS6eV,South Lake Union,Eddie
+04/26/2021 02:34 PM,Eric,2x 2) Chicken Berliner; 1x 6) Lamb And Beef Berliner; 1x Chips,4,26.17,2.68,0,,0.00,28.85,8769CF4A-1FDF-4921-BFEF-3B17E0C41BEA,FS3rOwJ2VaQ9Pti3p0CQz7qeV,South Lake Union,Eric
+04/26/2021 02:31 PM,Jared,1x Lamb/Beef Platter,1,10.89,1.12,0,,0.00,12.01,FD23EEC0-623A-4382-BDBE-524CD7488D9C,xiCi0BSadvC1rQskkJEFIoAfV,South Lake Union,Jared
+04/26/2021 02:28 PM,R,1x 5) House Lamb & Beef; 1x 11) Fiery Tofu/Feta,2,16.64,1.71,0,,0.00,18.35,5E250266-8752-4009-82AB-B1D444506898,dwsfrfLuw1SeWzqyjr6q0FmeV,South Lake Union,R
+04/26/2021 01:54 PM,Ryan,1x Fiery Chicken Salad,1,8.89,0.91,0,,0.00,9.80,8AFD4CD8-DEFE-4B92-8299-7D93B7CFBB87,LTafz4d55Z7Yu0scb9qU21veV,South Lake Union,Ryan
+04/26/2021 01:41 PM,Brett,1x Fiery Chicken Salad; 1x Can Coke Zero,2,10.14,1.04,0,,1.68,12.86,C1ECE168-4738-4C93-9544-2F9197F2559D,rljv35AJD0O811waI2Q1oc2eV,South Lake Union,Brett
+04/26/2021 01:39 PM,Chris,1x 6) Lamb And Beef Berliner; 1x Can Coke,2,10.14,1.04,0,,1.68,12.86,BB5561CF-A3C7-4E10-BB21-B5D0D87BDF3E,LTWlnOa057fM8VoWM8abjUveV,South Lake Union,Chris
+04/26/2021 01:33 PM,Jeremy,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,2.45,12.25,927229A3-317C-4300-B208-E056BBCDFEA9,RQBOAoqcNou8kenxh9EgofxeV,South Lake Union,Jeremy
+04/26/2021 01:31 PM,Rob,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.96,11.76,379445BE-0269-4AD1-98FF-09E973F1AF4E,7HIrz5Hb7wG4fE4BsUOLHkyeV,South Lake Union,Rob
+04/26/2021 01:13 PM,Karlo,1x 6) Lamb And Beef Berliner,1,9.89,1.01,0,,0.00,10.90,EA9C2D34-A775-498C-83B6-8CFBE5C8C5DA,Pxyq8nBzOb8ho3rqphfMiyeeV,South Lake Union,Karlo
+04/26/2021 01:04 PM,Will,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,09CCC987-10AF-4473-BD4A-6D6BADE79628,LfEFJoi1jxHPMHLc40p6kOieV,South Lake Union,Will
+04/26/2021 01:02 PM,Erik,1x 2) Chicken Berliner,1,8.89,0.91,0,,0.00,9.80,3D0DDD63-F19E-47F0-934E-B8C73059782C,zR5kxfp5fPwgTqMPDUoY6p8eV,South Lake Union,Erik
+04/26/2021 12:52 PM,Kru,1x Fiery Chicken Salad; 1x 3) Chicken Fiery Kreuzberg,2,16.78,1.72,0,,2.78,21.28,C48DDBD7-F07D-4AE6-97C4-004354D6D0A3,LlPzA1QOBaqdEpWD5PERglreV,South Lake Union,Kru
+04/26/2021 12:47 PM,Nelson,1x House Chicken Salad; 1x 7) Lamb And Beef Fiery Kreuzberg; 1x 1) House Chicken; 1x 6) Lamb And Beef Berliner; 4x Can Coke Zero,8,39.56,4.05,0,,0.00,43.61,BCCBB738-496C-4103-B883-AACE2FBB0883,talv1TkbL6RATQV9kwLJkTAfV,South Lake Union,Nelson
+04/26/2021 12:37 PM,Sammy,2x 1) House Chicken,2,15.78,1.62,0,,2.61,20.01,4A75A51E-BF56-475D-B7D4-9F52BFA1CD93,Pt6HGAmlHueXkZ4utKk3LXkeV,South Lake Union,Sammy
+04/26/2021 12:37 PM,Stib,1x 11) Fiery Tofu/Feta; 1x 12) Scorching Tofu/Feta; 1x Chips,3,16.50,1.69,0,,1.50,19.69,1E741050-F4A9-4D01-9A98-93E6DC53ABB9,b9xoYppMFXqypH0WzjSGFweeV,South Lake Union,Stib
+04/26/2021 12:36 PM,Sean,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.96,11.76,CCBAD1D1-93B2-44DF-B5F2-02CC6DAE0F82,ZOYdj5QMmQXqiPo3qu6UQdzeV,South Lake Union,Sean
+04/26/2021 12:33 PM,Ian,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,2B2B73A2-B58C-437E-BE47-E052C45A7639,ntc7m8EBp3tq2hJwAFF54kieV,South Lake Union,Ian
+04/26/2021 12:30 PM,Ram,1x Berliner Chicken Salad,1,8.89,0.91,0,,1.96,11.76,18B2E8A2-9F27-4E21-B2C6-1A2EF5907F7A,1c6iPSqaSoK0oWTynK0mpf8eV,South Lake Union,Ram
+04/26/2021 12:29 PM,Nicole,1x 1) House Chicken,1,7.89,0.81,0,,1.74,10.44,878331AC-49A3-472D-9519-A1D1F26FD915,tQkRbIbtBKedsG27bkBv9AkeV,South Lake Union,Nicole
+04/26/2021 12:23 PM,Alex,1x Fiery Chicken Salad,1,8.89,0.91,0,,1.96,11.76,C063F21C-E726-4158-B443-5971D1606436,Bu4kYRNHjoJEISxEnYUVZXkeV,South Lake Union,Alex
+04/26/2021 12:22 PM,Branden P,1x 7) Lamb And Beef Fiery Kreuzberg; 1x Side Garlic Sauce; 1x Bottle Mango Lassi Drink,3,13.39,1.37,0,,0.00,14.76,CE0255FB-4B97-4933-85F6-AB53A6401469,Rs5jo4cosmoWmDmensXZxjjeV,South Lake Union,Branden P
+04/26/2021 12:20 PM,Luis Medina,1x Lamb/Beef Platter; 1x Can Coke,2,12.14,1.24,0,,0.00,13.38,DB51027D-E5CA-4EE3-B9F2-055AA583F029,bNhuNt8r398I2hEvDlCUdF8eV,South Lake Union,Luis Medina
+04/26/2021 12:19 PM,Jerry,1x Chips,1,1.50,0.15,0,,0.00,1.65,A4131ED2-C6AA-4C17-9F38-5E839AD1C9F0,zlpR0Yu67akuz0pQIwaZTQteV,South Lake Union,Jerry
+04/26/2021 12:19 PM,P,1x Lamb/Beef Platter,1,10.89,1.12,0,,0.00,12.01,990AAFCB-8487-44F9-8291-EB1BE0801CB1,54jwz40uRwTJXlm3Rg8aO4feV,South Lake Union,P
+04/26/2021 12:12 PM,Meagan,1x 3) Chicken Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,960305DA-5CED-4A0C-A939-B0F3039F618D,Ru4sBMnIOAasUuBuo9z63eleV,South Lake Union,Meagan
+04/26/2021 12:12 PM,Gio,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,0D0561AC-0019-4F98-80A1-6CE55CB161DF,R2ssNERYCNvmUS7qsRHtB22eV,South Lake Union,Gio
+04/26/2021 12:10 PM,David,1x 3) Chicken Fiery Kreuzberg; 1x 2) Chicken Berliner,2,16.78,1.72,0,,2.78,21.28,1B85C6DA-FE96-4DC2-9A05-CCED8802E371,puegsKPUVkdtTMxfvmRuwnheV,South Lake Union,David
+04/26/2021 12:08 PM,Shun,1x 6) Lamb And Beef Berliner,1,11.39,1.17,0,,2.51,15.07,9D3EE036-E79B-4297-A07F-65986CED012A,5UpWsuqXrIDoFq6HLTZLpazeV,South Lake Union,Shun
+04/26/2021 12:04 PM,Michael,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,CA181C8F-6FF1-4ABF-8BBD-A283287BA550,zBz3weFK2XzYlLzGPMfT0bzeV,South Lake Union,Michael
+04/26/2021 11:52 AM,Gabby,1x 1) House Chicken,1,8.89,0.91,0,,0.00,9.80,A571F734-16F5-43EB-B5E1-B035213D264F,DPiff3LWouM1C6W3hJdCHlreV,South Lake Union,Gabby
+04/26/2021 11:50 AM,Mikel,1x 5) House Lamb & Beef,1,8.89,0.91,0,,0.00,9.80,0088F593-321B-4594-91AC-9ABC70C996F8,jnsGFbiL1u1zmgKw3JE9h5jeV,South Lake Union,Mikel
+04/26/2021 11:47 AM,Abhi,1x 3) Chicken Fiery Kreuzberg,1,10.39,1.06,0,,0.00,11.45,4510477E-A939-4DCC-B8F4-9D710E786047,rb6xBBmby8kbuZv0L4V5qijeV,South Lake Union,Abhi
+04/26/2021 11:44 AM,Dylan,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.47,11.27,2426A829-E272-4B45-943B-1E4BB93D1FEE,Lf4dOlzNWxW4SWAHHMVQNnteV,South Lake Union,Dylan
+04/26/2021 11:35 AM,Ram,1x Chicken Platter,1,9.89,1.01,0,,0.00,10.90,083EC353-3659-41A0-9ED3-8A970A00F653,rxf4W9miXOz7tIhY8FEMGe6eV,South Lake Union,Ram
+04/26/2021 11:30 AM,Myles,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,2.18,10.88,B1322BE6-37EB-4A0C-ACD6-B6887D1BF079,TZ9Y3CiogcmworjUmUOYTdueV,South Lake Union,Myles
+04/26/2021 11:24 AM,Prashant,1x 10) Berliner Tofu/Feta,1,7.25,0.74,0,,1.00,8.99,1BAAB8B3-F2A8-4A67-B8CD-A20D12C933F1,xQjBVhNi7jNeHr73dEiCdqleV,South Lake Union,Prashant
+04/26/2021 11:19 AM,John,1x 4) Chicken Scorching Kreuzberg; 1x Can Coke Zero,2,9.14,0.94,0,,0.00,10.08,C1EAB22A-ABF0-4D2B-A61E-A73496F063E0,X96IcOq6CO4emb1ABWnBv9reV,South Lake Union,John
+04/26/2021 11:19 AM,Cal,1x Can Coke; 1x 6) Lamb And Beef Berliner,2,10.64,1.09,0,,0.00,11.73,D875F2F4-6016-4C3F-A149-3451EEDCF30B,t8ijY1kq56TAN5FU45ovEn7eV,South Lake Union,Cal
+04/26/2021 11:17 AM,Mmm,1x Can Coke,1,1.25,0.13,0,,0.00,1.38,19A25740-3C65-459E-8A53-CA073FF0624B,hIz5V5516OuSSTNOohrEOCmeV,South Lake Union,Mmm
+04/26/2021 11:09 AM,Brian,1x 2) Chicken Berliner,1,11.89,1.22,0,,1.97,15.08,39F512B9-3998-4E45-8F9A-0AD37520ADC3,Xzr19SwMq04MHoSmKVFAfDseV,South Lake Union,Brian
+04/26/2021 11:09 AM,Mike,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.00,10.80,CFF0C4C2-66A2-4A24-87DB-741691C3EE4D,dy1HPGqVy7ynzDs5WnX2vT9eV,South Lake Union,Mike
+04/23/2021 06:31 PM,Ccd,1x 5) House Lamb & Beef,1,9.89,1.01,0,,0.00,10.90,13D66A72-45CF-4019-B4AC-4FBD4F49DD24,5CwEhJFTzOk0uGZ89yyFx85eV,South Lake Union,Ccd
+04/23/2021 05:26 PM,Gh,1x 6) Lamb And Beef Berliner; 1x Bottle Mango Lassi Drink,2,11.89,1.22,0,,0.00,13.11,554F041E-68E9-46C3-8998-EE88900A1AA5,H10deFaTXMMv2QZ2fhOYRameV,South Lake Union,Gh
+04/23/2021 05:08 PM,Rama,1x 1) House Chicken; 1x 2) Chicken Berliner,2,15.78,1.62,0,,2.61,20.01,30CD6914-79BC-4F25-A679-D3794C51AF41,5Y5zxLKbNOOOASrlgKG8W1veV,South Lake Union,Rama
+04/23/2021 04:38 PM,Trey,1x Chips,1,1.50,0.15,0,,0.00,1.65,351A1E0D-5367-42CE-856A-D08F91228FA9,JsJAzMwzJzCIZNWp5yyxgAleV,South Lake Union,Trey
+04/23/2021 04:37 PM,Trey,1x 3) Chicken Fiery Kreuzberg,1,8.39,0.86,0,,1.39,10.64,E08D8432-6DE2-4E2A-AE2A-AF5F4E0BE1A1,l6RgHBB6vLxKkVcuxj2KJc7eV,South Lake Union,Trey
+04/23/2021 04:31 PM,Vic,1x 4) Chicken Scorching Kreuzberg; 1x 3) Chicken Fiery Kreuzberg,2,16.28,1.67,0,,1.50,19.45,6D24A14F-E0FA-41BC-A781-6213C23328BA,3JaDhMt9WEDNRA8GkulWyvieV,South Lake Union,Vic
+04/23/2021 04:24 PM,Rohit,1x 4) Chicken Scorching Kreuzberg; 1x 11) Fiery Tofu/Feta; 1x 11) Fiery Tofu/Feta,3,23.89,2.45,0,,3.95,30.29,30584F3D-6EFB-4DE9-BCC4-F2512DFE1FED,jToviAESmYUyeZIKe4fk9TxeV,South Lake Union,Rohit
+04/23/2021 03:12 PM,Josh,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,A4CAA3CC-E7A1-4C61-904B-A7C121F0763C,bZl3qfXpkk7c44C8uRyMWP5eV,South Lake Union,Josh
+04/23/2021 02:44 PM,Colin,1x 7) Lamb And Beef Fiery Kreuzberg; 1x 10) Berliner Tofu/Feta,2,17.14,1.76,0,,1.10,20.00,FEC1A3EB-2F82-4790-8BF7-6F2BD3EC8402,lODGuqo8zZLP7nM9JwALq4qeV,South Lake Union,Colin
+04/23/2021 02:42 PM,New,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,0B5F224A-A528-4D32-9ABD-5B1D757E6DF9,jTwL4XV6sXu7hpWFJne5q19eV,South Lake Union,New
+04/23/2021 02:35 PM,Mike,1x 6) Lamb And Beef Berliner; 1x Can Coke,2,10.14,1.04,0,,2.24,13.42,4F10945C-A4BD-4C45-83DC-BF56121611A6,9uV6Ou4ABW8sejesMfvbRI5eV,South Lake Union,Mike
+04/23/2021 02:25 PM,Matin,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,0.00,9.80,BC073849-DFF4-4B94-B7A9-430EBB8C1D97,BgJw2yGszyDaQrrniyJ6HwAfV,South Lake Union,Matin
+04/23/2021 02:11 PM,Mc,1x 1) House Chicken; 1x 2) Chicken Berliner,2,15.78,1.62,0,,0.00,17.40,4F761137-E515-4386-8339-B46E032E39E0,PjH0WLcm12teLCF64U1lAtoeV,South Lake Union,Mc
+04/23/2021 01:55 PM,Vraj,1x 1) House Chicken,1,7.89,0.81,0,,1.30,10.00,51186FB7-5C09-4A2D-A843-BBB77777F6E8,5QfGIRTBHEBbka80uXim4CweV,South Lake Union,Vraj
+04/23/2021 01:54 PM,Katherine,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,277BFE4C-6966-4B40-B4E6-FC2C7B0A07D1,XbxYm21dLNeWuaFS9vs3GojeV,South Lake Union,Katherine
+04/23/2021 01:48 PM,Ernie,1x 8) Lamb And Beef Scorching Kreuzberg; 1x 6) Lamb And Beef Berliner; 1x Can Coke,3,26.03,2.67,0,,0.00,28.70,C0DE3D3C-C35D-484D-81E3-CEB5148CB953,3tspWn8eNfEps09Yz7HX9c8eV,South Lake Union,Ernie
+04/23/2021 01:45 PM,Emran,1x 1) House Chicken; 1x Chips,2,9.39,0.96,0,,1.55,11.90,E44906FE-4924-489C-BD20-7FAAC27C3C7C,hAL5Kv57BvMMI4VfA7kG3v6eV,South Lake Union,Emran
+04/23/2021 01:39 PM,Mike k,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,07A18CA1-1480-47F2-A040-F35D66E7B331,BslzEF1B7KDpeSDV4qaoqIfeV,South Lake Union,Mike k
+04/23/2021 01:38 PM,Anna,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,1C244FA1-3C8E-4036-8C53-CD2B3025C8AD,PhiMtsGEkNmjdxcL6kWGd0neV,South Lake Union,Anna
+04/23/2021 01:35 PM,Harry,1x 1) House Chicken,1,7.89,0.81,0,,1.30,10.00,FA53C788-8C1C-41EB-B80D-89D7BB899645,vRQJEavQT1sravWDcxdrsNqeV,South Lake Union,Harry
+04/23/2021 01:33 PM,Karol,1x 2) Chicken Berliner; 1x 2) Chicken Berliner,2,19.28,1.98,0,,3.19,24.45,63B9499F-5242-4238-ACCF-4B6B297564F8,huQoUEOR3ghsCxFp6CIMqJxeV,South Lake Union,Karol
+04/23/2021 01:29 PM,Dan,1x 3) Chicken Fiery Kreuzberg; 1x Bottle Mango Lassi Drink,2,10.89,1.12,0,,1.80,13.81,6E0DB737-6EC3-4DD3-BA82-7F27FC7B6F07,hGqr4tzXs1VLX2G5Vhs4e89eV,South Lake Union,Dan
+04/23/2021 01:18 PM,Utta,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.00,10.80,536EB852-DB88-49B9-9704-FC5CEE67A36F,1CdmzJWnUulfJqjf2uQQSp5eV,South Lake Union,Utta
+04/23/2021 01:12 PM,Sahir,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,29CFEB82-3975-4BB5-BB3D-287455CA2009,LtzpxKBB5kvJOZuQzsz3u4qeV,South Lake Union,Sahir
+04/23/2021 01:09 PM,Luis,1x Lamb/Beef Platter; 1x Can Coke,2,12.14,1.24,0,,0.00,13.38,DA82E9D0-1866-448E-AA51-36AA13C6801F,fDtl6UG2VfCsPuqp6cdVRb8eV,South Lake Union,Luis
+04/23/2021 01:05 PM,Brian,1x 11) Fiery Tofu/Feta; 1x Chips,2,8.75,0.90,0,,1.93,11.58,FF715AF9-2848-4E13-B7AD-04799BACB831,jJTXMZU1nRRoTR5hYNoVkDmeV,South Lake Union,Brian
+04/23/2021 01:01 PM,Evgeni,1x 7) Lamb And Beef Fiery Kreuzberg; 1x 8) Lamb And Beef Scorching Kreuzberg,2,17.78,1.82,0,,0.00,19.60,7F5B9419-4F9F-42AA-9A59-7A310D0425F1,pAXQEgFf2aIqswBuChzJHB5eV,South Lake Union,Evgeni
+04/23/2021 12:54 PM,Jmp,1x Berliner Lamb and Beef Salad,1,9.89,1.01,0,,2.72,13.62,734A505E-DB9D-4E06-ADB9-BC9D877B36B3,TvIEJ6Ltezb2OtWBVThsCRgeV,South Lake Union,Jmp
+04/23/2021 12:37 PM,Manuj,1x 11) Fiery Tofu/Feta,1,7.75,0.79,0,,1.28,9.82,92DB75E9-FA05-48F3-BD71-B887C93F7776,f54LHVrGEo5XNoxqeWFsTdmeV,South Lake Union,Manuj
+04/23/2021 12:28 PM,Michael,1x 11) Fiery Tofu/Feta,1,7.25,0.74,0,,1.20,9.19,C68D19B2-B565-48D6-B74B-63DE243026D6,HLbBtr64wf83gPIPd42uBs0eV,South Lake Union,Michael
+04/23/2021 12:28 PM,Anton,1x Lamb/Beef Platter,1,12.39,1.27,0,,0.00,13.66,73017C67-31A9-4238-B126-6350243A769F,Tzii6iJjpkMg4nulurCR1j3eV,South Lake Union,Anton
+04/23/2021 12:27 PM,Rahul,1x 3) Chicken Fiery Kreuzberg,1,8.39,0.86,0,,1.39,10.64,CB30BD77-909D-4E3F-A28C-71A85EBBE845,DJL3AzxJrNa5jeGRs9mLrPoeV,South Lake Union,Rahul
+04/23/2021 12:26 PM,Doa,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,AEBB0054-1A2B-4A62-A611-503423EC2046,Rq812Nfgb2IMJYI5lbMtN21eV,South Lake Union,Doa
+04/23/2021 12:24 PM,Divanshu,1x 11) Fiery Tofu/Feta; 1x 12) Scorching Tofu/Feta,2,15.00,1.54,0,,1.00,17.54,5BF282D9-5F0A-44E1-BD0B-FCF6BA6B7FDF,bxDocK5TurhMd4w6bTKHY62eV,South Lake Union,Divanshu
+04/23/2021 12:20 PM,James,1x 7) Lamb And Beef Fiery Kreuzberg,1,9.39,0.96,0,,1.65,12.00,1421035F-AB5B-4E60-B7E4-4A7AD18502CA,J6iXGi2Jp5TzeumBRfgOv31eV,South Lake Union,James
+04/23/2021 12:18 PM,Wenjun,1x House Chicken Salad,1,11.39,1.17,0,,0.00,12.56,38AD19E8-015E-4010-AA83-5FA985CEAE1C,vXfl9zMvH8AxRWJmvYPSRM5eV,South Lake Union,Wenjun
+04/23/2021 12:13 PM,Laura,1x 2) Chicken Berliner; 1x Side House Bread,2,10.39,1.06,0,,1.72,13.17,1595C507-4B5C-4D88-A319-928B4F893C27,BUFfvpRMdkoo0YqPTrGDuVzeV,South Lake Union,Laura
+04/23/2021 12:11 PM,Mickey,1x 6) Lamb And Beef Berliner; 1x Side House Bread,2,10.39,1.06,0,,1.72,13.17,5C09ED3D-CFB1-4E18-A565-BDEFC034D17D,39GK8mnb1BZP52BoZiJ8Vp2eV,South Lake Union,Mickey
+04/23/2021 12:10 PM,Billy,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,0.00,9.80,F30DADEF-A94F-481D-983B-714167AC19A1,v7Z1TZPUCYsoUaY3TcLeXf7eV,South Lake Union,Billy
+04/23/2021 12:03 PM,Yiannis,1x 7) Lamb And Beef Fiery Kreuzberg; 1x Can Diet Coke,2,11.14,1.14,0,,1.84,14.12,50AB9580-311F-4873-927E-8F185C6A6E27,hgL1ANxSDntyJGZcVce7hNfeV,South Lake Union,Yiannis
+04/23/2021 12:03 PM,Ire,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,4013C5E2-660E-43DE-8A66-E62CD5E3126F,PHpeJOj45rqWUsnUTE1kShjeV,South Lake Union,Ire
+04/23/2021 11:58 AM,Ritika,1x 10) Berliner Tofu/Feta,1,7.25,0.74,0,,0.00,7.99,C5DCAB00-CF66-418A-B9FA-F3830371360F,ndoftFmDzc9VvG8rS5eYLQ7eV,South Lake Union,Ritika
+04/23/2021 11:58 AM,Pavel,1x 5) House Lamb & Beef,1,8.89,0.91,0,,0.00,9.80,716EEB27-D0FA-4B69-8C11-CA652028805D,PxoVm2oDcdgjwHYfSam39LAfV,South Lake Union,Pavel
+04/23/2021 11:57 AM,Joe,1x Berliner Lamb and Beef Salad,1,9.89,1.01,0,,1.00,11.90,C09379B2-F24F-42AE-8DDB-36B9AC7F3DCA,P3vf8zkX5lcPvaw2D6RxRIAfV,South Lake Union,Joe
+04/23/2021 11:56 AM,Lincoln,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,D92AD62A-753E-4A2A-AF32-DC96117D7B0C,VUYpyTXBoqthHAR1bb9wcfseV,South Lake Union,Lincoln
+04/23/2021 11:54 AM,Jim,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.74,10.44,EF4B9487-AC8E-4C2A-AC24-E217756A17B6,bXstpEKtnkXf6xw5C9gMZareV,South Lake Union,Jim
+04/23/2021 11:35 AM,Prashant,1x 10) Berliner Tofu/Feta,1,7.25,0.74,0,,0.00,7.99,FB0DC68F-590F-4E61-BB45-B692A4327D46,BAdCOi0waG8vohEa12WxUnweV,South Lake Union,Prashant
+04/23/2021 11:34 AM,Chuck,1x 1) House Chicken,1,8.89,0.91,0,,1.96,11.76,7CD21B09-CBE5-4309-9D42-B96B8EED482F,d2Bgt6R8ar6UlZHCR6S2YG1eV,South Lake Union,Chuck
+04/23/2021 11:32 AM,Love Bug,1x 3) Chicken Fiery Kreuzberg; 1x 3) Chicken Fiery Kreuzberg,2,15.78,1.62,0,,3.48,20.88,F4D48558-5AC0-48D4-91FD-92DF84D27419,zl7ykmePajpJQqUEtNzbPW2eV,South Lake Union,Love Bug
+04/23/2021 11:26 AM,Matt,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,BC2D2726-F81E-437A-B849-20FFB9F3B092,bX8l9cT1Kmkc9Zp9J64bfa1eV,South Lake Union,Matt
+04/23/2021 11:25 AM,Nikz,1x 11) Fiery Tofu/Feta,1,7.25,0.74,0,,0.00,7.99,070D0DEB-6B61-4A2F-BF17-9220A7F681D2,5kRuQEVFDN3ivqxnmAvQv8feV,South Lake Union,Nikz
+04/23/2021 11:24 AM,Matt,1x 3) Chicken Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,5F1C16D4-1B0B-401D-B2C9-CF03E85B3565,jHc2tNjrO8rWgpAcfmhLqRfeV,South Lake Union,Matt
+04/23/2021 11:05 AM,N,1x Can Diet Coke,1,1.25,0.13,0,,0.00,1.38,DC38FFDE-0C31-4408-9357-00580E8B67D5,jlFnt0JdpOxrbfLaf8KFZCAfV,South Lake Union,N
+04/23/2021 11:04 AM,Natasha,1x 4) Chicken Scorching Kreuzberg; 1x 5) House Lamb & Beef; 1x 6) Lamb And Beef Berliner; 1x 6) Lamb And Beef Berliner,4,34.56,3.54,0,,5.72,43.82,2738450F-AA71-45AF-AEF6-0AEE91869AAF,tePjzSCgHkUV3z5aK5TJYwpeV,South Lake Union,Natasha
+04/23/2021 11:03 AM,Et,1x 3) Chicken Fiery Kreuzberg,1,8.39,0.86,0,,0.00,9.25,F5408FCC-979B-46E8-804A-E3C636E2898B,hqawBIJrchRbAiH7ppPBCuieV,South Lake Union,Et
+04/22/2021 08:00 PM,Prerna,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,DA6421EE-DC47-4591-9C05-998BD92190C6,r3It7pfJ2BLY4U1hI637UUveV,South Lake Union,Prerna
+04/22/2021 07:13 PM,Si$,1x 2) Chicken Berliner; 1x 3) Chicken Fiery Kreuzberg; 1x Can Diet Coke,3,17.03,1.75,0,,0.00,18.78,D1BBD38C-D300-4A91-A08F-73262B5F42EA,R2gswYpDCdCEmGf339YGYzeeV,South Lake Union,Si$
+04/22/2021 06:28 PM,Varun,1x 5) House Lamb & Beef; 1x 9) House Tofu/Feta,2,18.64,1.91,0,,0.00,20.55,D67477EE-EB69-47F4-92C0-899DDB8F638A,vhamEd23BX902A7KspOpVzneV,South Lake Union,Varun
+04/22/2021 05:37 PM,Viktor,1x 6) Lamb And Beef Berliner; 1x Can Coke,2,10.64,1.09,0,,1.76,13.49,D74EE5ED-14FC-43D8-8184-CEDA4CAF91C7,L70uBQDZZpt407iYtaeQnzheV,South Lake Union,Viktor
+04/22/2021 05:02 PM,Justin,1x Berliner Lamb and Beef Salad,1,13.39,1.37,0,,2.21,16.97,216C0D31-1B9A-4E7F-B8E6-25669B91F1AD,vbtdKhSxQiomJrqktWhJ2wpeV,South Lake Union,Justin
+04/22/2021 03:33 PM,Thiran,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,5AF3A80F-C5AE-4A0F-97BE-25813CCC1E2C,jbkBR6qJnmWShovT8dIK7LheV,South Lake Union,Thiran
+04/22/2021 03:18 PM,Jared,1x Lamb/Beef Platter,1,10.89,1.12,0,,1.80,13.81,F61748D1-449F-46C4-8A1E-E032794B769E,ntsVLa87UmJQldCcKNhq4tjeV,South Lake Union,Jared
+04/22/2021 03:17 PM,Ben,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.96,11.76,5F208D6E-E550-4A51-BABD-360B4BDF0B27,L1vbgkrifEZvj6fb0GufJCzeV,South Lake Union,Ben
+04/22/2021 03:05 PM,Luke,1x 6) Lamb And Beef Berliner,1,9.89,1.01,0,,2.18,13.08,1A76E1A5-5216-4E1C-87C0-C157EBCAABD8,5KEEPKLOZrO99KjI6mZs6wpeV,South Lake Union,Luke
+04/22/2021 02:52 PM,Minsoo,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,876D0E8C-9565-4D53-A7BC-27D012A4CF75,Xhm79nH1DtPTaxCAWWEbrrxeV,South Lake Union,Minsoo
+04/22/2021 02:42 PM,Prashant ,1x 2) Chicken Berliner; 1x 9) House Tofu/Feta; 1x 12) Scorching Tofu/Feta,3,22.39,2.29,0,,0.00,24.68,3C888DE8-6F46-4BC5-9149-ABA7C7F13C4B,pSg0oTuSjsy5YI2d8iAaaUAfV,South Lake Union,Prashant 
+04/22/2021 02:34 PM,Matt,1x 3) Chicken Fiery Kreuzberg,1,8.89,0.91,0,,1.96,11.76,8E230B2E-6337-4745-B36E-C89FAAA3D83D,fT9JArk2nboe1Hw182YpbKleV,South Lake Union,Matt
+04/22/2021 02:10 PM,Jared,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,2.18,10.88,EDBBA5C7-D28E-4FED-86BB-209E1C3B2CFF,T99vXs51BBv90u8MPfpL2TmeV,South Lake Union,Jared
+04/22/2021 01:58 PM,Dave,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,5F2E5AFC-DF4A-4920-8826-24490E320FFB,xMJZ1A7hn2mdNhoBggXwvxleV,South Lake Union,Dave
+04/22/2021 01:39 PM,Tami,1x 6) Lamb And Beef Berliner,1,9.39,0.96,0,,0.00,10.35,42E91AD4-BEA5-4957-9514-839A2919376B,f1OTvwCQo8t4l2vl0oU1AxgeV,South Lake Union,Tami
+04/22/2021 01:39 PM,Nick,1x 3) Chicken Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,7CC1DDB4-01D9-4E64-BDC2-EFEE4B813467,xwVA2OBQiD9wWZXEUFHZ9IleV,South Lake Union,Nick
+04/22/2021 01:33 PM,Cody,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,13C288B1-A446-4655-88E3-39D0D21681F5,PN2Lrdzlh2uphZ6njRsMPRoeV,South Lake Union,Cody
+04/22/2021 01:20 PM,Muhammad ,1x 6) Lamb And Beef Berliner; 1x Bottle Mango Lassi Drink,2,11.89,1.22,0,,1.97,15.08,E1905182-AC72-454B-9A3A-422D1B2C2CB4,TxnzfHqXqr9CEmxl4nRDHc7eV,South Lake Union,Muhammad 
+04/22/2021 01:17 PM,Clayton,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,87F37B03-CBC5-46DE-A2E2-C939DBA3D4F6,5sjRaihjUJOlOMbZA549nTgeV,South Lake Union,Clayton
+04/22/2021 01:15 PM,Will,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,27F0A7F4-8522-42D1-BCF4-84978A7FFD4C,BchdcjrxVSIWVe5lKMG9MJkeV,South Lake Union,Will
+04/22/2021 01:14 PM,Lee,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.96,11.76,E2CD79B8-2122-44D1-BDA9-69FFDD756A55,NwK6AoaLfOfYhpC7LfFRa6xeV,South Lake Union,Lee
+04/22/2021 01:09 PM,Lee,1x Berliner Lamb and Beef Salad; 1x Berliner Chicken Salad,2,21.28,2.18,0,,4.69,28.15,2D5315A5-A079-4B67-87A1-A829B99A1F5C,Tz2Oddgah1zEFWxEAXwBuU8eV,South Lake Union,Lee
+04/22/2021 12:59 PM,Joel,2x 3) Chicken Fiery Kreuzberg,2,15.78,1.62,0,,3.48,20.88,7A79167C-1F85-469F-902E-EE17132EAB01,n1EXlxCy4Qf77vPKVhnr35heV,South Lake Union,Joel
+04/22/2021 12:56 PM,Milos,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.00,10.80,A7EECCBC-15FE-4775-A3EC-FEF202C8C068,njvtX5LcwX5B4DFUD5A5Y49eV,South Lake Union,Milos
+04/22/2021 12:55 PM,Tyler,1x 2) Chicken Berliner; 1x 6) Lamb And Beef Berliner,2,17.28,1.77,0,,2.86,21.91,BC8B7A3A-906E-4656-96D1-A5EFFDEE7FC9,jrWS7GdX8uw29S9CrYVq7G1eV,South Lake Union,Tyler
+04/22/2021 12:53 PM,Amit,1x 2) Chicken Berliner,1,8.89,0.91,0,,0.00,9.80,818AD6FC-DAC8-41DF-B6B6-2D9EDEB2155E,9uzVQAI3WG80NItrLpthEMgeV,South Lake Union,Amit
+04/22/2021 12:50 PM,Jackson,1x 2) Chicken Berliner,1,8.39,0.86,0,,0.50,9.75,506415C5-C7B4-4093-9576-982AC401A8CD,9UO3ZjFm7MFLAQKzEZM4AQ8eV,South Lake Union,Jackson
+04/22/2021 12:48 PM,Mike k,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,250FE353-E993-432B-9B6D-3CE1C9815E9B,Hr3Hj8l6LhK85yqHbIOgy73eV,South Lake Union,Mike k
+04/22/2021 12:46 PM,Tuan,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,CE09627C-5C9C-40BB-8B34-A6C7214C1752,VgcyznM4b0zuOAbNXMQHhj3eV,South Lake Union,Tuan
+04/22/2021 12:44 PM,Nic,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,B1150C1E-2310-41F6-B326-6A97F16EA55D,ZodjYvfzYVoaHMCMOELxGVzeV,South Lake Union,Nic
+04/22/2021 12:43 PM,Dan,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,1.47,11.27,6A6BFED4-8398-4AE5-876C-588C3069C0CA,D1F5Sc5AgmeW1SiVCzOV1jweV,South Lake Union,Dan
+04/22/2021 12:42 PM,Jim,1x Fiery Lamb & Beef Salad,1,9.89,1.01,0,,1.64,12.54,D1B64733-1EF2-43D3-92EF-4D488412B37F,9gIvGutNcrc02yJcYSyg4c8eV,South Lake Union,Jim
+04/22/2021 12:41 PM,Jen,1x 3) Chicken Fiery Kreuzberg; 1x 12) Scorching Tofu/Feta; 2x Chips,4,18.64,1.91,0,,3.08,23.63,C400C26A-62B0-4234-A279-081199DD27B9,PTje2D5fQqrHE8lJfcX2tv2eV,South Lake Union,Jen
+04/22/2021 12:39 PM,Tom,1x 6) Lamb And Beef Berliner,1,9.39,0.96,0,,2.07,12.42,349A3462-0AC9-4B66-A070-AD40F72115E7,HzffakcW0FVnzLewfVsOS61eV,South Lake Union,Tom
+04/22/2021 12:31 PM,Dena,1x 2) Chicken Berliner; 1x Can Diet Coke,2,10.14,1.04,0,,2.24,13.42,E22D8464-AA3F-4C14-AE16-F5C4AEEF2AD9,vRoDLmbLKCwUCxoQFE5FnooeV,South Lake Union,Dena
+04/22/2021 12:20 PM,Chris ,1x 6) Lamb And Beef Berliner; 1x Bottle Mango Lassi Drink,2,11.89,1.22,0,,1.97,15.08,5023CFD6-CF9E-47F9-ABF8-8D966E5C4D48,hIRqKdKj1OIunS3TGOIEEE1eV,South Lake Union,Chris 
+04/22/2021 12:15 PM,Kasha,1x Chips,1,1.50,0.15,0,,0.00,1.65,09F42408-0282-454C-BE34-3A0FA7685CB8,d0252BOjhtolIOIUcbDTT6meV,South Lake Union,Kasha
+04/22/2021 12:12 PM,Kasha,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,2CF7D246-F31D-4BFE-ADF6-2DA41ECE7294,7hVtCo1LHTJp5lEFWZcxN87eV,South Lake Union,Kasha
+04/22/2021 12:10 PM,Billy ,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,0.00,9.80,AB169E49-E149-4FBC-9178-BD9998A558C0,dEyHAvZQKBqsK6AvDkd7KJveV,South Lake Union,Billy 
+04/22/2021 12:06 PM,Victor,1x Lamb/Beef Platter,1,10.89,1.12,0,,1.80,13.81,B11CA0A4-C0FA-4FC1-8520-A0FB4C6D19A9,XbTPLnnyCxwhzFnZbqZM6YreV,South Lake Union,Victor
+04/22/2021 12:04 PM,Purak,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,35B121DC-2555-4712-BB7F-9896F6CD6A8C,ZgvEPPwDGwi5ok2AGd9ZTLzeV,South Lake Union,Purak
+04/22/2021 12:04 PM,Prashant,1x 10) Berliner Tofu/Feta,1,7.25,0.74,0,,1.00,8.99,7FAD905C-2506-4552-9B4E-15AFBDD2CF67,tifQg1vZV0Lzu1yn8myKhBqeV,South Lake Union,Prashant
+04/22/2021 11:52 AM,James ,1x 4) Chicken Scorching Kreuzberg,1,7.89,0.81,0,,1.30,10.00,52D37CB7-3F5B-417E-A268-B92F3D38FABD,zpFwpwjKVOjpu655mdHRvameV,South Lake Union,James 
+04/22/2021 11:48 AM,Quim,1x 1) House Chicken,1,9.39,0.96,0,,0.00,10.35,5DFFB225-1DDA-4CDA-8943-B4242983DF80,5Ex8DSQ6Bwo4qcEiNIymNNpeV,South Lake Union,Quim
+04/22/2021 11:46 AM,Mad,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,646D1FEC-099A-4B34-B97E-26B08B63C882,vV6r32SyLFZczh9p71mQqF4eV,South Lake Union,Mad
+04/22/2021 11:46 AM,Logan,1x Chicken Platter; 1x Can Coke,2,11.14,1.14,0,,0.00,12.28,72A99187-D1A1-4B68-A19D-9A3C5512C5CA,vvZoJkF2nB6NFMcJaYWYq78eV,South Lake Union,Logan
+04/22/2021 11:44 AM,Mikel,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.00,9.70,CCD33C6F-AFA4-45DE-86F7-4FBAB3F5F957,f5ElHYNN9JzT3s0uoW2UUupeV,South Lake Union,Mikel
+04/22/2021 11:29 AM,Pei,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,05DB994C-F5F8-4683-BDFE-D79357B18E93,LR1BHRlvOAHkrTcjXH3wnJueV,South Lake Union,Pei
+04/22/2021 11:28 AM,Hao,1x 1) House Chicken,1,10.39,1.06,0,,0.00,11.45,834C7F96-EAFF-42F1-9323-21790834E676,F6P7rHBdXU9w6xTtDCuwPpreV,South Lake Union,Hao
+04/22/2021 11:16 AM,Dai,1x 3) Chicken Fiery Kreuzberg; 1x Can Coke,2,9.14,0.94,0,,0.00,10.08,95C39657-A235-4EEB-B50F-7BDF2451171F,3tMj3RIfkHNtGXI90GeVAsweV,South Lake Union,Dai
+04/22/2021 11:13 AM,Divanshu,1x 11) Fiery Tofu/Feta,1,7.75,0.79,0,,1.00,9.54,A5ED8673-9C97-47A2-87C3-ACD05BF19F6F,tUStoddsm1CdJHEZmkZmFtyeV,South Lake Union,Divanshu
+04/22/2021 11:12 AM,Kurt,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.47,11.27,605D9E1E-2E05-49D7-97BB-B09C9235E6C3,Zgfkn5A7dlIpTKX6RBo0eWpeV,South Lake Union,Kurt
+04/22/2021 10:58 AM,Josh,1x Lamb/Beef Platter,1,10.89,1.12,0,,1.80,13.81,42BFD836-1B41-435A-B459-10C0A28AC1DC,52cPc6FCGHWNRwJG18jtK0eeV,South Lake Union,Josh
+04/22/2021 10:58 AM,Dean,1x Lamb/Beef Platter,1,10.89,1.12,0,,0.00,12.01,E34EBD6A-501A-47E5-B3EF-FA141A79AA20,VQUyfVgkRFvyDiqC6pQ7vDpeV,South Lake Union,Dean
+04/22/2021 10:57 AM,Sam,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,A1A951FC-6EF4-451D-B4F1-CDBAF3B6459E,NkcWo0sNEVmBBhHZbui62HieV,South Lake Union,Sam
+04/21/2021 06:30 PM,Cl,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.30,10.00,DA29E36B-CE98-498A-B550-AD5165789638,RYD7p1s8c7fqTAc6vuDcJ32eV,South Lake Union,Cl
+04/21/2021 06:11 PM,John,1x 9) House Tofu/Feta; 1x Bottle Plain Yogurt Drink,2,10.25,1.05,0,,2.26,13.56,496EA160-09A3-4255-A31D-9B137CCC7A64,LPCAZMjn6MEte9ysSygOuG3eV,South Lake Union,John
+04/21/2021 06:01 PM,Chris ,1x 6) Lamb And Beef Berliner; 1x Bottle Mango Lassi Drink,2,11.89,1.22,0,,1.97,15.08,9282E3AF-7B7E-433B-BE3C-6FCEA4671463,JG0VYT3laoHwGw4ALoSW9QneV,South Lake Union,Chris 
+04/21/2021 05:36 PM,Mike,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,EF0CA109-3F6B-4197-BB5C-1854481E7DEA,58f9pXa1uFcYqfQ25lXKZR6eV,South Lake Union,Mike
+04/21/2021 05:36 PM,TJ,1x Can Coke,1,1.25,0.13,0,,0.00,1.38,9B1BC0E8-66CE-4A36-BA42-D35639C5435D,Ne5kdt9LDfIrfSkQm5U0SdueV,South Lake Union,TJ
+04/21/2021 05:36 PM,TJ,1x 1) House Chicken; 1x Chicken Platter,2,19.28,1.98,0,,0.00,21.26,D42D7102-AAAE-4287-825C-A74AD231CD64,r9r5bazGxh7bCcjZlUzVvEgeV,South Lake Union,TJ
+04/21/2021 05:23 PM,H,1x Can Coke,1,1.25,0.13,0,,0.00,1.38,0478FA7B-9FB8-4321-B302-5C533324A49F,xkTsxdJ3quqBn667IGq2IU5eV,South Lake Union,H
+04/21/2021 05:22 PM,Henry,1x 5) House Lamb & Beef,1,8.89,0.91,0,,0.00,9.80,765A46DF-E9CD-4B0F-B0B2-4CC64A7BDEB5,hsNx9CWHCTSMxg6m8T071uheV,South Lake Union,Henry
+04/21/2021 04:42 PM,Justin,1x Berliner Lamb and Beef Salad,1,13.39,1.37,0,,2.21,16.97,A3CAFFD4-30E8-4EEF-922E-D1AD7588137F,1KRuXP4O4IFzImonsZX8nEleV,South Lake Union,Justin
+04/21/2021 04:38 PM,Hm,1x 1) House Chicken,1,7.89,0.81,0,,1.00,9.70,F05706DD-5E21-4ADE-AF8E-FA9DE3E10149,J2UjZrAj73JdPMnqGvW7fYleV,South Lake Union,Hm
+04/21/2021 04:26 PM,Bernard,1x 2) Chicken Berliner,1,8.89,0.91,0,,1.47,11.27,4DF01FE8-8C6B-4D20-916B-5B3005E4631E,pc7Ly7dBX7ZHlJKmw6tz0q8eV,South Lake Union,Bernard
+04/21/2021 02:52 PM,Andrew,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,0.00,9.80,2C42AE4F-DA3F-41BE-BC5C-EE0D7A0A1598,zh9SnGVLgz5xK5d98I66w93eV,South Lake Union,Andrew
+04/21/2021 02:26 PM,Suny,1x 6) Lamb And Beef Berliner; 1x Chicken Platter; 1x Bottle Mexican Coke; 1x Bottle Mexican Fanta; 2x Chips,6,27.78,2.85,0,,4.59,35.22,F36D0EC7-67EE-476C-BF9F-0DE979FB8E9D,7hrWps7ClnsykAlDw1I6sXneV,South Lake Union,Suny
+04/21/2021 02:00 PM,Chris,1x 2) Chicken Berliner; 1x Can Coke,2,9.14,0.94,0,,1.51,11.59,78E71364-1396-43F1-834A-95B02EA8112E,nZUWljzNbBhiVoZIqpWvMXueV,South Lake Union,Chris
+04/21/2021 01:52 PM,D,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.96,11.76,8E194CE2-2399-4982-9CD7-CAC148B81759,T5Vo3TKBamJ4UWg4R25vNKoeV,South Lake Union,D
+04/21/2021 01:46 PM,David,1x 7) Lamb And Beef Fiery Kreuzberg; 1x 8) Lamb And Beef Scorching Kreuzberg; 1x Can Coke Zero,3,23.03,2.36,0,,2.00,27.39,27B63A4D-8A2D-4A79-ACC1-EBC61BB27E67,vp2Mz2AYwwIeg3nF9VQOYCqeV,South Lake Union,David
+04/21/2021 01:45 PM,David,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,43F9B22D-53CF-469C-AF09-457E15638A7E,v1AcOg8wteH7dPeUiy5uPlieV,South Lake Union,David
+04/21/2021 01:31 PM,Azfar,1x 7) Lamb And Beef Fiery Kreuzberg; 1x Bottle Mango Lassi Drink,2,11.89,1.22,0,,0.00,13.11,EA734547-87FA-41DA-98D9-9E079E324EC2,NwikBz50cX5kj0JeFiRCWJ5eV,South Lake Union,Azfar
+04/21/2021 01:18 PM,Donald,1x Lamb/Beef Platter,1,10.89,1.12,0,,0.00,12.01,2704582D-B22A-4A65-ABE7-EDDF9F371E94,XRWB2TUdKBH82eACRSRyjZweV,South Lake Union,Donald
+04/21/2021 01:17 PM,Erik,1x 2) Chicken Berliner,1,8.89,0.91,0,,0.00,9.80,C1717E9D-362C-4F74-A748-19037B381FB5,xAn1A5sCFx0XPEzDCZmxDt2eV,South Lake Union,Erik
+04/21/2021 01:16 PM,Lauren,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.96,11.76,922863E6-B85F-49B1-BF79-2AEB6A14FF6F,9YUJdVRRBMHIkRmISSbBAD4eV,South Lake Union,Lauren
+04/21/2021 01:14 PM,Muhammad ,1x 6) Lamb And Beef Berliner; 1x Bottle Mexican Fanta,2,11.64,1.19,0,,1.92,14.75,32B7D90E-3C0A-4516-AB24-A2CA1F715111,xcPkvSHJeBVJAMMW0PHQPa1eV,South Lake Union,Muhammad 
+04/21/2021 01:06 PM,Mike s,1x 5) House Lamb & Beef; 1x Can Coke,2,10.64,1.09,0,,0.00,11.73,BF2E8804-FED4-45CC-B37B-B893EEE1165F,pMVqXaZ3Vo2bJ56cnkz7KYweV,South Lake Union,Mike s
+04/21/2021 12:57 PM,Mike s,1x 5) House Lamb & Beef; 1x Can Coke,2,10.64,1.09,0,,0.00,11.73,7C0B654A-D53D-474A-B531-5283A207A284,XbJk4JQuzneWgFgTy2uf1SgeV,South Lake Union,Mike s
+04/21/2021 12:55 PM,Jj,1x 9) House Tofu/Feta,1,7.75,0.79,0,,0.00,8.54,50A54F9F-1EE0-4422-9060-23BCA8EE4553,1a5O7J0XDpGZxoCyN17NoyweV,South Lake Union,Jj
+04/21/2021 12:51 PM,Anna,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,11611803-CED3-4B29-8977-4952FF4F5485,PzXeRPUCZxPY1Su6NGdYYKieV,South Lake Union,Anna
+04/21/2021 12:49 PM,Ali,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,E7A6B1FE-33FE-498A-8B64-FF8663F99A94,TTuijiXauIMn0c2UVXRaHPAfV,South Lake Union,Ali
+04/21/2021 12:49 PM,Rob,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.96,11.76,7D76CF4D-A3A0-4000-955B-601C3DAF1AEB,Nkg2R1Qw1cep3TPLh1T8IA4eV,South Lake Union,Rob
+04/21/2021 12:48 PM,Matt,1x 5) House Lamb & Beef; 1x Chips,2,10.39,1.06,0,,1.72,13.17,6EDB59C4-C913-43BC-8D98-E5A3055F3DD9,nTp2XjVAGyv7GObY7tn69PueV,South Lake Union,Matt
+04/21/2021 12:48 PM,Mitchell,1x 5) House Lamb & Beef,1,8.89,0.91,0,,0.00,9.80,4164D0CB-4B82-47DE-8D70-5B2ECD8A614B,Df6PlMLr6flhPBXQUEyKNwreV,South Lake Union,Mitchell
+04/21/2021 12:45 PM,Ricardo,1x Fiery Chicken Salad; 1x Fiery Chicken Salad,2,19.28,1.98,0,,2.00,23.26,F1D018DE-8DCD-44AB-BD85-A1E676480E84,RQLNlWlxR8kSaRPneTXU9YqeV,South Lake Union,Ricardo
+04/21/2021 12:26 PM,Mo,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,ACE02648-1650-4581-9246-71556C2D01B7,lQm7cwwNkDfUZLkJu3zUQugeV,South Lake Union,Mo
+04/21/2021 12:26 PM,Felix,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,0.00,9.80,D2862E93-3663-4D10-B2A0-4EE0588654FF,rpRPYbwYlE1zGvyKQ4MVTHqeV,South Lake Union,Felix
+04/21/2021 12:20 PM,Heather,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,5FE6C8EC-7A6B-4EEC-ACA1-20D31C8D6A14,LFV0TrFMTCWKvV6nQLQ9s5ieV,South Lake Union,Heather
+04/21/2021 12:19 PM,Sasha,1x 8) Lamb And Beef Scorching Kreuzberg; 1x Bottle Mango Lassi Drink,2,11.89,1.22,0,,1.97,15.08,9A9D3F55-8DF4-4FE0-92C0-26F1CAAB3529,F84tupFILhpuM4KKuHye4LAfV,South Lake Union,Sasha
+04/21/2021 12:18 PM,James,2x 7) Lamb And Beef Fiery Kreuzberg; 1x Bottle Mexican Fanta,3,28.53,2.92,0,,6.29,37.74,320D4070-5C8E-4953-99F3-C853BD1C1D8E,jbwn1Ua5T8CrzEZtLpyegM7eV,South Lake Union,James
+04/21/2021 12:17 PM,Anthony,1x 8) Lamb And Beef Scorching Kreuzberg,1,10.39,1.06,0,,0.00,11.45,A3AB67E3-6979-46DC-B53C-795C28E2BFDC,tkgQ2oHGtpymowRdN7P3jo5eV,South Lake Union,Anthony
+04/21/2021 12:09 PM,Riley,1x 6) Lamb And Beef Berliner; 1x Chips,2,11.89,1.22,0,,1.97,15.08,B2F9CCD7-607D-466E-819C-0BA9EFA56CD4,tibIjC4dKGpw1Fqd4UUndA9eV,South Lake Union,Riley
+04/21/2021 12:08 PM,Sheila,1x House Chicken Salad,1,8.89,0.91,0,,1.47,11.27,E9E6139D-5671-48FA-A2DD-F3712E58D81E,XFENNUZ3gusgoPr6dNnkIdweV,South Lake Union,Sheila
+04/21/2021 12:08 PM,Mark,1x 1) House Chicken; 1x 3) Chicken Fiery Kreuzberg,2,15.78,1.62,0,,0.00,17.40,07EEBF03-01AA-40C8-AF71-F11D2A956AED,B4tQkqzPeESoUrjGUOZEsz3eV,South Lake Union,Mark
+04/21/2021 12:02 PM,Bruce,1x 7) Lamb And Beef Fiery Kreuzberg; 1x Can Coke,2,10.64,1.09,0,,2.35,14.08,8ACB088E-3C58-4934-B861-FEC2BACD80E1,tEMy0urqWvbQsHDib6tvha4eV,South Lake Union,Bruce
+04/21/2021 11:59 AM,Alex,1x 1) House Chicken; 1x 6) Lamb And Beef Berliner,2,16.78,1.72,0,,3.70,22.20,9232A2DB-508B-4D93-B9D1-6B505B7E2AF9,LR3u9DaZXTM4WDjjHsI03epeV,South Lake Union,Alex
+04/21/2021 11:54 AM,Kendra,1x 10) Berliner Tofu/Feta; 1x 11) Fiery Tofu/Feta,2,14.50,1.49,0,,3.20,19.19,91C1FA88-7B37-4AF9-8835-5D8748844CE6,5cVSepoFZco14wTAB8R42BzeV,South Lake Union,Kendra
+04/21/2021 11:53 AM,Jen,1x Fiery Chicken Salad,1,11.39,1.17,0,,1.88,14.44,E03893CB-7AA9-4AB2-BC57-EFFF39D13902,fvvPGz1m9vC1ACNUx9jqrlreV,South Lake Union,Jen
+04/21/2021 11:47 AM,Ram,1x Chicken Platter,1,9.89,1.01,0,,0.00,10.90,E000F2D3-1F3F-4279-AFAC-D019CCE83B0F,nD50wLlEh6lE8QdTc9dYAnAfV,South Lake Union,Ram
+04/21/2021 11:36 AM,Mogley,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.00,9.70,A9C9D3E4-DA32-4199-A698-97A4055676B8,hSop5dV4FSfc2WB8iIDvMrzeV,South Lake Union,Mogley
+04/21/2021 11:35 AM,Kahhhteeee,1x 4) Chicken Scorching Kreuzberg,1,7.89,0.81,0,,1.30,10.00,3479654F-3C24-46AD-B96D-2CA025754834,1qfhn209Bc2CEoRxJfJ9TpmeV,South Lake Union,Kahhhteeee
+04/21/2021 11:35 AM,Morgan,1x Fiery Chicken Salad,1,10.39,1.06,0,,1.72,13.17,525F54EB-34F2-4E1D-8256-FE3824C456E8,lgOD0igcjPYKXSBpYRT1rZkeV,South Lake Union,Morgan
+04/21/2021 11:32 AM,Ram,1x Berliner Chicken Salad,1,8.89,0.91,0,,1.96,11.76,8A6716C1-0692-4649-983F-4517347A6CFA,hIhymD8aHYFth2caVfIJzv2eV,South Lake Union,Ram
+04/21/2021 11:29 AM,Marty,1x Lamb/Beef Platter,1,10.89,1.12,0,,0.00,12.01,22A6EB4B-5ECB-4A89-9588-ED34AA06C560,5qYMQdPZG89bjqXRxO9bmrmeV,South Lake Union,Marty
+04/21/2021 11:24 AM,Michael,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,1.47,11.27,384EACF5-11B1-40E8-BB87-D87AA5D33024,tCrGGsepbKBzc6M1Dux280ueV,South Lake Union,Michael
+04/21/2021 11:15 AM,Dan,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,FC467FE3-BBDE-40C7-95D5-BD48765D87FC,Nkmf4XwgJqN5SCvdgkxvLvneV,South Lake Union,Dan
+04/21/2021 11:15 AM,Jeff,1x Lamb/Beef Platter,1,12.89,1.32,0,,0.00,14.21,B2144940-F8B9-4A5C-8B2C-8CCAB2297BA0,xmAk4sTwO4Twk5vVQjFmu5reV,South Lake Union,Jeff
+04/20/2021 02:24 PM,Abu,1x Chicken Platter,1,9.89,1.01,0,,1.64,12.54,65F4C770-D4F1-40D8-9112-232533D26BB0,fPhcu8fnRf2RFNKjl2Okjg7eV,South Lake Union,Abu
+04/20/2021 02:03 PM,Brett,1x Chicken Platter; 1x Can Diet Coke; 1x Side Chili Yogurt Sauce,3,11.64,1.19,0,,1.92,14.75,AE34DC04-AA77-4AEE-95BD-3D6D0598F9A9,F4yVn7lgaIRpUSiY2zaiy0jeV,South Lake Union,Brett
+04/20/2021 01:54 PM,Mike,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,D02B4741-92F3-4F2A-B084-4A35A8BCA5A8,fVU8e2L1QJFdfcpgX9Didu4eV,South Lake Union,Mike
+04/20/2021 01:35 PM,Varun,1x 9) House Tofu/Feta,1,9.75,1.00,0,,0.00,10.75,8EDD07E2-73F7-47E8-AD3D-3E08F3D83F81,JchkJCsphadChKjtzeJma2jeV,South Lake Union,Varun
+04/20/2021 01:32 PM,B,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,69CAA22A-3952-4E8D-9E29-F8BB9FCD9520,TVHuVVmmdcxtQHTaPotQrEweV,South Lake Union,B
+04/20/2021 01:26 PM,Alyssa,1x Can Coke,1,1.25,0.13,0,,0.00,1.38,6571192A-F5C6-4193-B271-4F22218D174F,JItHvN9ku9uDqpjvhFyOnZreV,South Lake Union,Alyssa
+04/20/2021 01:24 PM,Alyssa,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,4FD783C4-1DCE-4EB6-AC9B-B0BF797D515F,vjPG5Ih95Gzeadd9aGhhtRreV,South Lake Union,Alyssa
+04/20/2021 01:24 PM,Jacob,1x 3) Chicken Fiery Kreuzberg; 1x 4) Chicken Scorching Kreuzberg,2,15.78,1.62,0,,2.61,20.01,0CC2FE20-737A-42EB-AB90-DBDEC349AE3F,BQdaQMuRi2pt3luRzqCBI6keV,South Lake Union,Jacob
+04/20/2021 01:23 PM,New sale,1x 2) Chicken Berliner; 1x Can Coke,2,9.14,0.94,0,,1.51,11.59,869AB6B3-0FB0-4767-9EBE-24924761E38E,pAFrusPAr3ebHB68FdOu3jveV,South Lake Union,New sale
+04/20/2021 01:20 PM,Y,1x 1) House Chicken,1,7.89,0.81,0,,0.00,8.70,3D6B9D49-C6D6-48A3-B6E6-8401836B0B36,jj8l66Zyi7cGXquvsViSrl8eV,South Lake Union,Y
+04/20/2021 01:20 PM,David,1x 1) House Chicken,1,10.39,1.06,0,,1.00,12.45,DEF59E1D-2183-4E83-9317-624C7A6E322A,lEmCYvL030oztJhO5ktzfkyeV,South Lake Union,David
+04/20/2021 01:15 PM,D,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,9AB42812-6012-4AD7-8E6C-4BCC01E352E1,r1hKTrK7sfL8YB2rge12kn5eV,South Lake Union,D
+04/20/2021 01:14 PM,Sachin,1x Chicken Platter,1,9.89,1.01,0,,1.64,12.54,FDAFFDC7-E8DE-451B-8120-ADA394D54E1A,VsGy2tuVdMERkpWgpk9oWKAfV,South Lake Union,Sachin
+04/20/2021 12:57 PM,Eddie,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,75C80378-3CCC-434C-9C6A-BA3A4D23ED12,XJs2OjduZUOuFPxHisCszYAfV,South Lake Union,Eddie
+04/20/2021 12:55 PM,Kyle,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,6BAEE059-8DAC-4734-A9FA-4A88D69AA603,psP5oWSFgjyx7ETDMvvfHiAfV,South Lake Union,Kyle
+04/20/2021 12:52 PM,Jonah,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,D6E7B6FC-DF61-4C42-B0E4-AACDD39720E5,XJSfppmhobUhDFVJOKNhQmxeV,South Lake Union,Jonah
+04/20/2021 12:50 PM,Mara,1x Lamb/Beef Platter,1,10.89,1.12,0,,1.80,13.81,2D7046F9-33E8-4BF3-9BFF-A0762C1D10A1,HVaaNmlOITkA84UPDztDH6yeV,South Lake Union,Mara
+04/20/2021 12:50 PM,Riley,1x 6) Lamb And Beef Berliner; 1x Chips,2,10.89,1.12,0,,1.80,13.81,FA5A3120-D7B4-4888-A52A-1F4C3E6416C9,94kpVJhFn2Yfd6xjeMv8LejeV,South Lake Union,Riley
+04/20/2021 12:47 PM,Ben,1x 7) Lamb And Beef Fiery Kreuzberg; 1x Can Coke Zero,2,10.14,1.04,0,,0.00,11.18,43D7E6D9-5CC5-4F61-904C-A304F15172AA,hID5lzvgfFIocPvsZRTvYxqeV,South Lake Union,Ben
+04/20/2021 12:44 PM,Matt,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,38352F79-42DE-4C5E-BAA9-1192E78A811A,9Gp8BYywiHCLSFpImXkPUSveV,South Lake Union,Matt
+04/20/2021 12:43 PM,David,1x Fiery Lamb & Beef Salad; 1x Can Diet Coke,2,14.64,1.50,0,,2.42,18.56,35418600-1286-4B78-9A3E-9BED938C2520,NM6PU92XPIR06CxhWURR4l0eV,South Lake Union,David
+04/20/2021 12:38 PM,Monica,1x Berliner Chicken Salad; 1x Bottle Mexican Coke,2,13.64,1.40,0,,3.01,18.05,B00D239C-2696-4675-BBD1-895EF73B0912,1Q8EK6tBWDK46xzgHjUWJh1eV,South Lake Union,Monica
+04/20/2021 12:38 PM,Tyler h,1x 6) Lamb And Beef Berliner; 1x Can Diet Coke,2,10.14,1.04,0,,2.24,13.42,0923D14A-A016-4740-82A4-55A7D4D90472,bD88SSFMBrB4C3IC7yH1sMzeV,South Lake Union,Tyler h
+04/20/2021 12:27 PM,Sedin,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,76A81CD7-5F98-4F01-AFDA-F92B91A668A1,HtWmjgPkbIsm919fKvmxcy8eV,South Lake Union,Sedin
+04/20/2021 12:25 PM,Fiona,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,2.45,12.25,A7E9724B-6408-427B-A900-4390D3CEBF15,hKg1GyiEKByoEouBekEsecmeV,South Lake Union,Fiona
+04/20/2021 12:22 PM,Billy,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,0.00,9.80,CAC8B3E3-8A15-410F-B631-7CFC55E45C3A,ZaMygIowTsj4wbMQbCIIGp1eV,South Lake Union,Billy
+04/20/2021 12:20 PM,Hans,1x 7) Lamb And Beef Fiery Kreuzberg; 1x 3) Chicken Fiery Kreuzberg; 1x Bottle Mexican Fanta; 1x Bottle Mango Lassi Drink; 1x Side Garlic Sauce,5,23.53,2.41,0,,3.89,29.83,7A6C97E7-F497-4721-A91E-AD3177012BB0,xusCLTlBkeCRxG4NUopYPs1eV,South Lake Union,Hans
+04/20/2021 12:17 PM,Michael,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,F72483FB-04A5-4ECE-BC94-7F2EB47AA15D,fX9EalcRGHP8pExUPjbVCa6eV,South Lake Union,Michael
+04/20/2021 12:13 PM,Bhumi,1x 1) House Chicken,1,8.39,0.86,0,,0.00,9.25,8A998E22-163A-45C6-86BB-1079DFD63751,RwNAMdiDQ9xFruZpoweusIseV,South Lake Union,Bhumi
+04/20/2021 12:12 PM,Maddie,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,E0C28329-5344-4CBB-96BA-1263CA5402BF,rzQqXPoqlr0NZGwRRe8pk45eV,South Lake Union,Maddie
+04/20/2021 12:12 PM,Eva,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.74,10.44,A4C1140E-0022-4EBF-97D6-392AEAABB397,JyKTzjoPVMZn7wEVEH7q1b7eV,South Lake Union,Eva
+04/20/2021 12:10 PM,Cooper,1x 1) House Chicken,1,7.89,0.81,0,,1.30,10.00,F06A54BE-3873-4846-A65F-D57488C4914B,bH8dnYX2OkbDFSnF6mIVZ6keV,South Lake Union,Cooper
+04/20/2021 12:09 PM,Michael,1x Chicken Platter,1,9.89,1.01,0,,1.00,11.90,3DB81D1D-BDA0-46B2-8C83-1C323497C45E,BaUvaoHd5BrBRliaJxUCzvpeV,South Lake Union,Michael
+04/20/2021 12:07 PM,Mary,1x 11) Fiery Tofu/Feta,1,7.25,0.74,0,,1.20,9.19,BCB84EE4-1D32-474E-87E5-4DDDA9D2A555,nrJY1u4zkTQMm4zgbJb1ip6eV,South Lake Union,Mary
+04/20/2021 12:04 PM,Pedro,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,F0C08183-8683-4869-919E-F2D048BB8548,f3n7ZUPit2kXSZuOnrIX2k4eV,South Lake Union,Pedro
+04/20/2021 12:03 PM,Nick,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,E07E2338-90C7-49DD-A760-DC38F5251054,vftwwpNutOKjEBs5v847Ys3eV,South Lake Union,Nick
+04/20/2021 12:00 PM,Eddie,1x 9) House Tofu/Feta,1,7.25,0.74,0,,1.20,9.19,F06754C9-DA9E-4319-98F0-DEB376A08842,7hRdJliMBEsVtQWoFqpsOTreV,South Lake Union,Eddie
+04/20/2021 11:59 AM,Josh,2x 6) Lamb And Beef Berliner,2,17.78,1.82,0,,0.00,19.60,55B1A2A6-73CF-4522-B70A-AB8DFB8FAF71,fj1TVhmrVVbXmQn78u6RX48eV,South Lake Union,Josh
+04/20/2021 11:52 AM,Yiannis,1x 7) Lamb And Beef Fiery Kreuzberg; 1x Can Diet Coke,2,11.14,1.14,0,,1.84,14.12,C1CB2602-37D3-4CC3-9E52-26A1272D038B,lChowpN6uA9ZS3dG6bAcye0eV,South Lake Union,Yiannis
+04/20/2021 11:51 AM,Rick,1x 7) Lamb And Beef Fiery Kreuzberg,1,9.89,1.01,0,,2.18,13.08,E411F10B-146B-47A6-85A8-17219C9FE55E,v5eeA8uNWsFULA1gD2SEUNpeV,South Lake Union,Rick
+04/20/2021 11:47 AM,Jared,1x Chicken Platter,1,9.89,1.01,0,,1.64,12.54,4F854E93-2248-4161-8F44-9B50C1971031,ZoJHlm1t1LedVOn8ftLhgG9eV,South Lake Union,Jared
+04/20/2021 11:42 AM,Pat,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,AD0142F0-348D-448D-989D-C1F8249C6524,xELo9lNrXspGLQWJfPzbuCveV,South Lake Union,Pat
+04/20/2021 11:42 AM,Konstantin,1x 3) Chicken Fiery Kreuzberg; 1x 2) Chicken Berliner,2,16.28,1.67,0,,3.59,21.54,3846E346-B48D-4077-8708-5CC3A3F7EA09,9w24jvrMHQufGvI3ttGupipeV,South Lake Union,Konstantin
+04/20/2021 11:41 AM,David,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.47,11.27,59435560-8E1E-4B5C-864C-AE6AA0761764,Nw20Yd9SWpXUg6KfcsMaASAfV,South Lake Union,David
+04/20/2021 11:39 AM,Kay,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.47,11.27,133895AB-DF22-4320-B6CF-C3DDC191A384,NWVEjSoro2VTn6v4xkpvcNteV,South Lake Union,Kay
+04/20/2021 11:36 AM,Mikel,1x 1) House Chicken,1,8.39,0.86,0,,1.00,10.25,9E66ABC4-CB9E-4A80-AC1E-EE234D15D9AD,jn2vJCviMvClR54kP1LZhj4eV,South Lake Union,Mikel
+04/20/2021 11:31 AM,Franck,1x 6) Lamb And Beef Berliner; 1x Can Coke,2,10.14,1.04,0,,1.68,12.86,FCB22F42-47C4-4C8D-A78E-D9F8EAFC6C20,rB9d3TodQPJ1Qj0ftyjfkE3eV,South Lake Union,Franck
+04/20/2021 11:31 AM,Deb,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,D71241B2-6526-4ADC-AD4A-76B304A37325,PT7o9nhnUWkhZrn7kVb0HqqeV,South Lake Union,Deb
+04/20/2021 11:25 AM,Chris,1x 2) Chicken Berliner; 1x Bottle Mexican Coke,2,10.64,1.09,0,,2.35,14.08,9AEC5D85-A08E-48D8-A0EC-81E470DAAB1F,NAyEL9VirprY8AFD2FAEyX1eV,South Lake Union,Chris
+04/20/2021 11:24 AM,Mani,2x 8) Lamb And Beef Scorching Kreuzberg,2,22.78,2.33,0,,0.00,25.11,BBA2F370-49E4-41D8-BEA3-1676ACE3CEC1,Ldb5xoNGjVJKBWVSHgSVW5ieV,South Lake Union,Mani
+04/20/2021 11:14 AM,Divanshu,1x 11) Fiery Tofu/Feta,1,7.75,0.79,0,,1.00,9.54,9A8C188A-1022-4090-B12E-218F93DA668F,H1KCh8mmPSFxBqQpI83UtKkeV,South Lake Union,Divanshu
+04/20/2021 11:03 AM,Brian,1x 6) Lamb And Beef Berliner; 1x Bottle Mexican Coke; 1x 6) Lamb And Beef Berliner,3,22.53,2.31,0,,3.73,28.57,85CF594A-C59C-49CB-A211-B6616F22BC20,FUGc5VCnh0FAZshZ1D3d740eV,South Lake Union,Brian
+04/19/2021 03:08 PM,Jeremy ,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,2.45,12.25,DE676422-913B-43B3-85D5-7AA12074D298,Rmaj5vHIMfrTuD3tJPro1k1eV,South Lake Union,Jeremy 
+04/19/2021 02:53 PM,Al,1x Bottled Water,1,1.75,0.18,0,,0.00,1.93,019CF5EF-5082-4C76-9542-AC8941AB6A19,NkmbapGPnsFxhRV28IiDK4qeV,South Lake Union,Al
+04/19/2021 02:51 PM,Al,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,1.00,10.80,4D8DCA5B-E2C9-440A-BACB-9473615FE60E,RsXwh5oLjuRg9cLoYY13kH0eV,South Lake Union,Al
+04/19/2021 02:48 PM,Nikz,1x 12) Scorching Tofu/Feta,1,7.25,0.74,0,,0.00,7.99,80DDAA72-F3BC-4770-BB45-926D9EC1A887,Dt57jtqavpdWzrH8Aqr3EhqeV,South Lake Union,Nikz
+04/19/2021 02:40 PM,Mike,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,F9C21EF6-F991-4F6E-9EF7-77A4025D073B,RsFFiKov39nUFS0bUXiitq5eV,South Lake Union,Mike
+04/19/2021 02:33 PM,D,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.74,10.44,505BFA42-46AB-4A87-9658-54F10E6B57A5,jjchK7HwhhTyaW8LHSFamy5eV,South Lake Union,D
+04/19/2021 02:30 PM,Bri,1x 1) House Chicken,1,8.39,0.86,0,,1.00,10.25,36131BC1-0B9A-4D63-96AE-23729BA6D6C2,pywCPJf5llLlQSoegeagMY7eV,South Lake Union,Bri
+04/19/2021 02:19 PM,Jon,1x 3) Chicken Fiery Kreuzberg,1,8.39,0.86,0,,1.39,10.64,EC4BD236-4BA4-4548-9CE6-BB67F15141AB,9QWSeIZAG0WplaDZ1OUe6v7eV,South Lake Union,Jon
+04/19/2021 02:07 PM,Nick,1x 3) Chicken Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,EFD21A59-F5CB-41EE-BD1B-FD8FEA87607A,R6CGpGf9aJy2b4PTknzQScpeV,South Lake Union,Nick
+04/19/2021 01:33 PM,Sean,1x 7) Lamb And Beef Fiery Kreuzberg,1,9.39,0.96,0,,0.00,10.35,D4ECEA49-31C5-4C01-9B9E-2C4CE857B1CF,jf0MzikyYtR0ntw4ckUQmS2eV,South Lake Union,Sean
+04/19/2021 01:30 PM,Scott D,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,2.45,12.25,8968AFC0-E418-4D0D-AA13-B7CBFD4A96B0,hkhNTN0dKtkQpn4gGZxCXi8eV,South Lake Union,Scott D
+04/19/2021 01:21 PM,Ram,1x Chicken Platter,1,9.89,1.01,0,,0.00,10.90,67E30F09-8FC0-455F-8338-A03ED2341B9F,njt4HuN32JuxOJZrROH10ykeV,South Lake Union,Ram
+04/19/2021 01:19 PM,Chris ,1x 6) Lamb And Beef Berliner; 1x Bottle Mango Lassi Drink; 1x Bottled Water,3,13.64,1.40,0,,0.00,15.04,CC29253B-5113-457A-8EF3-94F6C3969715,XBKBTBYJn9N2jqFBvdP01nleV,South Lake Union,Chris 
+04/19/2021 01:18 PM,Monish,1x 2) Chicken Berliner; 1x Can Coke Zero,2,9.14,0.94,0,,0.00,10.08,A7D137B6-283A-4961-874C-0BED912D43A3,L57KhSX6dhRYnK3D8hgJV88eV,South Lake Union,Monish
+04/19/2021 01:08 PM,Ty,1x 6) Lamb And Beef Berliner,1,11.39,1.17,0,,0.00,12.56,48FC9DDB-7B03-4BDD-88D4-976EFEF012F3,tSfEuyySDGqUDOqqCw2Grj0eV,South Lake Union,Ty
+04/19/2021 12:49 PM,Lemi,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,87C03691-A47C-42C8-9991-689262CC5EDF,h8vo2S7UuPxS31xWqpBfwmfeV,South Lake Union,Lemi
+04/19/2021 12:49 PM,Adam,1x 5) House Lamb & Beef,1,10.39,1.06,0,,1.72,13.17,1E18D9E6-A866-433B-B8E1-9783E0E4AA3B,p4h3kQzNOIjpiF7Wtq4BxAxeV,South Lake Union,Adam
+04/19/2021 12:44 PM,Amelia,1x 2) Chicken Berliner; 1x Can Coke,2,9.64,0.99,0,,1.59,12.22,24FC4682-82FE-4BF1-B6FA-A47EEBE9ADBD,xamakk2h826tz08RXe4kfS3eV,South Lake Union,Amelia
+04/19/2021 12:38 PM,Tim,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,2.45,12.25,B5F64461-12B3-45E3-AE6D-C95426D4F6E9,DNj4f7KScRuNr0DRyJgNLxjeV,South Lake Union,Tim
+04/19/2021 12:35 PM,Shawn,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,8FD5C5D6-DDCC-43B1-B3DC-739585006181,rnSUcMkfqxt67YgXNTu65EjeV,South Lake Union,Shawn
+04/19/2021 12:26 PM,Sol,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,4DAD2D92-167E-4AC2-A7F7-65C6C8934C07,haM3IRfCG0zNOgg6bPJjvKyeV,South Lake Union,Sol
+04/19/2021 12:23 PM,Brad,1x 2) Chicken Berliner,1,10.89,1.12,0,,1.80,13.81,5216FA61-EE18-4B0B-875C-499B2A142F2C,Pdu9sturzCrtC9qsvXnunweeV,South Lake Union,Brad
+04/19/2021 12:23 PM,Javier,1x 6) Lamb And Beef Berliner; 1x 2) Chicken Berliner,2,16.78,1.72,0,,0.00,18.50,C23AA342-EA50-4DE3-882F-1D59138B1134,71bncWryqkkB3Nor3jXoep5eV,South Lake Union,Javier
+04/19/2021 12:23 PM,Daniel,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.96,11.76,FC33BCDE-193F-424F-948A-23A637F81505,x0zoBHioy3LyvH80cZgeNlfeV,South Lake Union,Daniel
+04/19/2021 12:22 PM,D,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,98ECED97-DE95-4A7F-892A-2C0B3814FD70,BKSMPgXgO0tWIMXLKUuEQOjeV,South Lake Union,D
+04/19/2021 12:20 PM,Lisa,1x House Lamb And Beef Salad,1,9.89,1.01,0,,2.18,13.08,F403FE58-C68C-4BDB-8AC5-849CDF4E6588,VUGarjCeHTOiYMohKvuhPCgeV,South Lake Union,Lisa
+04/19/2021 12:19 PM,Scott,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.00,9.70,BDC510F2-2806-42B8-A618-51B8E3CE453C,Lv8fkv9c9zrwWOhJKe3TRu3eV,South Lake Union,Scott
+04/19/2021 12:18 PM,Kate,1x Tofu and Feta Cheese Salad,1,8.50,0.87,0,,1.41,10.78,6F87BAFB-B684-4CFB-BB87-A7573BAE082D,VmTyifNNVNdtx5Mubipe9HAfV,South Lake Union,Kate
+04/19/2021 12:18 PM,Tyler,1x Chicken Platter,1,12.39,1.27,0,,2.73,16.39,7CD5551C-E8D0-400F-89C6-6060B73CF0B2,BmAkB3JbxvCJJVTWTQwJak8eV,South Lake Union,Tyler
+04/19/2021 12:17 PM,Alex,1x Lamb/Beef Platter,1,10.89,1.12,0,,2.40,14.41,178AC7B9-812F-46E8-8551-7BC63F0197DF,FKxQPxyi50nLNA4PGMieSO0eV,South Lake Union,Alex
+04/19/2021 12:17 PM,Hashu,1x 1) House Chicken,1,8.39,0.86,0,,0.00,9.25,161F4619-2BA8-49DE-B37C-0DC9DCDE6E2D,X7twjWIu8RjBCf3EZT947qreV,South Lake Union,Hashu
+04/19/2021 12:17 PM,Carlos,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,8BBB9419-C465-439A-AF35-E035B9E47643,Z0P3p0RhmdRwpxSFuLV39XqeV,South Lake Union,Carlos
+04/19/2021 12:13 PM,Prashant,1x 10) Berliner Tofu/Feta,1,7.25,0.74,0,,1.00,8.99,A870E7CB-CF5A-471F-9F39-AD4DE671F1A8,x0XaLkwFMuegAONBDDeyIJieV,South Lake Union,Prashant
+04/19/2021 12:11 PM,Dylan,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,48C21E00-818D-4BEB-9D06-A4ABD1CA83E8,906xFM8kCTN4BA7TdTZk99peV,South Lake Union,Dylan
+04/19/2021 12:07 PM,Ryan,1x Fiery Chicken Salad,1,8.89,0.91,0,,0.00,9.80,4F908563-6413-489A-86E1-4B7FD41C8A65,hq2waag2KgieyCGVUIi8yLueV,South Lake Union,Ryan
+04/19/2021 12:06 PM,Varun,1x 9) House Tofu/Feta,1,9.75,1.00,0,,0.00,10.75,0D4081FE-8DD7-4F38-B08C-DC4A19EC335E,9SPQ5lTMmInbh8S3ASoI7HseV,South Lake Union,Varun
+04/19/2021 12:06 PM,Daniel,1x 3) Chicken Fiery Kreuzberg; 1x Bottle Mango Lassi Drink,2,10.89,1.12,0,,0.00,12.01,195F50A4-C467-41EE-8952-1E8EEEE5D624,dUY8vRtHrrsYQfe2LtHiXuseV,South Lake Union,Daniel
+04/19/2021 12:05 PM,Olivia,1x 2) Chicken Berliner; 1x 6) Lamb And Beef Berliner,2,16.78,1.72,0,,0.00,18.50,EF2A13C4-4A07-4293-AB98-DDE24C2C04C9,FUOOyOCzmlb4g3FDpVKGnqxeV,South Lake Union,Olivia
+04/19/2021 12:00 PM,Eddie,1x 9) House Tofu/Feta,1,7.25,0.74,0,,1.20,9.19,4242EBD1-D3C1-4A26-9FE3-243FD58E53AB,TXYO1jyq1Lqad9I8QrRFtapeV,South Lake Union,Eddie
+04/19/2021 11:41 AM,Ian,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,4C1623B1-21B3-4908-A92F-CE1D98134CD9,33v8gVFCE8MhKzPvSwyKjAueV,South Lake Union,Ian
+04/19/2021 11:25 AM,Conor,1x 7) Lamb And Beef Fiery Kreuzberg,1,12.39,1.27,0,,0.00,13.66,D91A7B24-BD40-4D44-AA1B-FAE114BD02C2,1qNsbfSFJALKxnabpgzoVOoeV,South Lake Union,Conor
+04/19/2021 11:22 AM,Hao,1x 1) House Chicken,1,10.39,1.06,0,,0.00,11.45,C733289A-8B75-4A9B-AEA1-1CE91A47E7DB,ZkDXAVSO0MHvHLb25KdRpb7eV,South Lake Union,Hao
+04/19/2021 11:06 AM,Spencer,1x 2) Chicken Berliner; 1x 2) Chicken Berliner,2,16.78,1.72,0,,2.78,21.28,B856F90F-DAD3-487C-9045-19658BD6529A,hSiA8I7fQGq9yhz7T18MvegeV,South Lake Union,Spencer
+04/16/2021 05:54 PM,Chris,1x 6) Lamb And Beef Berliner,1,9.39,0.96,0,,1.55,11.90,E053E5C6-3445-49B2-912B-F4EF9603E1C7,9424aeLT7gcsuwRi4BexeOleV,South Lake Union,Chris
+04/16/2021 05:10 PM,H,2x Side House Bread,2,3.00,0.31,0,,0.00,3.31,CEE16378-8A47-4DD6-AE2D-186F244B265F,xeKNF48zIlWNYywKwlG2WS2eV,South Lake Union,H
+04/16/2021 05:06 PM,Joseph,1x 5) House Lamb & Beef; 1x 6) Lamb And Beef Berliner; 1x Can Coke,3,20.03,2.05,0,,5.52,27.60,13D4DE47-A023-475C-9B4C-9D33B854E08A,fpAVWKQBFQEWbpYAdvQoYsieV,South Lake Union,Joseph
+04/16/2021 04:32 PM,Zainab,1x 6) Lamb And Beef Berliner; 2x 8) Lamb And Beef Scorching Kreuzberg; 1x 7) Lamb And Beef Fiery Kreuzberg,4,35.56,3.64,0,,0.00,39.20,6FE2C9A3-581C-4892-B1C4-62C34368195C,fbt9hAOiHZ6yPoB6uYnZ415eV,South Lake Union,Zainab
+04/16/2021 04:02 PM,Sumaya,1x Can Coke Zero,1,1.25,0.13,0,,0.00,1.38,A923EA7D-9B4A-44F1-BE04-BF970B5CC6BF,N4Yzqs8hMg5W3pXPM5ctZmxeV,South Lake Union,Sumaya
+04/16/2021 04:02 PM,Sumaya,1x 7) Lamb And Beef Fiery Kreuzberg; 1x 6) Lamb And Beef Berliner,2,17.78,1.82,0,,0.00,19.60,A1E75CF1-E2D8-4E22-B30B-818A4B4FF986,pGG4RkMtGIqnoyKt38Xg06zeV,South Lake Union,Sumaya
+04/16/2021 03:29 PM,Sam,2x 6) Lamb And Beef Berliner,2,17.78,1.82,0,,3.92,23.52,0CEB2A44-F237-42C7-B5BB-AF9C26D1A230,5QPCK72Ks60hv9xbpQKg0uqeV,South Lake Union,Sam
+04/16/2021 03:14 PM,Adell,1x Can Coke; 1x 2) Chicken Berliner; 1x 8) Lamb And Beef Scorching Kreuzberg,3,18.53,1.90,0,,3.06,23.49,B99762FF-CB55-4F3F-A21F-1DBC389CA5EF,fLHwc5Cr94K894AeCJCXjFzeV,South Lake Union,Adell
+04/16/2021 03:00 PM,Dan,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.30,10.00,17F2382A-4002-428A-88D3-0585378492BA,7tZgMau5VNCyLjE0X0GnzAAfV,South Lake Union,Dan
+04/16/2021 02:58 PM,Hugh G,1x 11) Fiery Tofu/Feta; 1x 12) Scorching Tofu/Feta; 1x Bottle Mango Lassi Drink,3,17.50,1.79,0,,0.00,19.29,4F688002-FC06-41C0-9ECE-1C1AB4D2578E,pKYeWdnTRpNeDwt2VvGFiXieV,South Lake Union,Hugh G
+04/16/2021 02:41 PM,Keys,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,B721113C-65D6-405B-BACC-E3F58A9AD381,LFpa9J9uYCCKx8Acj1jMcQweV,South Lake Union,Keys
+04/16/2021 02:24 PM,Raj,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.50,9.20,52D983F7-8029-4FDB-B194-A8EAFD2FFF5F,l8ID79f1EgK7jBATtwgbt2heV,South Lake Union,Raj
+04/16/2021 02:21 PM,Rob,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,331D1EAC-0EEA-4F78-B502-756751645287,DJ5iwSpU56DIEOHHl6XNk9ieV,South Lake Union,Rob
+04/16/2021 02:20 PM,Dylan,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.47,11.27,A0784553-BA18-4CE7-BD81-692474D00F98,56urQbZ3wWOzuOkj3wCNFRjeV,South Lake Union,Dylan
+04/16/2021 02:16 PM,E,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,1CAEEB30-95EC-400B-9724-ADC21A37077F,9ObhUGs7oksbUNqgCfAADTgeV,South Lake Union,E
+04/16/2021 02:08 PM,Jeff,1x Lamb/Beef Platter,1,12.39,1.27,0,,2.05,15.71,F65DDFEC-0946-43D7-A0FF-FFDD24741E4C,5W2gKsyQwzO5eHysmGPj252eV,South Lake Union,Jeff
+04/16/2021 02:07 PM,Max,1x Lamb/Beef Platter,1,10.89,1.12,0,,0.00,12.01,4F7B8EBD-8EF6-4294-972D-82F3539FFB18,ZYpVSCr3lIWx3DwNfBwNo1geV,South Lake Union,Max
+04/16/2021 02:07 PM,Dane,1x 7) Lamb And Beef Fiery Kreuzberg,1,9.89,1.01,0,,0.00,10.90,BBEB4E3A-3E77-4640-9C39-CDBD854DA413,HftNnAV73VkRDuOjnm751Q2eV,South Lake Union,Dane
+04/16/2021 02:02 PM,Brett,1x Chicken Platter; 1x Can Diet Coke,2,11.14,1.14,0,,1.84,14.12,052C5EBF-D635-421D-BE8D-71681138BE59,bJ7Ql8wd9ETYBP2aTK9evo6eV,South Lake Union,Brett
+04/16/2021 01:59 PM,Phyllis,1x Lamb/Beef Platter,1,12.39,1.27,0,,2.05,15.71,68B7839D-580B-46EC-AF01-DBA150F25CE4,7TyDcgxPeSc0mqWWu3aFbKgeV,South Lake Union,Phyllis
+04/16/2021 01:44 PM,Chris,1x 6) Lamb And Beef Berliner; 1x Can Coke,2,10.14,1.04,0,,1.68,12.86,DF39F624-A8C4-4825-A3C7-7378366D38B8,j99jGBKJCvKoWWKrcIwxiayeV,South Lake Union,Chris
+04/16/2021 01:28 PM,Karlo,1x 6) Lamb And Beef Berliner,1,9.89,1.01,0,,0.00,10.90,1D332A9F-9AC6-4313-B557-EE0DD6FED3E2,jBNED3tK43ZjGh5pMkPtB9seV,South Lake Union,Karlo
+04/16/2021 01:15 PM,Vin,1x 2) Chicken Berliner,1,8.39,0.86,0,,0.00,9.25,5994C45D-1D31-42BC-A209-7CE78AD5E7C4,jTGMJAmFnUUTgAZtiDfEHq3eV,South Lake Union,Vin
+04/16/2021 01:04 PM,Spencer,1x 3) Chicken Fiery Kreuzberg; 1x 4) Chicken Scorching Kreuzberg; 2x Can Coke Zero,4,18.28,1.87,0,,0.00,20.15,795C1363-7C3C-4430-B2A5-28B198B32DFF,Bc1HoVTGaLeQgcmwOLaArygeV,South Lake Union,Spencer
+04/16/2021 01:02 PM,Mike,1x 7) Lamb And Beef Fiery Kreuzberg; 1x Fiery Chicken Salad,2,17.78,1.82,0,,0.00,19.60,A9768808-48B2-4C2B-8ED2-36DF8B7AE6FE,TlB3rIWP6mMvPXTFjQikHU8eV,South Lake Union,Mike
+04/16/2021 12:52 PM,Pablo,1x 6) Lamb And Beef Berliner; 1x Chips; 1x Can Coke,3,11.64,1.19,0,,1.92,14.75,64AFB102-FB9C-4D8F-BE68-9BA68FC7B2C2,lsCG2S37ztXO66z5Sb0dDi8eV,South Lake Union,Pablo
+04/16/2021 12:52 PM,Orlando ,1x 9) House Tofu/Feta,1,7.25,0.74,0,,1.20,9.19,0155CE8F-C241-4F6E-999A-7F6BFB4D9354,DjQzQNOidbxN45LfBh087BteV,South Lake Union,Orlando 
+04/16/2021 12:50 PM,Luis,1x 5) House Lamb & Beef; 1x Can Coke,2,10.14,1.04,0,,1.68,12.86,6A149482-4149-491A-B03E-F8832CFB1377,3T1ufJIk7ahfeWtDLoL9l3keV,South Lake Union,Luis
+04/16/2021 12:45 PM,Nic,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.47,11.27,9A6361DE-D0A9-42A8-8B94-644FBE687B1C,hCCMc8Y5PaMHn1vSE9M9Uo7eV,South Lake Union,Nic
+04/16/2021 12:43 PM,Roland,2x 6) Lamb And Beef Berliner,2,17.78,1.82,0,,4.90,24.50,56D70586-816E-40EE-9883-E1B9A30DB8FF,90el8Xa7QXdu8K6IIiuScGjeV,South Lake Union,Roland
+04/16/2021 12:42 PM,Jon-mark,1x Fiery Chicken Salad,1,11.39,1.17,0,,2.51,15.07,5DC4B388-EB14-40BD-B935-4E26D9855B28,fT9f9gk3f4EMeDxoHDlf3cweV,South Lake Union,Jon-mark
+04/16/2021 12:35 PM,Jack,1x 5) House Lamb & Beef,1,8.89,0.91,0,,0.00,9.80,F3AD132E-AD24-4064-840B-AF0E184794DA,XRcAq07vNSVoR7hVONGkcUzeV,South Lake Union,Jack
+04/16/2021 12:35 PM,Sean,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,97B52E37-68EB-4D30-9C19-FB9FA8CA803C,fZW2T40E1LlnDrHayJh8aUqeV,South Lake Union,Sean
+04/16/2021 12:32 PM,Tom,1x 1) House Chicken,1,8.39,0.86,0,,0.00,9.25,AA877FE9-FC41-4B51-A449-A33647DD1046,D7O8ERB6d6IhNRYbxqoWMZveV,South Lake Union,Tom
+04/16/2021 12:28 PM,Rc,1x 1) House Chicken; 1x 2) Chicken Berliner,2,15.78,1.62,0,,0.00,17.40,F33424AD-2E94-44FC-AA79-F18C56E271C4,9YSaCRuipv0cpPcr9hVwU9eeV,South Lake Union,Rc
+04/16/2021 12:24 PM,Summer,1x 2) Chicken Berliner; 1x Berliner Chicken Salad; 1x Can Coke Zero; 1x Can Coke; 1x Chips,5,20.78,2.13,0,,2.09,25.00,73F137FA-564E-45A3-8504-4329FBFA3117,NGBybp0R3SDBQwbsss6YqxueV,South Lake Union,Summer
+04/16/2021 12:16 PM,Tuan,1x Lamb/Beef Platter,1,10.89,1.12,0,,1.80,13.81,995FACAB-F2CC-4737-9F07-8DE78F173B50,T9dfBRHQdV584P6v9U4NARseV,South Lake Union,Tuan
+04/16/2021 12:16 PM,Jas,1x 3) Chicken Fiery Kreuzberg,1,10.89,1.12,0,,1.80,13.81,ABD5A4F6-052E-4E8F-9E95-26579A3B38D0,NMytFJI91jL9KgmqJF87VL4eV,South Lake Union,Jas
+04/16/2021 12:07 PM,Erik,1x 2) Chicken Berliner,1,8.89,0.91,0,,0.00,9.80,049DE0EF-C3B6-4D02-A431-2A55466971F4,3vvGQbJiFJJZa0l974SIA3xeV,South Lake Union,Erik
+04/16/2021 12:03 PM,Joe,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,AE3D99BB-F28F-4B6D-BC81-567B41FF752F,v1aTDYoo4rsqkLypDeTqheneV,South Lake Union,Joe
+04/16/2021 12:00 PM,Aaaaaaaaaaaron,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.00,9.70,DC3C59DE-CB31-4BF1-82C6-3A5A84EE48AA,ftcqc95xHLEbKaG2YSH5Z94eV,South Lake Union,Aaaaaaaaaaaron
+04/16/2021 11:58 AM,Dustynn ,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,83F3E03F-9901-497B-A721-33189F08E9EF,t2pAWszpWlbNjSbpedeYcS0eV,South Lake Union,Dustynn 
+04/16/2021 11:50 AM,Tilly,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,D304280A-4029-427D-AD79-D3B6A23B0B03,b13Fk32LuVomoApYRDwAp6peV,South Lake Union,Tilly
+04/16/2021 11:49 AM,Diwas,1x 1) House Chicken; 1x Chicken Platter,2,17.78,1.82,0,,0.00,19.60,69308EA7-5104-44EC-9796-E880400CBA48,pENiGl2tjbnMSNBjZJvRmtkeV,South Lake Union,Diwas
+04/16/2021 11:37 AM,Hao,1x 1) House Chicken,1,10.39,1.06,0,,0.00,11.45,A4B332CF-92BA-4477-A9DB-9CA03C2483FA,9Aa0IgiuUPbvxAgnEzbhwb4eV,South Lake Union,Hao
+04/16/2021 11:17 AM,Jay,1x 6) Lamb And Beef Berliner; 1x 10) Berliner Tofu/Feta,2,17.64,1.81,0,,1.00,20.45,802E525C-4D98-49A4-8053-10BD9F01A208,V4wIQHzUsYYfZ5F96L9tEOqeV,South Lake Union,Jay
+04/16/2021 11:12 AM,Alex,1x 6) Lamb And Beef Berliner,1,11.39,1.17,0,,0.00,12.56,2A2747B9-78C6-4B9C-9700-135FDA28F67B,HfZvzHnPa8PRVmlZsurYRM2eV,South Lake Union,Alex
+04/16/2021 11:05 AM,Deven,1x House Lamb And Beef Salad,1,9.89,1.01,0,,0.00,10.90,E484534B-EF18-4D75-8FB3-50859B99533E,1wCxPymd08J5INgKk8SFLI3eV,South Lake Union,Deven
+04/16/2021 11:02 AM,Casey,1x 7) Lamb And Beef Fiery Kreuzberg; 1x Can Diet Coke,2,10.14,1.04,0,,1.00,12.18,DC0F856B-A3B8-4785-AEDF-FF64DFF670AA,PtweMEwYwMFvzQW6qoCOzvteV,South Lake Union,Casey
+04/15/2021 07:30 PM,Shiv,1x 5) House Lamb & Beef; 1x 6) Lamb And Beef Berliner,2,18.78,1.92,0,,0.00,20.70,87D702F1-9303-4CBD-B3B1-DB7E108D1D98,7jMEiHokNdieOU9xDzFxKKgeV,South Lake Union,Shiv
+04/15/2021 07:17 PM,Milan,1x Bottle Mango Lassi Drink,1,3.00,0.31,0,,0.00,3.31,3DED0D7F-99AE-4DD0-BDF0-130E29C2EB4B,b1nnTEeBB9Ky5Hy8K05frb3eV,South Lake Union,Milan
+04/15/2021 07:15 PM,Milan,1x 5) House Lamb & Beef,1,8.89,0.91,0,,0.00,9.80,4ABE9875-9545-4AD5-A62C-A48042BB4DEC,3JMgdJfK0gMQ5JN57pdAt2peV,South Lake Union,Milan
+04/15/2021 06:25 PM,F,1x 5) House Lamb & Beef; 1x Chips,2,10.39,1.06,0,,0.00,11.45,C6BEBF56-28DF-4A84-AD9D-992151F989A1,B0R3uMCqPNuiBlerun1qwmpeV,South Lake Union,F
+04/15/2021 06:23 PM,G,1x 9) House Tofu/Feta; 1x 6) Lamb And Beef Berliner,2,16.14,1.65,0,,2.67,20.46,DD881BB5-B0B0-4A39-BA98-A9327FE0E3DB,fVe9ujpLHpGiepa5bR1fssveV,South Lake Union,G
+04/15/2021 05:59 PM,John,1x 5) House Lamb & Beef; 1x Bottle Plain Yogurt Drink,2,11.89,1.22,0,,2.62,15.73,EDC4A845-471B-4D9C-9C5D-0218001E3481,NCfuXWDs1Q08hsQW7g74PY4eV,South Lake Union,John
+04/15/2021 05:45 PM,Tk,1x 3) Chicken Fiery Kreuzberg; 1x 6) Lamb And Beef Berliner,2,16.78,1.72,0,,1.00,19.50,EE3F6A0B-E152-44C5-9B4E-B911399A37D4,1WDOiKEYdp1EqNeirn5q3JteV,South Lake Union,Tk
+04/15/2021 05:40 PM,Ankit,1x House Chicken Salad,1,8.89,0.91,0,,1.47,11.27,3B86C4EE-E325-41E8-9D11-2560D5E07D2A,vVQeFJffbuSGEhYjO7nouBveV,South Lake Union,Ankit
+04/15/2021 05:10 PM,Meelad,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,A7B7426F-221E-4AE4-AC53-2FB9DE020407,xIrZib9MNdYky6nZ9GoEGbmeV,South Lake Union,Meelad
+04/15/2021 04:13 PM,Justin,1x Berliner Lamb and Beef Salad,1,13.39,1.37,0,,2.21,16.97,D07D2780-EA70-4B11-A4F2-D585A80A7469,3bdk1z6rEblrgn8d6dwooIteV,South Lake Union,Justin
+04/15/2021 03:55 PM,Dafe,1x 4) Chicken Scorching Kreuzberg,1,7.89,0.81,0,,0.00,8.70,23EDDC1E-1A88-4255-9DC6-92211AA837AA,bfaUig6QR7eRaoM6d08NkKneV,South Lake Union,Dafe
+04/15/2021 03:42 PM,Yama,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,9A6A3988-B4DD-4972-9207-347638FC818B,L7mn5ox3nZAUj8zsUC70RAseV,South Lake Union,Yama
+04/15/2021 02:42 PM,David,1x Can Diet Coke,1,1.25,0.13,0,,0.00,1.38,2F09C5C7-5E18-4D76-B669-08F431C0B010,NsO1IgZAg6wExSoQJ0XZDkheV,South Lake Union,David
+04/15/2021 02:41 PM,Lee,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.74,10.44,0851CC4A-03EE-4721-832F-1706846BB834,JGsXL9gLtZhbPUAj8puXJ06eV,South Lake Union,Lee
+04/15/2021 02:41 PM,Dan,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,2D4DCADC-59F3-42C8-89BC-4E7F8D02E207,LruN2TVGgz975lDudkBMk5qeV,South Lake Union,Dan
+04/15/2021 02:39 PM,Kieran,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,C959BF50-2C89-4905-A322-8E5D50951EB8,L9ndkYHlEsAsusrmoTAiNiheV,South Lake Union,Kieran
+04/15/2021 02:39 PM,David,1x Fiery Lamb & Beef Salad,1,13.39,1.37,0,,2.00,16.76,DAC5BA5A-86EE-49D0-9CF9-49A508567C5D,HRcAv0OTiyTDPIoqlnvVsLteV,South Lake Union,David
+04/15/2021 02:22 PM,Izzy,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.96,11.76,15BD0863-A52A-4D7E-9CC5-2BB6A0A0B4E5,nJUatBGEf4eTPUj5zzwedh7eV,South Lake Union,Izzy
+04/15/2021 02:16 PM,Bb,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,5C660F35-E7D4-4DB7-BFA7-721786700ADE,bPsNse420UtMYIKZykN4lbAfV,South Lake Union,Bb
+04/15/2021 02:15 PM,Leslie,1x 2) Chicken Berliner,1,7.89,0.81,0,,2.18,10.88,316FC62B-7282-4207-B469-9781D83A5F18,TptEJHPk0NW9aKJnd1rnzCxeV,South Lake Union,Leslie
+04/15/2021 02:15 PM,Bruce,1x 3) Chicken Fiery Kreuzberg; 2x Bottled Water,3,11.39,1.17,0,,2.51,15.07,9A3D9DEC-CC9F-4BCE-8CD2-56A066C82664,Z2aSGRHk6uqdYH2i8lX8WhoeV,South Lake Union,Bruce
+04/15/2021 02:13 PM,Ire,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,0866EF86-5858-4F7A-A908-61036902309A,H9sFll0EKcG3oIESQkDJJ7oeV,South Lake Union,Ire
+04/15/2021 02:12 PM,Michael ,1x 6) Lamb And Beef Berliner,1,9.39,0.96,0,,1.55,11.90,41BB4052-727A-45B2-97D6-E409E52FC1EA,3J67JqRwRatvcgXBAuTsDX9eV,South Lake Union,Michael 
+04/15/2021 02:04 PM,Bianca,1x 1) House Chicken; 1x House Chicken Salad,2,16.78,1.72,0,,2.78,21.28,72E9311A-3647-430C-9AA3-76BB6D507164,xcLU8u4HxeZN6uLAymlDyo8eV,South Lake Union,Bianca
+04/15/2021 01:56 PM,Ken,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.00,9.70,C3C69958-19C4-4BFD-ADAA-C781BEEA9133,rp3oJ0NM5PX9fIDMgRB6C05eV,South Lake Union,Ken
+04/15/2021 01:40 PM,Ernie,1x 3) Chicken Fiery Kreuzberg; 2x Can Coke,3,13.89,1.42,0,,3.00,18.31,D49782C4-DFD0-4920-9ABB-0F61E9056635,XzLP60TQRqnvenieXWy9uj0eV,South Lake Union,Ernie
+04/15/2021 01:24 PM,Dai,1x 3) Chicken Fiery Kreuzberg; 1x Can Coke,2,9.14,0.94,0,,0.00,10.08,DF8D84E0-337F-4510-8732-AAE5E3ACA50B,RC66cxvi5ne9kc85ooU15bAfV,South Lake Union,Dai
+04/15/2021 01:23 PM,Mike,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,2FE47088-8AA2-432C-9301-8314D6B60F7B,PNitlhYbVnGk5HJtU250ptteV,South Lake Union,Mike
+04/15/2021 01:22 PM,Annie,1x Berliner Chicken Salad,1,10.39,1.06,0,,1.72,13.17,79E916EE-6693-4ADE-BF9D-14B4B4FC45AD,rJHMH0yF4HHPEwdrAYCWhb9eV,South Lake Union,Annie
+04/15/2021 01:06 PM,Josh,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,673C6311-0CE6-4889-BEA5-4E5425E70878,LVfhfQG47wghpCb7WLwnN61eV,South Lake Union,Josh
+04/15/2021 12:53 PM,Oggi,1x 2) Chicken Berliner; 1x Bottle Plain Yogurt Drink,2,10.89,1.12,0,,1.00,13.01,BD43FCFC-D2AA-463A-BE17-31A911C63A58,nZSdfubjlYmkqf1bnPMwC80eV,South Lake Union,Oggi
+04/15/2021 12:53 PM,Milos,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,1AA3A5F9-5387-4EFD-8C90-54305312E36B,DPIOx1ntm1PEIHRI9uMYuEzeV,South Lake Union,Milos
+04/15/2021 12:51 PM,Bren,1x 2) Chicken Berliner; 1x Chicken Platter,2,17.78,1.82,0,,2.94,22.54,6670E29F-7540-4744-A4D1-81FF1FC5636A,dKxRm9krmor4mVWxMPAKNqoeV,South Lake Union,Bren
+04/15/2021 12:46 PM,M,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,2.18,10.88,187A9DE5-EEE5-4554-BEAF-44C970533F7A,X1mYebtHS54vaSldy36ZbHzeV,South Lake Union,M
+04/15/2021 12:45 PM,Ben,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.96,11.76,C006BCC4-6D55-4ABB-8643-18F238C1B94D,VkaCgxsILH65wMSKPJM2ucseV,South Lake Union,Ben
+04/15/2021 12:44 PM,Kyle v,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,DF3587A4-68EE-4A46-A517-DDB7AC4E4C88,31gf7UNwN5EEMb1Mp2VOBeAfV,South Lake Union,Kyle v
+04/15/2021 12:43 PM,Ram,1x Berliner Chicken Salad,1,8.89,0.91,0,,2.45,12.25,A4B174CF-FF60-48EB-A43C-2AC8051595C8,PXVusk1KtIRZuFMpOR3iEszeV,South Lake Union,Ram
+04/15/2021 12:34 PM,Sean,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,DCCD097A-F9CE-4DC9-AD62-512F52092F72,bFFI2WFY7INLXZUH9a69Wh2eV,South Lake Union,Sean
+04/15/2021 12:22 PM,Felix,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,0.00,9.80,F2F1012B-6CAA-40FC-8B90-CB671E78B9C1,7DgSGsTFbjCleuyfd5sud3peV,South Lake Union,Felix
+04/15/2021 12:22 PM,Mo,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,9FA90D64-A865-4D8F-A5AC-F36176F1EE1B,J0FERhmOqEwfhB68cq3cPP0eV,South Lake Union,Mo
+04/15/2021 12:16 PM,Jared,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,660CE6DF-47B3-4AAC-8259-DAE215798A37,xYHl18dyWC89NmF6n0NLTx9eV,South Lake Union,Jared
+04/15/2021 12:12 PM,Devin,1x 3) Chicken Fiery Kreuzberg,1,11.89,1.22,0,,0.00,13.11,3EA1A4EF-F494-4189-8F52-5CB1C0469602,rZx9tFzk7beh3e49AJwCikfeV,South Lake Union,Devin
+04/15/2021 12:10 PM,Amit,1x 3) Chicken Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,4EEF77AA-A857-44DE-9478-ADC581AF4C08,pMxwjI8ZIEnuHoSrg2hqnH7eV,South Lake Union,Amit
+04/15/2021 12:07 PM,Messay,1x 2) Chicken Berliner; 1x 6) Lamb And Beef Berliner,2,16.78,1.72,0,,2.78,21.28,7DB8AC10-1383-413D-95B2-EE84110C5376,RSgvffyQ2m0Zfw6z27BSp2heV,South Lake Union,Messay
+04/15/2021 12:07 PM,Toni,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,ACC9B542-F6E0-4D1F-923A-3ADEFAE0DBF0,r1dK01lKAleTeSnVaQu8TUweV,South Lake Union,Toni
+04/15/2021 12:00 PM,Billy,1x 5) House Lamb & Beef,1,9.39,0.96,0,,1.55,11.90,64563AC4-AB67-465E-AE45-65A203944763,BiwfGNj1th6OJpX4kdajSMueV,South Lake Union,Billy
+04/15/2021 11:54 AM,Jon M,1x 9) House Tofu/Feta; 1x 2) Chicken Berliner,2,15.14,1.55,0,,3.34,20.03,114C63C8-960B-42C8-B950-63C6D6F05659,ztjKvsZchoREgtKDKIFQp9zeV,South Lake Union,Jon M
+04/15/2021 11:53 AM,Mitch,1x 3) Chicken Fiery Kreuzberg,1,8.39,0.86,0,,2.00,11.25,E1E57E7D-3EE4-40B4-92F8-58CF20BBAE77,HFKenV3iCtmw2KCAZa9dfSoeV,South Lake Union,Mitch
+04/15/2021 11:52 AM,Evan,1x 3) Chicken Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,F7D402C3-3EFD-43BA-9465-782DD025E31D,p4fUX4Y80c6atgaK3m0y6nxeV,South Lake Union,Evan
+04/15/2021 11:49 AM,Garrett,1x 3) Chicken Fiery Kreuzberg,1,10.39,1.06,0,,2.29,13.74,DDA17045-5960-4FA8-B141-29F8B9FB5CBF,zDGYwYthUoywuvpTFybMZY8eV,South Lake Union,Garrett
+04/15/2021 11:48 AM,G,1x Bottled Water,1,1.75,0.18,0,,0.00,1.93,74AA3CC3-2B7B-4CEC-8F26-148B52B81A20,hGkIsNiHHB5wFYbLqdsIVV2eV,South Lake Union,G
+04/15/2021 11:48 AM,Matt,1x 3) Chicken Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,3A860BC0-93A9-4911-BDCD-B930EB2F1CFA,hkpjkL5hukSJ3K6CE0WBI6meV,South Lake Union,Matt
+04/15/2021 11:45 AM,Zac,1x 2) Chicken Berliner; 1x Can Coke,2,9.14,0.94,0,,1.51,11.59,8915D13F-1C1F-4190-8209-21F535E8A55A,ZKQKbnzKkcx4YiTU5nyP3yeeV,South Lake Union,Zac
+04/15/2021 11:44 AM,33,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,6C0ACAA2-F05D-42F4-AA74-66AA93FD0AA2,d6bQRnp96mlBrjvkKA8JGjoeV,South Lake Union,33
+04/15/2021 11:43 AM,MARTIN ,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,A10FF742-002C-4BFF-94BE-9FCB45F3D06D,7nOC3IRbq6G1Kz1vkzbPgGyeV,South Lake Union,MARTIN 
+04/15/2021 11:38 AM,Doug,1x 8) Lamb And Beef Scorching Kreuzberg; 1x Can Coke Zero,2,11.14,1.14,0,,2.46,14.74,77AC80BB-AA45-46DD-B50D-D11693C246D3,VsopN36RifPH32S5YLUPRzpeV,South Lake Union,Doug
+04/15/2021 11:38 AM,Tony,1x 6) Lamb And Beef Berliner,1,9.89,1.01,0,,0.00,10.90,478893BB-77B2-461B-98FA-914CD2323E7F,FcKUrI2jFtIklOGh6YUlgbxeV,South Lake Union,Tony
+04/15/2021 11:36 AM,David,1x Berliner Lamb and Beef Salad,1,9.89,1.01,0,,2.18,13.08,9413BC99-A32B-4836-893E-AED24CE74755,PtSnOzMnWG99oaHSJtGHc67eV,South Lake Union,David
+04/15/2021 11:35 AM,Mikel,1x 1) House Chicken,1,7.89,0.81,0,,1.00,9.70,D8B557B2-F45B-4C8B-A778-07969AFF6CC0,z3YkmtWIuAATI5JXslas5GueV,South Lake Union,Mikel
+04/15/2021 11:28 AM,Harman,1x 4) Chicken Scorching Kreuzberg,1,8.39,0.86,0,,0.00,9.25,761C98C2-C95E-47FB-8E51-7EDE0F7AC4BE,75NjEV7BkMvxw48Dw9jnMofeV,South Lake Union,Harman
+04/15/2021 11:25 AM,Abhi,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,9E85DE17-4E84-4DF7-A773-502766B9A559,pwtfSnJI3uLU177nwzMB9k7eV,South Lake Union,Abhi
+04/15/2021 11:21 AM,Su ,1x 6) Lamb And Beef Berliner,1,9.89,1.01,0,,0.00,10.90,109640DE-2109-4A04-8FB3-9DA42CAC7BA4,DroPZFkfzsQFe1FzTFUMnaleV,South Lake Union,Su 
+04/15/2021 11:16 AM,Purak,1x Chicken Platter,1,11.39,1.17,0,,1.00,13.56,9FF12FCA-EC1A-42FF-99F5-64892E56A780,jfIko9CGOIzvjNraRz3njAjeV,South Lake Union,Purak
+04/15/2021 11:15 AM,Prashant,1x 10) Berliner Tofu/Feta,1,7.25,0.74,0,,1.00,8.99,6D65BF96-43FE-41B9-9DC8-C4F747AC5B3D,tAcJjEupbXfGhbpTmgBF7qAfV,South Lake Union,Prashant
+04/14/2021 07:43 PM,Briana,1x 6) Lamb And Beef Berliner; 1x Bottle Mexican Fanta,2,11.64,1.19,0,,2.57,15.40,EC4D7D75-6995-4001-ABF3-E34F64D95F4F,7DEmfo7nPE5gVip95xPd7GfeV,South Lake Union,Briana
+04/14/2021 07:40 PM,Ezgi,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.96,11.76,BC9A9C30-2C92-4C27-8CB2-106AD3AA0A16,121niYca1jhY9fIt2wt6q1jeV,South Lake Union,Ezgi
+04/14/2021 06:20 PM,Vinny,1x 1) House Chicken,1,8.39,0.86,0,,0.00,9.25,8D2FE627-1918-44EC-98B5-63629558542A,RKopT4iNOXGbeiLPxMXzI8qeV,South Lake Union,Vinny
+04/14/2021 06:09 PM,Matt,1x 1) House Chicken,1,7.89,0.81,0,,1.30,10.00,D4B16D70-2036-424A-A17D-977616E370E4,TVF7Q74KpPAMoSPxJvTlCazeV,South Lake Union,Matt
+04/14/2021 05:58 PM,Chris,1x 7) Lamb And Beef Fiery Kreuzberg; 1x Bottle Mango Lassi Drink,2,11.89,1.22,0,,0.00,13.11,C6A444E0-E610-443A-BF69-F0F25AD40B16,lYs6DIOtU9b5oKoLIu70GdzeV,South Lake Union,Chris
+04/14/2021 05:35 PM,H,1x Side House Bread,1,1.50,0.15,0,,0.00,1.65,F4667F05-67A9-4A8E-9D38-981B553386FC,1efiaeXZMGF7LucZew6bkW6eV,South Lake Union,H
+04/14/2021 05:34 PM,H,1x 5) House Lamb & Beef; 1x 1) House Chicken,2,16.78,1.72,0,,0.00,18.50,F47D0674-8286-4C78-85B8-51B5613A14D7,VqB65gQkascdJCXVcwE3m7veV,South Lake Union,H
+04/14/2021 05:10 PM,Gang,2x 2) Chicken Berliner,2,15.78,1.62,0,,2.61,20.01,DFDFA5C6-7940-4FCF-A8C8-52850F760F76,BOYqfNrTh7CQecGSKa7Zuh9eV,South Lake Union,Gang
+04/14/2021 05:04 PM,Paul,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,D7162615-9FB9-4B24-A9C0-88DBA1368590,hGkgQ1MJ19P9TyNhgG5FT8qeV,South Lake Union,Paul
+04/14/2021 04:13 PM,Y,1x Bottled Water,1,1.75,0.18,0,,0.00,1.93,1551324C-B716-437D-A94E-81EC14F3B93A,Pb9n1BgtMpSzMfdMvmUogVpeV,South Lake Union,Y
+04/14/2021 03:08 PM,Bruce.,1x 7) Lamb And Beef Fiery Kreuzberg,1,9.39,0.96,0,,1.55,11.90,1350BAA0-5D72-45A8-AA47-06A89707E279,9CDelhEclQGbSOqQHhUOOM0eV,South Lake Union,Bruce.
+04/14/2021 02:42 PM,N,1x 1) House Chicken,1,7.89,0.81,0,,1.30,10.00,DC14981E-7D21-415E-902E-F500526E58CD,hCeiivDG34T3iIlm3YjQ5k2eV,South Lake Union,N
+04/14/2021 02:19 PM,Mitch,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.00,9.70,F86706A7-49B3-48F6-BAA2-194508BAAE70,v18aENfBUael7CGfVDHjPNoeV,South Lake Union,Mitch
+04/14/2021 01:41 PM,Mad,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,EA4530BA-39AE-483E-B9CB-6EF91B65694B,Bk1RIQuEewTClrrc1gY2TJueV,South Lake Union,Mad
+04/14/2021 01:31 PM,H,1x 1) House Chicken,1,7.89,0.81,0,,1.00,9.70,945886A7-500E-4779-80BE-6B2E8CDFDC0C,ZsL7Bv1Z5djcgC9lSyHLiQieV,South Lake Union,H
+04/14/2021 01:30 PM,Viktor,1x 5) House Lamb & Beef; 1x Bottle Mexican Coke,2,11.64,1.19,0,,0.00,12.83,4C612CDB-1BA5-45C6-87C6-C7FBDE5EE29E,hQhAOtDLTA43jfyFLKwDgxleV,South Lake Union,Viktor
+04/14/2021 01:30 PM,Ray,1x 2) Chicken Berliner; 1x Can Coke,2,9.14,0.94,0,,1.51,11.59,785F9360-E0FB-49A1-9D43-33BE4A5520BC,zpZ4C5Xjih08OlCjRmYCclneV,South Lake Union,Ray
+04/14/2021 01:03 PM,Jj,1x 5) House Lamb & Beef,1,8.89,0.91,0,,0.00,9.80,8A4BAEB6-76A1-442B-B83D-BDC7208D7351,xs3KmMPc4gmqCLK5khIytaAfV,South Lake Union,Jj
+04/14/2021 12:59 PM,Jason ,1x Bottled Water; 1x 2) Chicken Berliner,2,9.64,0.99,0,,1.59,12.22,441F03C2-4FB7-4BEF-B095-32397190DEA2,dGPFGQsOZc5MyyoJAvRRDJkeV,South Lake Union,Jason 
+04/14/2021 12:54 PM,Justin,1x Berliner Lamb and Beef Salad,1,13.39,1.37,0,,2.21,16.97,499A27F2-7209-4E48-A8FD-DF9612543A46,vbnSyvutHDto3EPgrO52nyjeV,South Lake Union,Justin
+04/14/2021 12:52 PM,Evan,1x 8) Lamb And Beef Scorching Kreuzberg; 1x Bottle Mexican Coke,2,15.14,1.55,0,,3.34,20.03,DF73D46C-E0F5-46B9-8F56-DD7F3847B8E9,FwC3ZKDqkQrO2ATCSLF1WgneV,South Lake Union,Evan
+04/14/2021 12:47 PM,Ivan,1x 5) House Lamb & Beef; 1x Bottled Water,2,10.64,1.09,0,,1.76,13.49,78CC9161-546E-4F46-8476-D6647FD4CA16,5COtgaV3y3zQ5311Yn7Bi12eV,South Lake Union,Ivan
+04/14/2021 12:46 PM,Jasmine,1x Berliner Lamb and Beef Salad,1,9.89,1.01,0,,0.00,10.90,A2E2FB0B-61FB-4ECF-AA0C-886E70572CAB,xIXb6mQpVnAkVidDWKbB6ezeV,South Lake Union,Jasmine
+04/14/2021 12:32 PM,Kirby,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,848395D8-06E2-4D31-B627-EA479A6C263E,rllCeUEilXeGykCNevP2VS5eV,South Lake Union,Kirby
+04/14/2021 12:26 PM,Tarek,1x 10) Berliner Tofu/Feta,1,7.25,0.74,0,,1.20,9.19,3131D89C-F646-40F8-96CF-1AB91FBDB4D2,HZWDruHmGdszbaCfvLTE667eV,South Lake Union,Tarek
+04/14/2021 12:26 PM,Jjjjj,1x 7) Lamb And Beef Fiery Kreuzberg; 1x Bottle Mexican Coke,2,11.64,1.19,0,,0.00,12.83,735576C4-4E43-465F-B18F-4646746A5359,bRjU8DAPMUoWqXSInbzEfSjeV,South Lake Union,Jjjjj
+04/14/2021 12:25 PM,Ben,1x Lamb/Beef Platter,1,10.89,1.12,0,,0.00,12.01,F97A0533-0FE6-4A07-9B08-0F4409893950,xkXk4hkFUhsOeQijW50OFz3eV,South Lake Union,Ben
+04/14/2021 12:22 PM,PJ,1x 7) Lamb And Beef Fiery Kreuzberg; 1x 7) Lamb And Beef Fiery Kreuzberg; 2x 10) Berliner Tofu/Feta,4,33.28,3.41,0,,0.00,36.69,E106B510-887F-425D-AB48-567720709637,pmiQMp4iTTQhk609PnSmypreV,South Lake Union,PJ
+04/14/2021 12:21 PM,Abhi,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,2C9F69E4-AF6D-4A90-866A-213DECD8CE4A,lajJfL1P02AzSFRV8rX9qDweV,South Lake Union,Abhi
+04/14/2021 12:16 PM,J,1x Bottle Plain Yogurt Drink; 1x Bottle Mango Lassi Drink,2,6.00,0.62,0,,0.00,6.62,0B1D6295-01F3-4F8F-B3B7-E6A7DE901A3C,tynEYuuOHqrY5pQuqFb7Y8meV,South Lake Union,J
+04/14/2021 12:14 PM,Prashant,1x 10) Berliner Tofu/Feta,1,7.25,0.74,0,,1.00,8.99,DDEEBDC3-373E-41AF-B7C5-4A3BDB164E21,R2skPXp4o6UBr0WtsJ4Vh44eV,South Lake Union,Prashant
+04/14/2021 12:13 PM,Cooper,1x 1) House Chicken,1,7.89,0.81,0,,1.30,10.00,AD70C51C-0603-48BB-B257-F661BB78C7BE,rJ1nf3yLb3XHUgZnV9SWTp9eV,South Lake Union,Cooper
+04/14/2021 12:12 PM,Danny,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,0.00,9.80,2774673D-8C52-4B47-8E45-69BEF01CD386,v3fJ5mAR33AEfIdvDm230RfeV,South Lake Union,Danny
+04/14/2021 12:06 PM,Mike,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,71595F1F-D6D4-4978-9471-989873C95DB5,7lpSaRRCulWYbUl1LjkSORteV,South Lake Union,Mike
+04/14/2021 12:06 PM,Deb,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,505FF968-DD53-4DB4-9D44-6FD13349FC65,RE3c0MBEx3cJJdxGETREQc5eV,South Lake Union,Deb
+04/14/2021 12:02 PM,Hhhnh,1x 1) House Chicken,1,10.39,1.06,0,,1.72,13.17,61BD8CDA-D181-4709-B86D-8F3403886B9B,t2fnmTcN62HkXNRm0GQ2ummeV,South Lake Union,Hhhnh
+04/14/2021 11:54 AM,Hao,1x 1) House Chicken,1,10.39,1.06,0,,0.00,11.45,E884D747-9CFF-4FE1-B4CB-8BB0484BA20B,Lj2JBndfa5bmInUtOTqb6p5eV,South Lake Union,Hao
+04/14/2021 11:49 AM,Pat,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,BE428AB0-46A8-4307-A6AE-43370572D96F,LVFI16wc3I82wdAw0E43Gw2eV,South Lake Union,Pat
+04/14/2021 11:35 AM,Jason,1x 8) Lamb And Beef Scorching Kreuzberg; 1x 3) Chicken Fiery Kreuzberg,2,16.78,1.72,0,,3.70,22.20,D8888360-77FA-47F2-9AE0-9425CA7A0CAF,PRCeAA5hsqQnHSdsXTbszm8eV,South Lake Union,Jason
+04/14/2021 11:31 AM,Michael,1x 8) Lamb And Beef Scorching Kreuzberg; 1x 8) Lamb And Beef Scorching Kreuzberg,2,17.78,1.82,0,,2.94,22.54,ACB720D6-EC8C-468F-A8F8-A7ACE5A43917,nntLB4KHZ34otgPXq2gm1hAfV,South Lake Union,Michael
+04/14/2021 11:29 AM,Clayton,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,9A427DA6-309B-4668-91E0-7731B0C5B00A,jTuELKrp6zHk38zXQzlAGxAfV,South Lake Union,Clayton
+04/14/2021 11:16 AM,Jay,1x 6) Lamb And Beef Berliner,1,9.89,1.01,0,,1.00,11.90,D168E795-97B7-4ED1-97BF-03ED50C70E45,P7LMy8tEVIK2i5oDdPvzbqoeV,South Lake Union,Jay
+04/14/2021 11:08 AM,Ryan,1x Fiery Chicken Salad,1,8.89,0.91,0,,0.00,9.80,42FEAD81-753E-498F-90CD-F7374648D764,lY0IuZjSjWzR7tQWCVGBvnAfV,South Lake Union,Ryan
+04/13/2021 02:39 PM,H,2x 2) Chicken Berliner,2,15.78,1.62,0,,0.00,17.40,A6C2B6F3-53B0-4120-83B6-8ED058EB3292,HnfE7EMabpq2vJ41L4CboNjeV,South Lake Union,H
+04/13/2021 02:29 PM,CL ,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.30,10.00,DB484819-FA2E-423A-84A9-D563F2232DE8,Jq8KhhFYdq7ntyfkpuykpq5eV,South Lake Union,CL 
+04/13/2021 02:27 PM,Sergey,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.96,11.76,35C8B160-450B-4E96-91C7-47A50181E880,fDxrAKqJGFccG8Um9tu6D07eV,South Lake Union,Sergey
+04/13/2021 02:22 PM,Ashish ,1x 1) House Chicken; 1x Bottle Mexican Coke,2,10.64,1.09,0,,1.00,12.73,5171274D-274B-4810-B4B6-093B538998E3,Vyv5W0cky2tvqsPLKKHRqf9eV,South Lake Union,Ashish 
+04/13/2021 02:10 PM,New sale,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,4BAA110D-91B8-445C-A1A5-16041FCE5F4A,jVbAAd6XhtHHXHX3YfOPpF2eV,South Lake Union,New sale
+04/13/2021 02:08 PM,Bri,1x 1) House Chicken; 1x Can Coke,2,9.64,0.99,0,,1.00,11.63,8CED1C01-A1A2-402B-8CB5-78F2CA291CBB,PDLAPBhShnHzowhx3KiEPdjeV,South Lake Union,Bri
+04/13/2021 02:08 PM,Jared,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.74,10.44,86504165-D550-4F10-A8B3-E5DA9F12A3BE,98CpGZrDCXFaEVcMZczMaj6eV,South Lake Union,Jared
+04/13/2021 02:06 PM,Rob,1x 2) Chicken Berliner; 1x Can Coke,2,9.14,0.94,0,,1.51,11.59,12B05B6F-B4B8-49A5-96D4-2BF82B49E791,Rac5uxvxzBmjx3vcm89OedkeV,South Lake Union,Rob
+04/13/2021 02:03 PM,Ian,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,309EF84A-B04F-4EEA-85E4-FEBF0481D7E3,7T8o08PEZBpEb07WHOHSjf5eV,South Lake Union,Ian
+04/13/2021 01:44 PM,Jeremy,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,2.45,12.25,BC124E79-92E5-4CAB-BDBA-6B77929D0EAC,3bN6ArNkfkX9ZPUDxaoOQcfeV,South Lake Union,Jeremy
+04/13/2021 01:41 PM,Ernie,1x 4) Chicken Scorching Kreuzberg; 1x Can Coke,2,12.64,1.30,0,,2.00,15.94,1A14FF27-8272-41DC-9019-92C9FC17AEE3,9aZTr67Vz2r2AJ9AHnfdRB2eV,South Lake Union,Ernie
+04/13/2021 01:40 PM,Guenther,1x 5) House Lamb & Beef,1,12.39,1.27,0,,2.73,16.39,EE2B7F40-A9D6-4932-A0C2-029E73C7F5C0,3Hjwfl3IqpyFJmytrb2ymuheV,South Lake Union,Guenther
+04/13/2021 01:33 PM,Rob,1x 1) House Chicken,1,7.89,0.81,0,,1.74,10.44,C683D884-37CE-412B-92DA-65E7ECD0ABC5,XjT3MVvyzS3st6Vbo38ZoaqeV,South Lake Union,Rob
+04/13/2021 01:29 PM,Gretchen,1x 10) Berliner Tofu/Feta,1,7.25,0.74,0,,0.80,8.79,4E61C95A-690B-4A49-B6BE-DDA7A160ED9F,hmuBaRio2sdWnucxeY829m2eV,South Lake Union,Gretchen
+04/13/2021 01:28 PM,Oksana,2x 6) Lamb And Beef Berliner; 1x Chicken Platter,3,27.67,2.84,0,,0.00,30.51,2B24FBA8-0C9A-461A-94F0-7BB88407DD24,btVy6xdhu63Y6A1DLenNdW2eV,South Lake Union,Oksana
+04/13/2021 01:24 PM,Max,1x Lamb/Beef Platter,1,10.89,1.12,0,,0.00,12.01,6CC2C5CC-FCCC-46C4-97C1-5AD342F0AED0,P7jcc8bWWLpmTdLCl5jA2D2eV,South Lake Union,Max
+04/13/2021 01:22 PM,David,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,9334BB9C-71CC-4026-B805-272CF9EC872A,JsPJKicWG4VzSwmXObVgToveV,South Lake Union,David
+04/13/2021 01:20 PM,Brian,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,161B0803-0233-44E9-B559-EE563C3B47DB,Dzayj13xHBSNqYaXaUNzzdyeV,South Lake Union,Brian
+04/13/2021 01:09 PM,Jeremy,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,1.96,11.76,B186E6AD-70F7-4CAC-8FD0-8A4AD6B491BB,NA4Ra8gJq5iEoqBcrvC0W8seV,South Lake Union,Jeremy
+04/13/2021 01:03 PM,Tim,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,2.45,12.25,7F0692C5-70EF-48C2-B9A9-79DF5F06431D,Lrm1yuv5oRfE94jTEccD3WfeV,South Lake Union,Tim
+04/13/2021 01:03 PM,Milos,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,40F12621-3624-472A-A9BC-FA28364A814E,VIq3Ni0HHE2elI6ZwTsGrH0eV,South Lake Union,Milos
+04/13/2021 01:02 PM,Hikmet,1x 7) Lamb And Beef Fiery Kreuzberg,1,11.39,1.17,0,,3.14,15.70,6560B90A-EAD6-4CC8-A959-53598B1EB2E7,XP15eVuFgcLW34LPxT3DOO0eV,South Lake Union,Hikmet
+04/13/2021 01:02 PM,Chris ,1x 6) Lamb And Beef Berliner; 1x Bottle Mango Lassi Drink,2,12.89,1.32,0,,0.00,14.21,314E0131-B4D9-4A50-BF34-3B1B7D477AD0,94INccjLT2HVJG8OFnfBncfeV,South Lake Union,Chris 
+04/13/2021 12:53 PM,Jacob ,1x 7) Lamb And Beef Fiery Kreuzberg; 1x Side House Bread; 1x Side Garlic Sauce,3,10.89,1.12,0,,1.00,13.01,98D62A7A-933E-4C80-AC40-915835C3D687,b93jYRkwGHVbi1tro1yH5GmeV,South Lake Union,Jacob 
+04/13/2021 12:52 PM,Kyle v,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,B089B535-6A58-4D74-A86D-DA5A6A4F31EC,T1thVVn4IRQ9sOevQe94Ht2eV,South Lake Union,Kyle v
+04/13/2021 12:52 PM,Vt,1x 11) Fiery Tofu/Feta; 1x Can Diet Coke,2,8.50,0.87,0,,1.00,10.37,EA616491-C8C8-443D-BBE3-3CD613983A88,BuGtbA2KCrarV8AtxKmnRoleV,South Lake Union,Vt
+04/13/2021 12:50 PM,Adam,1x 1) House Chicken,1,9.39,0.96,0,,1.55,11.90,90B5AFF7-1431-4522-91D1-3B3DFCA2980E,dOLhOW9C6gU0LO9nK7EcZbseV,South Lake Union,Adam
+04/13/2021 12:49 PM,Naomi,2x House Lamb And Beef Salad,2,19.78,2.03,0,,3.27,25.08,D55062A7-66AB-47C5-A9F9-2AE742B4652C,bLgu57iT09vlVO9m4YCiIW2eV,South Lake Union,Naomi
+04/13/2021 12:47 PM,Anton,1x Lamb/Beef Platter,1,12.39,1.27,0,,0.00,13.66,1D8A8856-582D-492D-A131-C7C9F9C60FC0,bRrm7lr1zkaSdTbLLi7GLUxeV,South Lake Union,Anton
+04/13/2021 12:45 PM,Myles,1x 3) Chicken Fiery Kreuzberg; 1x Can Coke,2,9.14,0.94,0,,2.52,12.60,43B708B5-F639-4718-9A40-B458114A3A7F,pi4QWHTAnqHFJ1tXJttYX4feV,South Lake Union,Myles
+04/13/2021 12:34 PM,Ansel,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,DAF0A217-3AC9-4659-87AC-9EBC6D0975B8,3JQYeSonT9M5XBIwtngyNi8eV,South Lake Union,Ansel
+04/13/2021 12:27 PM,Eric,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,EAE1EE19-030D-4D9C-AEE6-C672A28275FD,jllTJHdEhxRE0aXVOZX2dBseV,South Lake Union,Eric
+04/13/2021 12:26 PM,Matt,1x 5) House Lamb & Beef; 1x Chips,2,10.39,1.06,0,,1.72,13.17,23BB910C-D5B7-4B9E-9200-FC30FA958523,9KnGJZmytw1Ok79pcQbUR8qeV,South Lake Union,Matt
+04/13/2021 12:26 PM,Mitchell,1x 5) House Lamb & Beef,1,8.89,0.91,0,,0.00,9.80,24D20FE8-B9EA-44B1-9490-24F4B90DFA07,rBpLfDlxc1SEvpHfxPpwydzeV,South Lake Union,Mitchell
+04/13/2021 12:23 PM,Jared,1x Chicken Platter,1,9.89,1.01,0,,0.00,10.90,2741C336-B990-4621-9E86-0AF6161525A0,3JCFeBiLtmcobrw0LQoMovAfV,South Lake Union,Jared
+04/13/2021 12:22 PM,Bianca,1x 1) House Chicken; 1x 5) House Lamb & Beef,2,16.78,1.72,0,,2.78,21.28,4C25D990-6903-4024-B0A9-E16E7E5FCB46,J6cWNrVdZxYbTiu8sVH7yt1eV,South Lake Union,Bianca
+04/13/2021 12:19 PM,Karlo,1x 6) Lamb And Beef Berliner,1,9.89,1.01,0,,1.64,12.54,33E7F57B-D8FB-4D3E-B9B6-92774F6B26A9,BaeS37Jb6WWOYzkB9WoSLfveV,South Lake Union,Karlo
+04/13/2021 12:16 PM,Michael,1x Chicken Platter,1,9.89,1.01,0,,0.00,10.90,93FDF6E2-2A85-4FB2-B6BF-022182FD15C9,5mK8daPWE2uYowcchfmShngeV,South Lake Union,Michael
+04/13/2021 12:10 PM,Angela,1x House Chicken Salad,1,9.39,0.96,0,,0.00,10.35,A9EE339D-EA38-4993-9DFB-73CB85EFD638,NMyzCMXHfefkWZvQAafYjm4eV,South Lake Union,Angela
+04/13/2021 11:59 AM,Bhaskar,1x 11) Fiery Tofu/Feta,1,7.75,0.79,0,,1.28,9.82,652F0D77-8C1E-4A42-9A7D-1B73C50D7483,lEUdSlQQJmPckqDHjm4zayveV,South Lake Union,Bhaskar
+04/13/2021 11:59 AM,Divanshu,1x 11) Fiery Tofu/Feta,1,7.75,0.79,0,,1.00,9.54,A22C2E01-8029-4F2B-98EA-C030BD1EBB9D,zxdGrQm5qCD8wEhR1JFJbUxeV,South Lake Union,Divanshu
+04/13/2021 11:52 AM,Ram,1x Berliner Chicken Salad,1,8.89,0.91,0,,2.45,12.25,15046C80-C4AC-4613-979F-463ECB4E52E7,9wGWSDWlGu68kkthS2u69pseV,South Lake Union,Ram
+04/13/2021 11:48 AM,Pat,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,F2F5633A-E709-4C4A-9A12-DFBE0EA076E7,1EGqrRWW60ysIuFlHQR07v3eV,South Lake Union,Pat
+04/13/2021 11:44 AM,Sedin,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,2485A371-E321-42B2-A5F0-F92632D76DF5,1k6m6Ifq5nEbX4wLcAHuPJxeV,South Lake Union,Sedin
+04/13/2021 11:42 AM,Yichun,1x 7) Lamb And Beef Fiery Kreuzberg,1,11.39,1.17,0,,1.88,14.44,41EBB774-6327-4507-AD0F-F162AEC80A48,hugcUBkEAvRBH061KtblSuzeV,South Lake Union,Yichun
+04/13/2021 11:42 AM,Alex,1x 6) Lamb And Beef Berliner,1,9.89,1.01,0,,1.64,12.54,9093E63B-F214-424E-ABD2-60CCD9EF3866,318hXR1RH9QNzWULUyggI5seV,South Lake Union,Alex
+04/13/2021 11:40 AM,Hao,1x 1) House Chicken,1,10.39,1.06,0,,0.00,11.45,D2B13B1A-C539-4099-A511-2045E1BD2DE6,bLkU9Mmtj3hV7PN33iOFenieV,South Lake Union,Hao
+04/13/2021 11:40 AM,Billy,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,0.00,9.80,928A8050-53E7-4A6A-BA0E-5513D6C9D93D,RKUxYQvzZpOhCXerqsZzxGpeV,South Lake Union,Billy
+04/13/2021 11:32 AM,Melissa,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,211D2DF2-DB47-469E-982A-BE24B868A899,PRGgiJ3ApMSoB48FDCnbxS0eV,South Lake Union,Melissa
+04/13/2021 11:22 AM,Masai,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,B2C24D6C-7831-44DF-8187-CBF935E2530A,NYmuIuD5x8qL8B8CwwQhWjjeV,South Lake Union,Masai
+04/13/2021 11:22 AM,Wes,1x 7) Lamb And Beef Fiery Kreuzberg; 1x Chips,2,13.39,1.37,0,,3.69,18.45,5716A2B2-ED11-4D81-BE6B-D0461CC41DEC,hMfSdQz3kPSbkg1hb3QWFFzeV,South Lake Union,Wes
+04/13/2021 11:06 AM,Spencer,1x 4) Chicken Scorching Kreuzberg; 1x Can Coke Zero,2,9.14,0.94,0,,0.00,10.08,011825E4-371B-4B6C-A5D9-53E7E559CDC3,77a1oMn2FdTSCBh78ycyRWxeV,South Lake Union,Spencer
+04/09/2021 07:32 PM,Yixuan,1x Chips,1,1.50,0.15,0,,0.00,1.65,DB02FB6B-9808-4778-8C46-037CA0824879,PznI67MsCyq840lLMLrLvbheV,South Lake Union,Yixuan
+04/09/2021 07:06 PM,Eric,1x 2) Chicken Berliner; 1x 3) Chicken Fiery Kreuzberg,2,15.78,1.62,0,,3.48,20.88,9B8BEED2-1F3F-4BC6-9E18-DB394D15C13E,bllWbZqkmlNeedq4EJXMFe4eV,South Lake Union,Eric
+04/09/2021 07:06 PM,John,1x 9) House Tofu/Feta,1,7.25,0.74,0,,1.60,9.59,A07F26D3-A71E-44F8-B51D-17EFEFF339F0,jhfJfEl6pT7yu8s1JTvXAI8eV,South Lake Union,John
+04/09/2021 06:21 PM,Mike,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,F7033C95-7ECF-4D8B-9F45-BD0A06794F8B,nlam53gww6hZYBfw4Yl1899eV,South Lake Union,Mike
+04/09/2021 06:02 PM,Jay,1x 2) Chicken Berliner; 1x 7) Lamb And Beef Fiery Kreuzberg,2,16.78,1.72,0,,2.00,20.50,53514A2E-40C9-4EA1-9984-76CFC4900889,tcGb7zWGSrewaAQEBrcFOfieV,South Lake Union,Jay
+04/09/2021 05:08 PM,Jessica,1x 2) Chicken Berliner; 1x 6) Lamb And Beef Berliner,2,16.78,1.72,0,,0.00,18.50,4E4EE799-885E-4F80-BB0D-8C1D7D75983E,10iwhXif5NlGi9g5YBZXQ6eeV,South Lake Union,Jessica
+04/09/2021 03:54 PM,Chris ,1x 6) Lamb And Beef Berliner; 1x Chips,2,10.39,1.06,0,,1.00,12.45,EDC289E4-74A2-4C9E-A7C2-6E8A587E37A3,Vc81iSY8SFqKWmZWepViwbieV,South Lake Union,Chris 
+04/09/2021 03:32 PM,Kim,1x 6) Lamb And Beef Berliner; 1x 2) Chicken Berliner,2,17.78,1.82,0,,2.94,22.54,99670ABB-C079-4F9D-B318-B2E4BF736995,HBCHJFMyMyCsQeKLACTeWogeV,South Lake Union,Kim
+04/09/2021 03:31 PM,Jason,1x 2) Chicken Berliner,1,8.39,0.86,0,,0.50,9.75,B896B785-770F-4657-8DE8-CDEA27AB7FE6,v5QjGkmflCzeMSWImPLE7S5eV,South Lake Union,Jason
+04/09/2021 03:29 PM,G,2x Side House Bread,2,3.00,0.31,0,,0.00,3.31,72F6A925-BA70-4541-BEFB-C01FA408AC59,F6vPjoOgyzoRBXLGHEwkcAjeV,South Lake Union,G
+04/09/2021 03:25 PM,O,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,32AAD065-3114-48CD-AE6A-25A97E5F700F,Xdc9G6LbCOPGPdIBUbIGJm4eV,South Lake Union,O
+04/09/2021 03:12 PM,D,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.96,11.76,D7095FEC-8F63-4DF3-99C4-FA6C84AC0FFB,DpnxiR0ekJo6cEJWdQqmh8jeV,South Lake Union,D
+04/09/2021 03:01 PM,Diwas,1x 1) House Chicken,1,7.89,0.81,0,,0.00,8.70,0980B36C-C1FF-4924-BA1B-F2A6B73F3FD9,hqglEz6CTD6vr00IaUSyeBreV,South Lake Union,Diwas
+04/09/2021 02:58 PM,Zee,1x Chicken Platter,1,9.89,1.01,0,,0.00,10.90,9C8A7798-FCB1-415A-AF2B-10DD9610054D,nH5lXS9wRB3wqRWrZZGdaQxeV,South Lake Union,Zee
+04/09/2021 02:38 PM,Sedin,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.00,10.80,54DCFBC7-5ED8-4459-AEB6-0DCB27357711,fVEsWQJFUHskcd27kaNWJ9keV,South Lake Union,Sedin
+04/09/2021 02:19 PM,Mad,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.00,10.80,1CC11F65-B05D-4FA5-8AA8-F5394B545739,FytcfVrgWXqUAiXaNt0VZ7geV,South Lake Union,Mad
+04/09/2021 02:17 PM,D,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.96,11.76,B2C443AF-BBF3-4B56-A1E1-AD9317339453,ZM7BUhwCHrcyQ0gE8QzB5S8eV,South Lake Union,D
+04/09/2021 01:26 PM,Brett,1x Chicken Platter; 1x Can Diet Coke; 1x Side Chili Yogurt Sauce,3,11.64,1.19,0,,1.92,14.75,282A06C1-D4BD-4109-B008-43A2E489D780,xY9qw585YgCCDrt2eLDXHrheV,South Lake Union,Brett
+04/09/2021 01:24 PM,Alex,1x 1) House Chicken,1,7.89,0.81,0,,1.30,10.00,6E443EAD-94A9-45F8-B73F-20E1110EFB15,dKrMhtHgHuKIneZiYaHha97eV,South Lake Union,Alex
+04/09/2021 01:24 PM,Will,1x 6) Lamb And Beef Berliner,1,9.39,0.96,0,,0.00,10.35,FF13D1EF-35FF-48A5-B307-4D15DA68BA0D,94iaeFTzvYIMHNYduShmYvheV,South Lake Union,Will
+04/09/2021 01:23 PM,Faisal,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.30,10.00,C94B9BC5-88BA-48D4-BF14-264F78911FC6,PrxBN2tD27eo7XGE9TQQoy2eV,South Lake Union,Faisal
+04/09/2021 01:23 PM,Sebastian ,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,69453480-4CCA-4EE8-90A3-29F0492AC8DF,pYBJ1y3DcYNKsnUdfCDaFw0eV,South Lake Union,Sebastian 
+04/09/2021 01:17 PM,Shekhar,2x 11) Fiery Tofu/Feta; 1x 12) Scorching Tofu/Feta,3,22.75,2.33,0,,2.00,27.08,1DEEC10C-80FE-4C32-9A64-9488D13241D6,FuHKrZ2SN1pGe3Fnaz9ADz2eV,South Lake Union,Shekhar
+04/09/2021 01:09 PM,Fitz,1x Chips,1,1.50,0.15,0,,5.00,6.65,B241EF08-4872-4889-9064-286BC3C83E94,7lzHcsksI9qh62aX6KT0IP8eV,South Lake Union,Fitz
+04/09/2021 01:05 PM,Tara,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,3F1D57E8-DDB1-47F3-BAB3-C3436B2DFBD0,PjzUPzR3CpcowLuECvjz6rkeV,South Lake Union,Tara
+04/09/2021 01:00 PM,Ire,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,6553E267-1733-4325-9970-8482C9E65FD9,N0MGKiWPkuDCPqSC30zYN9oeV,South Lake Union,Ire
+04/09/2021 12:56 PM,Dinesh,1x 3) Chicken Fiery Kreuzberg,1,10.39,1.06,0,,0.00,11.45,664C5E89-78A3-4F7F-A28A-2932505B58CA,PlmBDKGsenyeACgLcWczAJpeV,South Lake Union,Dinesh
+04/09/2021 12:47 PM,MARTIN,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,42257DBB-F293-40D6-B784-CBF1B2B769FB,73SMtMtsttq4MOnPFaWAxi0eV,South Lake Union,MARTIN
+04/09/2021 12:46 PM,Sam,1x 3) Chicken Fiery Kreuzberg; 1x Side Dill Sauce,2,8.39,0.86,0,,0.00,9.25,73CAC53A-C0CE-4305-99CE-156B8351E444,5eqkMe4W087ed4t1B8QXql1eV,South Lake Union,Sam
+04/09/2021 12:45 PM,CJ,1x 11) Fiery Tofu/Feta; 1x 11) Fiery Tofu/Feta,2,15.50,1.59,0,,0.00,17.09,D080439A-B85A-4E3C-8AEE-A56741383024,90Qm4ZXyaqpUK27gEqjwXVmeV,South Lake Union,CJ
+04/09/2021 12:45 PM,Rahil,1x 4) Chicken Scorching Kreuzberg; 1x Side Chili Yogurt Sauce; 1x Side Dill Sauce; 1x Side House Bread,4,10.39,1.06,0,,0.00,11.45,AA6785A1-5B4C-4E3A-8BAC-95994E88CD0E,rHkVehkftKK6ZhUn5Sq1SVueV,South Lake Union,Rahil
+04/09/2021 12:40 PM,Safi,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,61C2A9C0-B25A-4DC6-8DD7-1BC14829E6EB,NImegH5mJJfjSUr0aTqQDVleV,South Lake Union,Safi
+04/09/2021 12:40 PM,Mike,3x 7) Lamb And Beef Fiery Kreuzberg,3,31.17,3.19,0,,5.15,39.51,0652079C-8412-4C36-A4C6-6A3813C0E6B8,jRT3rAQliZ07X4XeQFDaj2peV,South Lake Union,Mike
+04/09/2021 12:38 PM,Brandon,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.96,11.76,CD862CEF-053B-4B55-AF0E-BBCE9CAF53A5,3Fia2kmbRub2MyC1dSaayEmeV,South Lake Union,Brandon
+04/09/2021 12:36 PM,David,1x 6) Lamb And Beef Berliner; 1x 6) Lamb And Beef Berliner,2,17.78,1.82,0,,3.92,23.52,1E24B4F6-D2D5-483B-9466-DBC91B53A317,ZUlunuVoSoC7ePKvgwJQy55eV,South Lake Union,David
+04/09/2021 12:36 PM,Brett,1x 6) Lamb And Beef Berliner; 1x Bottle Mexican Fanta,2,12.64,1.30,0,,1.00,14.94,FBD02AA4-8114-4325-9139-62BFD1C4F78F,bVVUyE6eF5MnOTioT4YAskueV,South Lake Union,Brett
+04/09/2021 12:35 PM,Ansel,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,6D993274-5BDC-4000-8FAC-84637F2A01A3,hoxicojmuLizlTxM2FRyTsteV,South Lake Union,Ansel
+04/09/2021 12:34 PM,Sean,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.96,11.76,7397F7D6-0490-4FE0-A3A4-3B8F20DEDCCC,d8kY5Q40Tl8CKvwXeNKar9ueV,South Lake Union,Sean
+04/09/2021 12:23 PM,Mohamed,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,6F04A8AE-89EF-447C-BD1C-BE9027397FD9,LLiv2tSWH55rt1TXulU3zMteV,South Lake Union,Mohamed
+04/09/2021 12:22 PM,Chris,1x Fiery Chicken Salad; 1x Lamb/Beef Platter,2,19.78,2.03,0,,4.36,26.17,CC4D82F0-A5F1-4F60-ACF2-EAAB2218A382,tSz2kl1Tvj8lJyuu8Loj7HmeV,South Lake Union,Chris
+04/09/2021 12:21 PM,Mohamed ,2x 2) Chicken Berliner,2,16.78,1.72,0,,0.00,18.50,211F670E-2C01-40B3-AB80-ED0A5700CB47,FalQ0dQCz9qIcMTNui4Q6SgeV,South Lake Union,Mohamed 
+04/09/2021 12:20 PM,Deepank,1x 9) House Tofu/Feta,1,7.25,0.74,0,,0.00,7.99,E2FEC6D0-742C-4EAC-A61C-7DA8A9924611,Hrd4s17UyJSZXzyFXLyZOvieV,South Lake Union,Deepank
+04/09/2021 12:19 PM,Anton,1x Lamb/Beef Platter,1,12.39,1.27,0,,0.00,13.66,CD35ABBE-6543-40DA-AB4D-F41D12629BF4,Th18C5kchToijv6TvYbgqMpeV,South Lake Union,Anton
+04/09/2021 12:17 PM,Jawad,1x 5) House Lamb & Beef,1,8.89,0.91,0,,0.00,9.80,3C6FA50D-7353-446A-915C-9A08FE2ED898,T9Vrpn2yP7e52wfodzt615leV,South Lake Union,Jawad
+04/09/2021 12:16 PM,Mikey,1x 8) Lamb And Beef Scorching Kreuzberg; 1x 8) Lamb And Beef Scorching Kreuzberg,2,17.78,1.82,0,,2.94,22.54,4AC5D330-7C39-4D92-AE86-D583570CDF09,PtCFzyTZmB83PYrksUEtNd3eV,South Lake Union,Mikey
+04/09/2021 12:13 PM,Willma,2x Bottle Mexican Fanta; 2x Bottle Mexican Coke,4,11.00,1.13,0,,0.00,12.13,4A74E41B-2482-4D43-B6BC-B2C99A7EA801,t0qL5hOGVqYP5MvMJscmgeleV,South Lake Union,Willma
+04/09/2021 12:12 PM,Willma,1x 7) Lamb And Beef Fiery Kreuzberg; 1x 6) Lamb And Beef Berliner; 1x 6) Lamb And Beef Berliner,3,30.17,3.09,0,,4.99,38.25,D1F89CF9-88CD-47CE-847D-036EB24EC1F7,90CVFgCAph7Xtfiuzz7gz44eV,South Lake Union,Willma
+04/09/2021 12:06 PM,Tyler,2x 6) Lamb And Beef Berliner,2,17.78,1.82,0,,0.00,19.60,2F301535-C8E8-4B42-84BD-7275FCF121B6,TNFLxASPw9hrtXTT4beX0E1eV,South Lake Union,Tyler
+04/09/2021 11:59 AM,Nic,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.47,11.27,47906C47-B01B-43AC-8323-A6AB77AE3005,Hl01aOeFJqZqp6QP6IkIVIteV,South Lake Union,Nic
+04/09/2021 11:57 AM,Andrew,1x 1) House Chicken,1,10.39,1.06,0,,1.72,13.17,AC64CE4C-A59D-4757-AA25-FB7F88CCB80F,DhrJMlusXaeot4aNhGCCsvheV,South Lake Union,Andrew
+04/09/2021 11:57 AM,Ricky,1x 5) House Lamb & Beef; 1x 3) Chicken Fiery Kreuzberg,2,17.28,1.77,0,,3.81,22.86,B25510A7-4DC3-44B9-8703-4FF9AFCCDCC0,nLnrZ7L8eaOH9YemWYpDUzveV,South Lake Union,Ricky
+04/09/2021 11:54 AM,Gio,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.00,9.70,26445A82-8F1D-40D8-BBB7-AD82691B443D,Tf4QdesYGHDTtzkHNyHl1f5eV,South Lake Union,Gio
+04/09/2021 11:52 AM,Daniel,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.96,11.76,02976741-CDBE-4AA0-89C3-6362BFE450FB,V4YIgY1aiZBZ44kM8BBrnCzeV,South Lake Union,Daniel
+04/09/2021 11:50 AM,David,1x Chicken Platter,1,12.39,1.27,0,,2.05,15.71,8A32BBCA-B37F-423C-9078-15980AB69600,l6nbLLZN2qbojihzJFEke4zeV,South Lake Union,David
+04/09/2021 11:48 AM,Michael,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,8AC69A8D-465C-49EA-95F5-9C68AE2A78E2,poVT5xa3TwN0yhs3CVY4vLkeV,South Lake Union,Michael
+04/09/2021 11:45 AM,Mike,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,55AE826F-84CD-4564-AC49-9593BD930E4C,VeZ3S5cmjf84MuhqQR0HJv4eV,South Lake Union,Mike
+04/09/2021 11:40 AM,James ,1x 4) Chicken Scorching Kreuzberg,1,7.89,0.81,0,,1.30,10.00,C06022A0-7F6E-4ECF-9635-C9D6A82BBC8A,V0Yl0DDxDkVsfoTuhQ6jJRzeV,South Lake Union,James 
+04/09/2021 11:37 AM,Mark,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,2.45,12.25,377E7F03-C719-4875-A0F5-00BC3A96444D,ffhO7xjKbeNvad2acFukPwAfV,South Lake Union,Mark
+04/09/2021 11:35 AM,Hao,1x 1) House Chicken,1,10.39,1.06,0,,0.00,11.45,631B4ADF-6AA6-4774-BA59-A1E9E79A201C,v1GzAClTl5Mocc3Diu56yU0eV,South Lake Union,Hao
+04/09/2021 11:32 AM,Billy,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,0.00,9.80,D692DE35-F079-4023-B062-6292BF1ABD8C,tQMnEk1QSHqkll4t9mjpon6eV,South Lake Union,Billy
+04/09/2021 11:29 AM,Dai,1x 3) Chicken Fiery Kreuzberg; 1x Can Coke,2,9.14,0.94,0,,0.00,10.08,7479D31C-0823-4CC2-AC7B-E1FC931A79E2,5EPtUewLtWZEPGBLe8y8eE8eV,South Lake Union,Dai
+04/09/2021 11:28 AM,Kate,1x 12) Scorching Tofu/Feta,1,7.25,0.74,0,,1.20,9.19,CFF95B01-637F-4E7F-8AF9-0FCE8BF4B83E,TBpSaWf6CKXEyYNV86dLTK9eV,South Lake Union,Kate
+04/09/2021 11:16 AM,Colleen ,1x Lamb/Beef Platter; 1x Can Coke,2,12.14,1.24,0,,2.01,15.39,FC39B2A6-24FB-427A-A809-2834605C6999,D17CDrkT6AIHTVqvRctV5o2eV,South Lake Union,Colleen 
+04/09/2021 11:05 AM,Alex,1x 6) Lamb And Beef Berliner,1,11.89,1.22,0,,0.00,13.11,8526B074-F75E-45A8-8166-C0A492E8EADC,vNKL8v2z3dfvU6IqlGzw6w2eV,South Lake Union,Alex
+04/09/2021 11:03 AM,Farhan,1x 2) Chicken Berliner,1,8.39,0.86,0,,0.00,9.25,E0DBBE1F-333B-4973-8426-467834D0DACE,Fyvro8SsMB8Rb0Mfgu4m2MAfV,South Lake Union,Farhan
+04/09/2021 11:02 AM,Deven,1x House Lamb And Beef Salad,1,9.89,1.01,0,,0.00,10.90,D7AEB2A5-7976-4D07-9CD5-044E09CAE17D,hEBhnokVtdGrHW9YD3HI7H6eV,South Lake Union,Deven
+04/08/2021 07:49 PM,Vaibhav,1x Can Coke Zero; 1x 11) Fiery Tofu/Feta,2,8.50,0.87,0,,1.41,10.78,32D08CB5-7FC2-4DB7-8004-B8BA0C372232,jVnqu7MyW9EmxsRdEVdkFqteV,South Lake Union,Vaibhav
+04/08/2021 07:12 PM,Reza,5x 5) House Lamb & Beef; 3x Can Coke,8,48.20,4.94,0,,2.00,55.14,C822F4AA-3461-4193-873D-2035F366FBD5,Z4VvqBoMGcP2z0Ee94pW5rjeV,South Lake Union,Reza
+04/08/2021 07:09 PM,Ben,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.96,11.76,465038B6-5D88-44FE-9B74-AF463BE95900,Fqfxw3J3bxbT6eup26yaFOleV,South Lake Union,Ben
+04/08/2021 07:00 PM,Hanad,1x 2) Chicken Berliner; 1x 6) Lamb And Beef Berliner,2,16.78,1.72,0,,2.78,21.28,B40C521B-80CA-40FB-A833-882FAA6AEEB0,ValuUYzxYyaOz3bguktTBMkeV,South Lake Union,Hanad
+04/08/2021 06:47 PM,Jason,1x 6) Lamb And Beef Berliner; 1x Can Coke Zero; 1x Chips,3,12.14,1.24,0,,2.01,15.39,15C11112-2913-4B25-B49F-5D546708C3AC,3zrLcRkdgkOzwH1Ehs3oNnveV,South Lake Union,Jason
+04/08/2021 06:44 PM,Chris,1x 6) Lamb And Beef Berliner,1,9.39,0.96,0,,1.55,11.90,10E1E000-3645-4767-95CE-29DA6713CD70,VynnFFVxP8Eyusk8ns0jzbleV,South Lake Union,Chris
+04/08/2021 06:30 PM,Ganesh,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.00,10.80,84640F3A-C24D-4BB3-A8AD-113211CBBA64,zbyk0JYVPmb3jKX3W24D6WmeV,South Lake Union,Ganesh
+04/08/2021 05:06 PM,Clara,1x 7) Lamb And Beef Fiery Kreuzberg,1,9.39,0.96,0,,0.00,10.35,1AC4ADF1-3C3A-44EF-9BA1-EB6C0EEDAE9E,X1auUpEihQDezKt6h0omU49eV,South Lake Union,Clara
+04/08/2021 04:54 PM,Ricky,1x 3) Chicken Fiery Kreuzberg,1,10.39,1.06,0,,0.00,11.45,BCD60FF5-0677-402E-84A3-1D99DF1ABC11,DpFCFsr1XAvbCKcH9DInfgteV,South Lake Union,Ricky
+04/08/2021 04:54 PM,Justin,1x Berliner Lamb and Beef Salad,1,13.89,1.42,0,,2.30,17.61,09EB7008-D3D6-4E5E-A593-E31C6C312B33,pygeFtakypCiyP5ng3eWT3veV,South Lake Union,Justin
+04/08/2021 04:02 PM,Alex,2x Bottle Mexican Fanta,2,5.50,0.56,0,,0.91,6.97,F23F5B90-4072-4ED2-BA47-F8EC858CDA28,B4rBJSwprpjVxGbwBEVNbC7eV,South Lake Union,Alex
+04/08/2021 03:57 PM,Aidan,1x 5) House Lamb & Beef,1,8.89,0.91,0,,0.00,9.80,9081BDC7-DD1C-4824-9028-A5DC3B1C204B,xQLttJGmUzeTxjJoxHNAOx3eV,South Lake Union,Aidan
+04/08/2021 03:56 PM,Matthew,1x 6) Lamb And Beef Berliner,1,9.39,0.96,0,,1.55,11.90,ACFA2925-4355-4C1E-AA73-468B88F9B516,906fuvfbUzsf0s4BlAcT6r8eV,South Lake Union,Matthew
+04/08/2021 03:54 PM,Marianne,1x 5) House Lamb & Beef; 1x 5) House Lamb & Beef; 1x 7) Lamb And Beef Fiery Kreuzberg,3,26.67,2.73,0,,4.41,33.81,57F79BED-9B16-4B88-B250-7A8ABDC7BC5A,VgC1tYORzePgXEcJ9HgOCB5eV,South Lake Union,Marianne
+04/08/2021 03:49 PM,Abc,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,1CA9C8D0-661A-408F-BD4D-05D6E272522D,T7YfaDI8zXAcYXQeveCFmkieV,South Lake Union,Abc
+04/08/2021 03:33 PM,Hassan,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,F9519C1D-BC11-4573-9D43-A9796438F211,5uIJLnKNhjbD24BuOWkSsf1eV,South Lake Union,Hassan
+04/08/2021 03:12 PM,Emily,1x 2) Chicken Berliner; 1x Chips; 1x Can Coke,3,11.14,1.14,0,,2.46,14.74,F9012876-0593-4BEE-A36C-F9741A1F2A15,PjN3IOLZ3Tx5cMD9Mnj9znoeV,South Lake Union,Emily
+04/08/2021 03:02 PM,Dan,2x 2) Chicken Berliner,2,15.78,1.62,0,,0.00,17.40,32420AEE-B987-46B6-819E-821F80784384,N8I4L3nvoARSS4SznxugFL4eV,South Lake Union,Dan
+04/08/2021 02:28 PM,Ray,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,26D306F7-8157-4281-BD3A-D1C5061A4DCE,JeUv4l6Jtqb3Keek53OXkxgeV,South Lake Union,Ray
+04/08/2021 02:22 PM,Monish,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,9B66B90D-4438-424C-945B-38AD70A3BC8C,nfPCt7hH28w1zMOI3iCcOlAfV,South Lake Union,Monish
+04/08/2021 02:20 PM,Alex,1x Lamb/Beef Platter,1,10.89,1.12,0,,2.40,14.41,29FE1136-168B-4B64-A5A2-D9B38E50BEDB,9023ZMyZS2qVRNTir4ItV7zeV,South Lake Union,Alex
+04/08/2021 02:02 PM,Jared,1x Lamb/Beef Platter,1,10.89,1.12,0,,1.80,13.81,50A78935-1D64-41AE-8CE3-8D2B47980B2F,BWiht7LaaU1pTVFhDHW0arjeV,South Lake Union,Jared
+04/08/2021 01:58 PM,G,1x 9) House Tofu/Feta,1,7.25,0.74,0,,0.00,7.99,89E02AC7-1097-4628-82FA-4A078F59350D,H3TirCinQzsdd6N07E0PnkseV,South Lake Union,G
+04/08/2021 01:33 PM,Colby,1x 6) Lamb And Beef Berliner; 1x Bottle Mexican Coke,2,12.14,1.24,0,,2.68,16.06,48CE7F16-E241-4B7F-BE80-53BEAB170494,1wuPbo7xv0dxFvL9AL5hygheV,South Lake Union,Colby
+04/08/2021 01:30 PM,Brian,1x 5) House Lamb & Beef; 1x Bottle Mexican Fanta,2,14.14,1.45,0,,2.34,17.93,91AC9630-138D-41B7-9BB9-B12234CC1A02,Trk9ITDAYjAEpRtC5IJbrPqeV,South Lake Union,Brian
+04/08/2021 01:27 PM,bao ,1x 5) House Lamb & Beef,1,8.89,0.91,0,,0.00,9.80,0C6C21C7-E77B-4709-AA90-7B167D3EDDCC,ReQInkZzpZGvS535i5TFU0ueV,South Lake Union,bao 
+04/08/2021 01:26 PM,Vinay,1x 2) Chicken Berliner,1,8.39,0.86,0,,1.39,10.64,AD267A1F-6DAA-45E9-9FE2-6F77F1AEC869,BuYebgH6Aj6keuvANNiaQAveV,South Lake Union,Vinay
+04/08/2021 01:25 PM,David,1x 1) House Chicken,1,7.89,0.81,0,,1.30,10.00,03946700-2968-4528-A89E-05A979C0053B,jDuyiTTTELD6NbLGFi3zSafeV,South Lake Union,David
+04/08/2021 01:21 PM,CL,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.30,10.00,079CE928-04D2-4D08-BEA2-7F859599B9BC,3B6pjWWuKefoDEA8MIOHYZueV,South Lake Union,CL
+04/08/2021 01:14 PM,Hareem,1x 2) Chicken Berliner; 1x 6) Lamb And Beef Berliner,2,17.78,1.82,0,,2.94,22.54,02488B6B-88DE-4DCA-AB44-EDEBB1CF0197,fxike2spUTxFyiXSpKzAUdfeV,South Lake Union,Hareem
+04/08/2021 01:11 PM,Amit,1x 3) Chicken Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,4C287F1E-0727-4F0B-86AB-1B8A08D97E17,HrpErrdnwbR5a58YRcIE1B0eV,South Lake Union,Amit
+04/08/2021 01:09 PM,Jens,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,05125A35-21A0-4283-B325-37EC3D8C7272,F6vTREVOGq4F2x71laZV4w9eV,South Lake Union,Jens
+04/08/2021 01:07 PM,Carter,1x 2) Chicken Berliner; 1x 6) Lamb And Beef Berliner,2,16.78,1.72,0,,2.00,20.50,5489A692-2699-47B0-8D6E-040FA3EFAC87,BQ7HpVYHyJLQu0Wfp841nsleV,South Lake Union,Carter
+04/08/2021 01:02 PM,Sol,1x 6) Lamb And Beef Berliner; 1x 6) Lamb And Beef Berliner,2,17.78,1.82,0,,0.00,19.60,13841556-5095-467A-B1DE-04FB6807FBDB,T3alOwg1vu3kLe9OldCWNSqeV,South Lake Union,Sol
+04/08/2021 12:57 PM,Reece,1x 1) House Chicken,1,7.89,0.81,0,,0.00,8.70,52F86DBD-EF33-4D49-B555-C549CA4E6E1F,pKga8aBoIMtWsYxWH0vQXckeV,South Lake Union,Reece
+04/08/2021 12:48 PM,Nika,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.00,10.80,FD654115-B7BD-4EF9-90D2-D7661DA44682,xUXMk4L4NwG0FywSTaacojveV,South Lake Union,Nika
+04/08/2021 12:39 PM,Ben,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,FCE6DE5F-BF9B-4218-B923-D78AE29FC471,pmqoOLJVXwq0B1ljL62wDgmeV,South Lake Union,Ben
+04/08/2021 12:37 PM,Colin,1x 6) Lamb And Beef Berliner,1,9.89,1.01,0,,0.00,10.90,4071D3A2-E85B-4D8D-B3B9-3DF72FED0BBD,l6jpJUQlkECLmS7kl3vujXteV,South Lake Union,Colin
+04/08/2021 12:37 PM,Jerry,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,CFAD73DE-0915-4249-8EE0-16DDAD7D657D,T5PHEV6sBZR5ACVmUOZMHf9eV,South Lake Union,Jerry
+04/08/2021 12:35 PM,Ram,1x Berliner Chicken Salad,1,8.89,0.91,0,,1.96,11.76,566CDF55-5407-45E1-B92F-C1B427312A03,BcDKEe6NlZ0pzs76w1JgdWzeV,South Lake Union,Ram
+04/08/2021 12:33 PM,Erik,1x 2) Chicken Berliner,1,8.89,0.91,0,,0.00,9.80,7E2BB07A-0A9A-4B99-9AD8-6D493F91179F,9UaXYCORN2LpkjAB7zQ9RH0eV,South Lake Union,Erik
+04/08/2021 12:32 PM,Ed,1x 6) Lamb And Beef Berliner,1,9.39,0.96,0,,0.00,10.35,B49C23C6-3096-4EC1-83FB-BC888D26D10A,VQmx4etkG7gzQIPvX5rF6weeV,South Lake Union,Ed
+04/08/2021 12:29 PM,Corey,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.00,10.80,D7CA6808-1C3F-485A-A487-B1EFA55D4B01,hENB4qOQC5wGUBwcvWHXT83eV,South Lake Union,Corey
+04/08/2021 12:29 PM,Toni,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,158D971E-EC1A-44BE-8756-38B4357F99BC,PTb0rbbtXVtOxonE7SYtGM4eV,South Lake Union,Toni
+04/08/2021 12:24 PM,Anton,1x Lamb/Beef Platter,1,12.39,1.27,0,,0.00,13.66,4D793A3D-A8C9-43DD-AC48-0A1AF9BCC482,Fka0SdevUVVSQrqVwYhihiweV,South Lake Union,Anton
+04/08/2021 12:22 PM,Sebastian garcia,1x Can Coke; 1x 3) Chicken Fiery Kreuzberg,2,9.14,0.94,0,,0.00,10.08,FCC20AE3-EEDF-4C02-AA1F-53A71379617A,fpy4l7iV7Nt3vHQ00NC9qY6eV,South Lake Union,Sebastian garcia
+04/08/2021 12:17 PM,Sam,1x 6) Lamb And Beef Berliner; 1x Bottle Mexican Coke,2,11.64,1.19,0,,2.57,15.40,8978E938-DF89-4CCE-B19A-68EA42FFE830,rzCFeo9H1BbRwo1GlyIMiEAfV,South Lake Union,Sam
+04/08/2021 12:15 PM,Ram,1x Chicken Platter,1,9.89,1.01,0,,0.00,10.90,749344C1-A252-497F-B455-FDFBB6D833FE,9qDgjpqm4lnPluwU27dvTn4eV,South Lake Union,Ram
+04/08/2021 12:15 PM,christina,1x 8) Lamb And Beef Scorching Kreuzberg; 1x Can Coke Zero; 1x Side Dill Sauce; 1x 6) Lamb And Beef Berliner,4,20.03,2.05,0,,0.00,22.08,CED09546-9360-4573-B559-3BA80F48F4BA,BqmUiO6iNp0nrge0NzMfOW1eV,South Lake Union,christina
+04/08/2021 12:13 PM,Steve,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,2CC713CE-64D1-459F-A424-43E892D85455,LXAranKNrWWBzhMHCBepmtleV,South Lake Union,Steve
+04/08/2021 12:06 PM,Rob,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,5FA7DB04-97D3-4E3D-BCCF-42CE611B007D,NEG3kx8pQSXH6xkozI4iJEweV,South Lake Union,Rob
+04/08/2021 12:03 PM,Ryan,1x Lamb/Beef Platter,1,14.89,1.53,0,,0.00,16.42,57185F87-F6B4-4EC2-A70E-4B54CD618C85,5CKfAtZpS8VLvolIX2CXQTyeV,South Lake Union,Ryan
+04/08/2021 12:03 PM,Mike s,1x 5) House Lamb & Beef; 1x Can Coke,2,10.64,1.09,0,,0.00,11.73,7079D9A5-508E-4C30-878C-80BC556B1972,XDrBL5mpRCGUM8OB1hMgTMAfV,South Lake Union,Mike s
+04/08/2021 12:00 PM,Pat,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,3D96F054-4AA3-4759-B429-8D6E74072163,5odTYoxbuNvXIVtJMJRDyMAfV,South Lake Union,Pat
+04/08/2021 11:55 AM,Akash,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,DD9E8E4C-5FFD-4496-ABAF-25EC73853B3B,jZLBpFxfedjWG7cvrrB0Vm3eV,South Lake Union,Akash
+04/08/2021 11:52 AM,Tara,1x 2) Chicken Berliner,1,8.39,0.86,0,,0.00,9.25,10A6D4E6-167C-45BE-BE26-667067F80721,zXadq99pnpMLVj4uvoTP5umeV,South Lake Union,Tara
+04/08/2021 11:52 AM,Jared,1x 12) Scorching Tofu/Feta,1,7.25,0.74,0,,0.00,7.99,30E082E3-F71C-479A-A60F-52FFB4A831ED,lUEhY0WLfo3EAkyKLXNDkkweV,South Lake Union,Jared
+04/08/2021 11:49 AM,Scott,1x 1) House Chicken; 1x Bottle Mexican Coke,2,10.64,1.09,0,,2.93,14.66,EFF5FC6C-3C1D-4574-A2B9-9AAD3DB1999C,VIKFwyNIm6953uKA2nN9hnqeV,South Lake Union,Scott
+04/08/2021 11:49 AM,Jack,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,8029C702-9181-46D5-8792-7EAFD31114C5,V4WRHryMhMuZO2qRo1qGhGpeV,South Lake Union,Jack
+04/08/2021 11:41 AM,Mohamed ,2x 2) Chicken Berliner,2,16.78,1.72,0,,0.00,18.50,E18B2B72-2510-4FA7-A25D-E734AC241A67,tgMXyogFtK5zQY3eqFLwUMmeV,South Lake Union,Mohamed 
+04/08/2021 11:37 AM,Marc,1x Side House Hot Sauce; 2x 2) Chicken Berliner; 2x Can Coke Zero,5,18.78,1.92,0,,0.00,20.70,01EBDE5C-3F98-4387-8DDB-A784FD31C98C,DrKQfy7zqz7jwM0nVR98v3qeV,South Lake Union,Marc
+04/08/2021 11:34 AM,Vikram,1x 6) Lamb And Beef Berliner,1,11.39,1.17,0,,1.88,14.44,08219347-CF6A-4C26-A14F-2B41D115F0C3,FWNDhsUOJg9bh3rq3Q02PK4eV,South Lake Union,Vikram
+04/08/2021 11:31 AM,Suzy,1x 2) Chicken Berliner,1,8.39,0.86,0,,0.00,9.25,D74DBF20-820E-49B6-B1A8-C73C57B1585C,1mra6HmDAjnYYZ4aO1VODi1eV,South Lake Union,Suzy
+04/08/2021 11:24 AM,Carson,1x 1) House Chicken,1,7.89,0.81,0,,2.18,10.88,DCC1D7FC-6BA4-482C-9BC1-5EE6BDF7CD5D,DL6g5Pplv2U4tAW5HLSoqBheV,South Lake Union,Carson
+04/08/2021 11:21 AM,Jawad,1x Chicken Platter,1,9.89,1.01,0,,0.00,10.90,58F4E94C-84F2-40D2-B5B4-4DF3A38234C9,PRqIxb1bDqlYscCPZwrEq2meV,South Lake Union,Jawad
+04/08/2021 11:16 AM,Aj,1x Chips,1,1.50,0.15,0,,0.00,1.65,6CB1275E-0141-40E9-B21E-0A8D29DB8648,9QaMsJnDXbZZiRsYcOJqmyqeV,South Lake Union,Aj
+04/08/2021 11:13 AM,Aj,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,439AE530-5461-451D-88CC-88730E9F74A0,pUVKavBkVoObxvKawMI9TIkeV,South Lake Union,Aj
+04/08/2021 11:12 AM,Jeff,1x Lamb/Beef Platter,1,10.89,1.12,0,,1.80,13.81,CFF1FC9E-174C-4667-9688-80C7ABDF997C,lWdpYdElsjkWbpi7SLFo4QkeV,South Lake Union,Jeff
+04/08/2021 11:12 AM,Dean,1x 1) House Chicken,1,7.89,0.81,0,,0.00,8.70,7D30E751-C793-403E-9FB3-9157A7A030D1,1Ojoma6xOB4zBuQ08V31h5ieV,South Lake Union,Dean
+04/07/2021 06:58 PM,D,1x Side House Bread,1,1.50,0.15,0,,0.00,1.65,5833DE1B-5EFF-44B7-89F0-D1B4E63E7401,3tQ5VruknaSGrU4POkN5NW2eV,South Lake Union,D
+04/07/2021 06:12 PM,Fahad,1x 2) Chicken Berliner,1,8.39,0.86,0,,1.39,10.64,D15F1667-058B-41C3-B0F9-A38E3C3777E0,jBPnemszPJaJlH9KdDCovFgeV,South Lake Union,Fahad
+04/07/2021 05:41 PM,Justin,1x Berliner Lamb and Beef Salad; 1x Berliner Lamb and Beef Salad,2,23.78,2.44,0,,3.93,30.15,4134D5DC-781A-4764-B979-D8EFBE27E847,JmmWUVP1q3B98JmPtnl9wWgeV,South Lake Union,Justin
+04/07/2021 05:15 PM,Michelle,1x 7) Lamb And Beef Fiery Kreuzberg,1,9.89,1.01,0,,2.72,13.62,CCF0749E-15E4-4E2F-8185-0E0A02D6EEE4,1ci2DMonM38HHo6reLuyxdyeV,South Lake Union,Michelle
+04/07/2021 05:01 PM,Chris,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,418722C2-2ED5-4EFB-B674-A1596701BD88,NGfpHPBtyrTPdKmlf56GYVfeV,South Lake Union,Chris
+04/07/2021 04:01 PM,Michael,1x Chips,1,1.50,0.15,0,,0.00,1.65,8A45EC98-6221-4CC3-9F1F-597550A7E6FA,BmsGrPisAbYnirnkxZG2RoseV,South Lake Union,Michael
+04/07/2021 03:14 PM,Matt,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,AD168457-A5D2-4BC7-ABA8-55FCFCB2A962,B0LyZ8BlpHCYrnsGOQVjxEzeV,South Lake Union,Matt
+04/07/2021 03:12 PM,Lauren,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.96,11.76,33C7F1C7-0D28-401C-8CB0-51176A511B73,LbsmbSwHnpsOq9gjsyaUfqzeV,South Lake Union,Lauren
+04/07/2021 02:59 PM,Mohammad,2x 1) House Chicken,2,15.78,1.62,0,,0.00,17.40,39F54FB5-FCB9-422C-A5C6-61E251BB096D,XzRO6nw8zKbo4rGu66QZh88eV,South Lake Union,Mohammad
+04/07/2021 02:47 PM,Thomas,1x 6) Lamb And Beef Berliner; 1x Berliner Chicken Salad; 1x Can Diet Coke,3,20.53,2.10,0,,0.00,22.63,6478217E-4BAA-43BD-83F7-9681574F2128,ZiwMxIF66ymUnZnSM7LxSC3eV,South Lake Union,Thomas
+04/07/2021 02:30 PM,Rachel,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.74,10.44,47542FDC-7C4B-4D1D-B1E0-F0A8C81D52C3,HX1xOItqskFjytCLLTQQj18eV,South Lake Union,Rachel
+04/07/2021 02:28 PM,Amanda,1x Lamb/Beef Platter,1,10.89,1.12,0,,0.00,12.01,212094B5-9B25-4F08-88DF-951BFC47A030,HXDQWcEoGJWG0rC9Pn1RdwleV,South Lake Union,Amanda
+04/07/2021 02:22 PM,Biley,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,60B5A8AE-E9F4-41CC-88AA-DF33433B916D,vFEuaNEGh0UFJyIOD7Ymxz6eV,South Lake Union,Biley
+04/07/2021 02:18 PM,Chris,1x 6) Lamb And Beef Berliner,1,9.39,0.96,0,,1.55,11.90,6E11C473-6778-4458-962C-9CCF5A9988E1,7vyC7cUPJDkeEu2ZiswdKZ5eV,South Lake Union,Chris
+04/07/2021 02:05 PM,Orlando ,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.47,11.27,4F411C8E-71BF-4D9B-A20C-A90207480EAF,Lxpdw1GxE9viNmklJctweBseV,South Lake Union,Orlando 
+04/07/2021 01:59 PM,Palmer,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.74,10.44,412CA4C8-8BD0-405E-AFAB-E837C44493FF,VeVPf12aCsWktjBlZPaow2heV,South Lake Union,Palmer
+04/07/2021 01:53 PM,Milos,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.00,10.80,2AB6FC3F-7CE6-4EE4-A347-AB704F75C6A3,jVt1o0BjuJXIpaBHhLoV3njeV,South Lake Union,Milos
+04/07/2021 01:43 PM,D,1x 2) Chicken Berliner,1,7.89,0.81,0,,2.18,10.88,B87CE61D-BB68-4547-828B-A4B4567EA5E6,J6eDnZjLffiJV1Y0ec20NQkeV,South Lake Union,D
+04/07/2021 01:39 PM,Ansel,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,F17013B9-861C-4608-9189-185D00A7EA9F,T32ziaIjaMwo2Ya0jh91fVxeV,South Lake Union,Ansel
+04/07/2021 01:28 PM,Kyle,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,83D08FA3-693D-4C7E-907A-AC79BE9F355F,d2HdKsKQtPuwIHMKM513Zk1eV,South Lake Union,Kyle
+04/07/2021 01:19 PM,Earl,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,FD6ADAF6-BF5A-4FB3-958B-148BC74CB905,r3ygEoisIMUmzlSlnXK6F25eV,South Lake Union,Earl
+04/07/2021 01:17 PM,New sale,1x 2) Chicken Berliner,1,8.39,0.86,0,,1.39,10.64,8CCD7D2E-D9CE-4EA9-8CA8-0CA666E37F7F,rF3fyHyGgDa3sekM8WM9K85eV,South Lake Union,New sale
+04/07/2021 01:06 PM,Idris,1x 4) Chicken Scorching Kreuzberg,1,7.89,0.81,0,,0.00,8.70,4890C89C-CC4D-4D16-8B25-49407C354557,LXKSVuxkuuQiQG00pVxQfqteV,South Lake Union,Idris
+04/07/2021 12:52 PM,Mohammad,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,F0F22E0E-63E0-4E23-B3CA-5D2124CDAF11,LVvPUFypPnisYEQZ6VftZnseV,South Lake Union,Mohammad
+04/07/2021 12:46 PM,Will,1x 5) House Lamb & Beef,1,8.89,0.91,0,,0.00,9.80,19635AC7-CF5E-4D4D-9B53-D42D1D28697D,XjtcMfJld4H5BacOqVUHGS6eV,South Lake Union,Will
+04/07/2021 12:39 PM,Jim,1x Lamb/Beef Platter,1,10.89,1.12,0,,1.80,13.81,C1B246C9-E490-4DC3-84D8-8DE978233304,dWNAS8HSCAVXK1HgqtGGSDfeV,South Lake Union,Jim
+04/07/2021 12:34 PM,Sean,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,06E6FE69-C1AD-43CA-8EE0-7D7D45E70C7C,JCidAv76WRqK0JbKVENgOb2eV,South Lake Union,Sean
+04/07/2021 12:33 PM,Kay,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.47,11.27,D17C057B-014A-4378-A4C8-6CEF02D92BDD,PNQ2CJRuP5IpmLpKObPZvG9eV,South Lake Union,Kay
+04/07/2021 12:31 PM,Anton,1x Lamb/Beef Platter,1,12.39,1.27,0,,0.00,13.66,D3F9FEF9-2C2E-4B8C-A5AB-892848821A8C,RgvXNDFLJN7INGXBGmEZ7W8eV,South Lake Union,Anton
+04/07/2021 12:26 PM,Nick,2x 6) Lamb And Beef Berliner,2,18.78,1.92,0,,3.10,23.80,173DF749-6CB3-42C7-9D94-EBFCFEE7AF80,jlbSzjlklfvBFhtt1a5NQMqeV,South Lake Union,Nick
+04/07/2021 12:25 PM,Michael,1x Chicken Platter,1,9.89,1.01,0,,0.00,10.90,6306A1F2-A746-4378-95D7-23A6406DB7DA,liPRRHB1tXHFHM8o51f1tj0eV,South Lake Union,Michael
+04/07/2021 12:22 PM,Mo,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,69C267C0-9760-4B84-95A9-F5CE39E6315B,vJgvGawVmNcnFfKRBzuSHj9eV,South Lake Union,Mo
+04/07/2021 12:22 PM,Felix,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,0.00,9.80,D047CCFD-3B42-4468-AD7E-C3072BDF65BA,DBJw6gUxFFPgrMZP48dX0U0eV,South Lake Union,Felix
+04/07/2021 12:22 PM,Aj,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.74,10.44,6CBBF88B-924F-46D3-9770-966A87EFAB5B,NIy04xIHWwS8CdUfMIhoiUreV,South Lake Union,Aj
+04/07/2021 12:17 PM,Mike,1x Lamb/Beef Platter,1,12.39,1.27,0,,2.73,16.39,2EAEEF20-26E0-4D42-B053-03460E1F91C3,BSauJbe2S7VLUBfZtm1x2p9eV,South Lake Union,Mike
+04/07/2021 12:17 PM,Tim,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,1.47,11.27,46B0038F-7EC1-452B-992C-5695E68E68F3,xgpi4QEqPivc0czCmX7f5FpeV,South Lake Union,Tim
+04/07/2021 12:12 PM,Khris,1x 2) Chicken Berliner; 1x 9) House Tofu/Feta,2,15.14,1.55,0,,2.50,19.19,E47B8FF3-96BD-4862-9697-54294AB1E3BD,9McYHwnaHIbvcB5K0fHK6S9eV,South Lake Union,Khris
+04/07/2021 12:10 PM,Manny,1x 3) Chicken Fiery Kreuzberg; 1x Bottle Mexican Coke,2,10.64,1.09,0,,1.76,13.49,CEA947DE-6E59-44ED-A793-DC93ECC81F53,BARMiAEa4uFwjo2IuFWLEiweV,South Lake Union,Manny
+04/07/2021 12:07 PM,Billy,1x 8) Lamb And Beef Scorching Kreuzberg,1,8.89,0.91,0,,0.00,9.80,1BDC277E-EBE8-4838-8116-1B5FB1B411AB,NQkt3sebh7O67F3SJNHZgGgeV,South Lake Union,Billy
+04/07/2021 12:06 PM,Mark,1x 5) House Lamb & Beef,1,8.89,0.91,0,,2.45,12.25,1DE1A8B7-F96F-4EDF-BF76-ACE4BE3B9747,RwTLOOHjqpGxQXRKMSwrJbteV,South Lake Union,Mark
+04/07/2021 12:00 PM,Jim,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.74,10.44,D74CE16D-24E3-4432-97B5-2F0103A839C2,hotCf34BJwulpoj9V60ZQI4eV,South Lake Union,Jim
+04/07/2021 11:59 AM,Brad,1x 2) Chicken Berliner,1,10.89,1.12,0,,1.80,13.81,4EE0F523-6361-4EDD-81D3-A9DDDA0A756D,DdbecKSvQrBgNukRXKOHAwkeV,South Lake Union,Brad
+04/07/2021 11:58 AM,Eddie,1x 9) House Tofu/Feta,1,7.25,0.74,0,,0.00,7.99,704EE16F-47A5-42B1-BFCB-FA7266035729,Fi9yemJeiBOTt7A3bzjh7xheV,South Lake Union,Eddie
+04/07/2021 11:58 AM,Rick ,1x 7) Lamb And Beef Fiery Kreuzberg,1,9.89,1.01,0,,0.00,10.90,9804B6A4-5722-4CDF-91B4-373AA8B91545,5ieTt7RkEyr3O24d8inFt19eV,South Lake Union,Rick 
+04/07/2021 11:56 AM,Summer,1x 2) Chicken Berliner; 1x Berliner Chicken Salad; 1x Can Coke Zero; 1x Can Coke; 1x Chips,5,22.28,2.28,0,,0.00,24.56,2CFBC085-3AD4-4275-9238-7162B09F9CEE,B6yOU3nlV2bOcgQB4cJZtm7eV,South Lake Union,Summer
+04/07/2021 11:55 AM,Hao,1x 1) House Chicken,1,10.39,1.06,0,,0.00,11.45,1C7AE592-6FEC-4FE1-93B5-88125BD2E399,9oCm0yzDIwCikIOEqXTRvJseV,South Lake Union,Hao
+04/07/2021 11:50 AM,Alex,1x House Lamb And Beef Salad,1,9.89,1.01,0,,1.09,11.99,A1DF6380-B298-4EBE-AD9B-704A2E27CD08,XrJMmF6f7IpYeOAFnWSOarmeV,South Lake Union,Alex
+04/07/2021 11:48 AM,Christian,1x 7) Lamb And Beef Fiery Kreuzberg; 2x 2) Chicken Berliner; 1x 6) Lamb And Beef Berliner; 1x 6) Lamb And Beef Berliner,5,48.45,4.97,0,,0.00,53.42,20CD3420-CC8B-440E-8968-D04BA3EDFF5C,3B86bkTP5oFRJTJcZcsJpn7eV,South Lake Union,Christian
+04/07/2021 11:47 AM,Andrew,1x 7) Lamb And Beef Fiery Kreuzberg,1,9.89,1.01,0,,0.00,10.90,E77C0994-9045-49DE-AEB8-07DBE31BC97F,LbgIdpqktQDWSJrmiYzm7aueV,South Lake Union,Andrew
+04/07/2021 11:43 AM,M,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,2.18,10.88,BE7C1B88-DC8A-4802-AA70-AC67D30CED9B,J2uMtCmNCjtAWWB1F98d2VneV,South Lake Union,M
+04/07/2021 11:39 AM,Toni,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,EB87C8BB-020C-4351-928B-24FB8E93A8F5,lq5C07AEnG4AxDDvBDscjeyeV,South Lake Union,Toni
+04/07/2021 11:38 AM,Abu,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,3C478E07-7EB9-4034-8FFF-5B8704C93FD0,P3Famezwkis386Wu6mdOOLteV,South Lake Union,Abu
+04/07/2021 11:38 AM,Justin,1x 8) Lamb And Beef Scorching Kreuzberg,1,9.39,0.96,0,,1.55,11.90,0933DDE8-4ACA-4589-9AF8-4AF8C61F9476,LHq8s03LEFIyQHutJWRCD3xeV,South Lake Union,Justin
+04/07/2021 11:37 AM,Cara,1x 7) Lamb And Beef Fiery Kreuzberg,1,9.39,0.96,0,,1.55,11.90,B1CFF717-4524-4236-8085-6C57F519EE1E,lOh1sFMdmCbAyuR849UaJJ4eV,South Lake Union,Cara
+04/07/2021 11:27 AM,Luis,1x Lamb/Beef Platter; 1x Lamb/Beef Platter; 1x Can Coke,3,23.03,2.36,0,,0.00,25.39,6648AB33-AECB-4294-8475-776A189388B4,tyDec1qw92B2K378g1YYLyneV,South Lake Union,Luis
+04/07/2021 11:25 AM,Dennis,1x 6) Lamb And Beef Berliner; 1x 8) Lamb And Beef Scorching Kreuzberg,2,17.78,1.82,0,,2.00,21.60,7ABDCE14-50E0-43F8-BA74-3BFF4D05F341,dAoVnaNlgh9cOkCU0Hdv4SveV,South Lake Union,Dennis
+04/07/2021 11:18 AM,William ,1x 5) House Lamb & Beef,1,9.39,0.96,0,,0.00,10.35,B28CF961-8F4D-423C-BEC4-DEA9A045A274,t8ylZLYJYgsIJVwGWjxIqTieV,South Lake Union,William 
+04/07/2021 11:09 AM,Mohamed,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,73A325F2-1D7B-4F6B-BAAC-B3BE75A9458F,hwnvWi6r0JKMOXGkPu391V1eV,South Lake Union,Mohamed
+04/07/2021 11:02 AM,Lee,1x Berliner Lamb and Beef Salad; 1x Berliner Chicken Salad,2,21.28,2.18,0,,4.69,28.15,96DC37AE-EE09-43E9-9008-E6DDAA894EC1,hWyvehAPnQWO7fmnuQun6VveV,South Lake Union,Lee
+04/06/2021 02:42 PM,Moe,2x 2) Chicken Berliner; 1x 7) Lamb And Beef Fiery Kreuzberg,3,24.67,2.53,0,,2.80,30.00,FED310C5-E2CC-4360-A2C6-9F0FED3B566F,J2CcsEgRj3HPdIiS2hMnKw7eV,South Lake Union,Moe
+04/06/2021 02:19 PM,Bri,1x 1) House Chicken,1,9.89,1.01,0,,1.00,11.90,4D80A566-5591-4E76-84DB-C4627165BC66,Ju4fx1MFEwbSbe1GvB5YNhieV,South Lake Union,Bri
+04/06/2021 02:17 PM,Hassan,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,2F514853-EF47-4E04-B4CA-2019D6D6611C,pCWV5RhoQ5epgC23ZSrXRC4eV,South Lake Union,Hassan
+04/06/2021 02:15 PM,CL,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.30,10.00,B828071A-7451-4DB4-8BF7-5159EE26417C,TfI8DCtqD9ELGC0olt7NaGieV,South Lake Union,CL
+04/06/2021 02:04 PM,Laura,1x Side Chili Yogurt Sauce; 1x 9) House Tofu/Feta; 1x Chips,3,9.25,0.95,0,,1.53,11.73,B3A977C0-1EA1-4D9A-83A6-32C20C770D16,R4T77UlhhSocyKtEQXJbat5eV,South Lake Union,Laura
+04/06/2021 02:00 PM,Tyler,1x 7) Lamb And Beef Fiery Kreuzberg; 1x Chips,2,12.89,1.32,0,,0.00,14.21,E442ABD9-0615-450A-8CD2-407A44115E9F,J8ZmkI2bxgwuu8fP8rq9jJ8eV,South Lake Union,Tyler
+04/06/2021 01:44 PM,Kb,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,5CEDDC6C-491C-4621-AF1A-FD41B9EADFCE,BaWWjTN2rGFv638hDrtUqUneV,South Lake Union,Kb
+04/06/2021 01:27 PM,Brett,1x 3) Chicken Fiery Kreuzberg; 1x Can Diet Coke; 1x Side Chili Yogurt Sauce,3,9.64,0.99,0,,1.59,12.22,5C3FC2B9-9515-4D0A-AEFC-E932A912EC37,hmACAsZGSVJ6wj2buecNj5weV,South Lake Union,Brett
+04/06/2021 01:13 PM,Colin,1x 7) Lamb And Beef Fiery Kreuzberg,1,9.89,1.01,0,,0.00,10.90,A7FA2BF4-A3AD-4E97-8B70-7526E895C050,z3sotklb6eSHGSb99XwBDO9eV,South Lake Union,Colin
+04/06/2021 01:05 PM,Jacob,1x 3) Chicken Fiery Kreuzberg; 1x Side House Bread; 1x Side Garlic Sauce,3,9.89,1.01,0,,1.00,11.90,34435D23-2525-4511-AC33-F43D052A4890,D3gaCTh4gMK9w56cFNqZSEoeV,South Lake Union,Jacob
+04/06/2021 01:02 PM,Rey,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,41A716E8-FC33-4748-A4F2-F1D5D7DD0417,JqEunUt0xKNk995S2j9y5yueV,South Lake Union,Rey
+04/06/2021 12:55 PM,Jared,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.30,10.00,D346B84C-5B53-44A2-8A6C-152456F8CE32,t4Qvm1zy4KANtJtzu3eWK2ieV,South Lake Union,Jared
+04/06/2021 12:43 PM,Sush,1x 10) Berliner Tofu/Feta,1,7.25,0.74,0,,1.20,9.19,F52727F9-3F16-4464-8186-989ECD08522F,HXJ5zf1xhP20B9biaYkhSp0eV,South Lake Union,Sush
+04/06/2021 12:42 PM,Rob,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.74,10.44,401B38F2-1C95-4170-8EE7-541F4B65F22E,dEMi1sedO7eoLdKoLPbnEr7eV,South Lake Union,Rob
+04/06/2021 12:36 PM,Iman,1x 6) Lamb And Beef Berliner; 1x Lamb/Beef Platter; 1x Can Diet Coke,3,21.03,2.16,0,,0.00,23.19,F8E897F9-D8BF-445E-8D54-5E327C6D714D,Jq4AnQmGbq63DCCP9V6cqbweV,South Lake Union,Iman
+04/06/2021 12:33 PM,Toni,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,A6E9CC4C-2795-4234-973A-DBE05DC1A56B,D1f8p6xaUno7ECgJgDeMlQoeV,South Lake Union,Toni
+04/06/2021 12:33 PM,Jk,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,FFC4E5F7-2715-4E67-83F4-5296A3EE23EF,nXFtkHtY8LQ2uEoVUvOwzV6eV,South Lake Union,Jk
+04/06/2021 12:30 PM,Dylan,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,3F247A68-F1F7-4E62-8EA2-6029BA847A93,rLi13DRa0ICi0K76wecFmYzeV,South Lake Union,Dylan
+04/06/2021 12:29 PM,Rob,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,3F60CA47-5B03-43B7-995E-459C3C2ABAE2,zxlilX8SxfOBAG6Hp6yQ9q3eV,South Lake Union,Rob
+04/06/2021 12:23 PM,Tim,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.74,10.44,1C09F6FD-2942-4E20-BE39-16BD744DB210,VmD0p45xd72uszsM1n9avt5eV,South Lake Union,Tim
+04/06/2021 12:21 PM,Will,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,8F251209-D9D8-479F-97AC-99A081D197B8,560kfbKww7RV21X1DQdTHRoeV,South Lake Union,Will
+04/06/2021 12:16 PM,Newton,1x 5) House Lamb & Beef; 1x 7) Lamb And Beef Fiery Kreuzberg,2,20.28,2.08,0,,0.00,22.36,2FAA0241-F9B4-498E-9956-44FEC3DFA335,BsD6S2xLsOvYdiRapz84KF4eV,South Lake Union,Newton
+04/06/2021 12:14 PM,Sandy,1x 6) Lamb And Beef Berliner; 1x Can Coke,2,11.14,1.14,0,,0.00,12.28,20DD06E1-1BF9-45B8-B5A3-FF037075463C,3LvnwN3PbNtWWiUcZhrkgY6eV,South Lake Union,Sandy
+04/06/2021 12:14 PM,Deb,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,97B9DD4F-72C3-41B4-B06F-EB331EA03BA6,NyN9j3Hr7r7Hz8U4EUTbuw3eV,South Lake Union,Deb
+04/06/2021 12:09 PM,Christian,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.00,10.80,AB2F1A49-EFF1-4B10-A88C-2F3F0E54E1F4,Jo1bJ4PQ8jKLTGtPzAdWZ3yeV,South Lake Union,Christian
+04/06/2021 12:04 PM,Dj,1x 2) Chicken Berliner; 1x 6) Lamb And Beef Berliner,2,16.78,1.72,0,,2.78,21.28,631CA9A1-2E13-4380-870D-792A485824A4,XTz3Y8rtVyHPzeoeuV4VogreV,South Lake Union,Dj
+04/06/2021 12:02 PM,Tyler,1x Chicken Platter,1,12.39,1.27,0,,2.73,16.39,125F3924-D6DA-42DB-8A46-D45566F3310A,7dd60fRVhIb0UMPMpPCzwGneV,South Lake Union,Tyler
+04/06/2021 12:02 PM,Katherine,1x Chicken Platter,1,9.89,1.01,0,,0.00,10.90,DB1B4DEC-5FD6-493F-BA01-8665A33D69EA,RMZ5lf8kQ5SSrMeTnoOfy2jeV,South Lake Union,Katherine
+04/06/2021 11:59 AM,Hao,1x 1) House Chicken,1,10.39,1.06,0,,0.00,11.45,598F03BF-CBD5-4A18-909C-C4B367471C27,FKfVGdUuEi4bJFU0mLG5VpxeV,South Lake Union,Hao
+04/06/2021 11:58 AM,Manuj,1x 11) Fiery Tofu/Feta,1,7.75,0.79,0,,1.28,9.82,F3BC11FA-BCF8-49C2-9A51-6B21F8F23632,3N8ffIpjBXurjP43ueoA878eV,South Lake Union,Manuj
+04/06/2021 11:57 AM,Eddie,1x 9) House Tofu/Feta,1,7.25,0.74,0,,1.20,9.19,EA90F8A9-AB85-4F20-93AC-6E834A38DAE2,R43dngONSJak3sTMBIZlhQ7eV,South Lake Union,Eddie
+04/06/2021 11:57 AM,Pei,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,5BEA0495-8B1E-4CA5-AE87-D64EF960EEF1,jrYTPyCfymvGwgdQ25kIDa4eV,South Lake Union,Pei
+04/06/2021 11:56 AM,Daryl,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,FDD411C6-B0EA-43F8-9DCA-71AF98866444,ft2Dsg4vHj3LMYNZNM77GD1eV,South Lake Union,Daryl
+04/06/2021 11:55 AM,Louis,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.47,11.27,1ADA5D7A-586F-4800-AEA0-A701D9BFA5AE,vJsZ6V3AtWRW2SCCFWLKJfneV,South Lake Union,Louis
+04/06/2021 11:54 AM,Brannon,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,D593990D-B4B1-4D15-83FF-94C39CF933FB,H9wX3MZGQsiRoZgLyY66D51eV,South Lake Union,Brannon
+04/06/2021 11:49 AM,Jimmy,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,948DE0EE-94C9-4F88-8186-E25C296A408A,xKMpkGehIM0lsYyERRXOMrAfV,South Lake Union,Jimmy
+04/06/2021 11:42 AM,Dev k,1x 2) Chicken Berliner,1,10.39,1.06,0,,0.00,11.45,8A2D094C-77BF-478A-968F-5349E4CC2F36,PN8OVmL8aQXCXED1R22wVL9eV,South Lake Union,Dev k
+04/06/2021 11:39 AM,Ali,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,FCD0F384-88B0-43C1-A088-2A6147582676,NaPgTiyuunAep8CaJE4hDwreV,South Lake Union,Ali
+04/06/2021 11:20 AM,Safi,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,ACBBD0A4-76C6-420D-9FE0-30855187711B,xmcmCWyN9VJDLfvSOxGeUapeV,South Lake Union,Safi
+04/06/2021 11:19 AM,Vinit,1x 3) Chicken Fiery Kreuzberg,1,10.39,1.06,0,,1.72,13.17,5B276953-81B6-47D5-B4EA-04332B42EA3E,7DoG474jL1y6InQn9zDPVLmeV,South Lake Union,Vinit
+04/06/2021 11:17 AM,Bob,1x Chips,1,1.50,0.15,0,,0.00,1.65,D00243E3-A880-4639-A9A6-96B7A9117BF5,JGus7cMS009QsLy3FgASOkqeV,South Lake Union,Bob
+04/06/2021 11:12 AM,Ram,1x Chicken Platter,1,9.89,1.01,0,,0.00,10.90,EECEE4D9-9A08-4303-BE72-0680A4C5BD0B,LfaCaAojBf22zdZpF9EHASpeV,South Lake Union,Ram
+04/06/2021 11:11 AM,Bob,1x 5) House Lamb & Beef,1,8.89,0.91,0,,0.00,9.80,E3552D9C-030E-4C36-8FDB-9CC07D32A917,T5dGagxWlt3I78x0NUfzm2keV,South Lake Union,Bob
+04/06/2021 11:07 AM,Taylor,1x Berliner Chicken Salad,1,8.89,0.91,0,,1.47,11.27,9D0FDCAB-7648-4653-830F-0E6101A8C22F,bPwD2wLfpNzio61EEEMHTqpeV,South Lake Union,Taylor
+04/06/2021 11:07 AM,Steve,1x 11) Fiery Tofu/Feta,1,7.25,0.74,0,,1.20,9.19,6312E4C2-4BE3-436D-B0BE-7BDD0D3027B4,lCjjRZoa6PkmdpxPVjgq1DpeV,South Lake Union,Steve
+04/06/2021 11:06 AM,Mack,2x 6) Lamb And Beef Berliner; 3x Can Coke,5,21.53,2.21,0,,4.75,28.49,43733FD1-D309-4A02-900D-BACF02FB1953,pKYiwvaZSkRByReqGcgytwkeV,South Lake Union,Mack
+04/06/2021 11:05 AM,F,1x Lamb/Beef Platter,1,10.89,1.12,0,,0.00,12.01,0C07F4F3-B679-4706-A088-A31B1DE9E408,v5AfyFI5Z1vplTeCEdo5YZkeV,South Lake Union,F
+04/05/2021 02:40 PM,Habib,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,4D75F6C0-086D-46F3-83A8-807901B1058E,HXT8gEyST64sMe4iZofTUWueV,South Lake Union,Habib
+04/05/2021 02:21 PM,Aj,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,A2334608-8A40-4453-B14D-2BBCCEE44B44,rdTBfTmvA2wrqwaiTKuhOeweV,South Lake Union,Aj
+04/05/2021 01:47 PM,Mohamed omar,1x 6) Lamb And Beef Berliner,1,13.39,1.37,0,,0.00,14.76,1F9DB9E9-B01D-408E-B4B7-FF72B6B3222F,vDpRY0ISuw3EcnwH60WZS62eV,South Lake Union,Mohamed omar
+04/05/2021 01:45 PM,Guenther ,1x 5) House Lamb & Beef,1,11.39,1.17,0,,1.88,14.44,A1ADBC26-7AA0-4700-87F5-A22755F2C79C,H9WCx3jAdsRju7kOMpBTRRseV,South Lake Union,Guenther 
+04/05/2021 01:38 PM,David,1x 5) House Lamb & Beef,1,11.39,1.17,0,,1.00,13.56,F46F9A82-269B-4402-89A6-4BCDF8CD2A8D,D9JFeRod5mYnOowOrJo3YOxeV,South Lake Union,David
+04/05/2021 01:29 PM,Jack,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,F6B36558-B5BA-4C05-863C-1BFF6B34077C,rrehuHqTT2Byj5LMscA9gk6eV,South Lake Union,Jack
+04/05/2021 01:27 PM,Palmer,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.96,11.76,AA6FB47E-03A0-4381-A25E-CA3A7308ABEC,pSajdjx3OBSOltuR8V0eThieV,South Lake Union,Palmer
+04/05/2021 01:27 PM,Mike,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,CB60FD53-FAD7-4CEE-A5B1-B9CB46C8D2CF,Lhj2G8ZaBAu9C4RMrH7m6yueV,South Lake Union,Mike
+04/05/2021 01:23 PM,4259312878,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,8A3D3927-CD43-4F53-9CC7-ECC38DB96BDD,rtJ05t0Fq1WgzJKhkYE0WnpeV,South Lake Union,4259312878
+04/05/2021 01:18 PM,Abdi,1x 2) Chicken Berliner; 1x Bottle Mango Lassi Drink,2,11.39,1.17,0,,0.00,12.56,10B18C7F-458C-428C-B157-9E93DD92A3C9,jjSGndEtjcEiRQkXZAMgYCleV,South Lake Union,Abdi
+04/05/2021 01:17 PM,David,1x 1) House Chicken,1,7.89,0.81,0,,1.30,10.00,CA48BDF7-3232-4A0E-991C-8ACBE8D5BC00,94wpgaE6qWI9rpuJc6DaGaqeV,South Lake Union,David
+04/05/2021 01:10 PM,Mohammad,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,DDB145A0-8128-4E84-A3F8-CA046A5B9C11,v7RltvmoBvDt5qhd1x4keF6eV,South Lake Union,Mohammad
+04/05/2021 12:56 PM,Ken,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.00,9.70,8E0C9291-5513-4C0B-B17D-EE971B2617BA,dKdbkZhNMHI2KuQnvKVs5XoeV,South Lake Union,Ken
+04/05/2021 12:43 PM,Shanay,1x 3) Chicken Fiery Kreuzberg; 1x 12) Scorching Tofu/Feta; 1x Chips,3,17.14,1.76,0,,2.84,21.74,3C8D3716-4950-4E1F-878E-BC380BAACF17,jP80nQ0ZhYzS2VmSPPqiutfeV,South Lake Union,Shanay
+04/05/2021 12:39 PM,McLaren,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.74,10.44,9D629865-A09D-4022-86B6-E704F76FED10,77M89hYnMnac2ucFP3U8lQ2eV,South Lake Union,McLaren
+04/05/2021 12:29 PM,Drew,1x 3) Chicken Fiery Kreuzberg,1,10.39,1.06,0,,0.00,11.45,2164BE20-FBDB-4224-88F0-AC04B8DA7B0B,7BPS05Xo8GI0jvcIXLF2M69eV,South Lake Union,Drew
+04/05/2021 12:28 PM,Branden,1x Lamb/Beef Platter,1,12.39,1.27,0,,0.00,13.66,49A47515-01A9-4055-ACA8-29C5D25DD35B,BWssAZm2bhpEH4dZmDOiUcjeV,South Lake Union,Branden
+04/05/2021 12:25 PM,Cody,1x Bottle Mexican Coke,1,2.75,0.28,0,,0.00,3.03,5367E81A-37E5-4E20-8BE7-7B197A41AA12,3Lndnko5vqeuDuHuMrycRTteV,South Lake Union,Cody
+04/05/2021 12:23 PM,Paul,1x 2) Chicken Berliner; 1x 3) Chicken Fiery Kreuzberg,2,16.78,1.72,0,,2.78,21.28,B001430F-E203-4C6B-97F6-2C7537D709AD,ByeQ705TXdl2B9KRvo4a5WAfV,South Lake Union,Paul
+04/05/2021 12:15 PM,Hashu,1x 4) Chicken Scorching Kreuzberg,1,8.39,0.86,0,,0.00,9.25,F7D3683B-CEE2-4BC4-9E3A-F764F01E140D,VOFv32JCbBGAjmEzo3J7J32eV,South Lake Union,Hashu
+04/05/2021 12:15 PM,Caleb,1x 6) Lamb And Beef Berliner,1,9.89,1.01,0,,1.64,12.54,DF1DE5AC-0664-4C6B-8CF3-836A107A442E,LFvNLSwcx72W9cyLt8kD5d5eV,South Lake Union,Caleb
+04/05/2021 12:14 PM,Santosh,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,6D3976A4-FA78-4514-AA6B-1BDE59556DBA,3j5Iz0A0Yn7I4OdPGNyu0JyeV,South Lake Union,Santosh
+04/05/2021 12:14 PM,Thomas,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,A86617BC-81EE-4C82-92E8-FDB3242453D6,RUTSkvKDWBHh3T3KsCwRSjzeV,South Lake Union,Thomas
+04/05/2021 12:13 PM,Steven,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,E1FA9687-CD88-421E-9D12-6282AC4F139B,1EEb62hjsWW5zT8QkA0vDGheV,South Lake Union,Steven
+04/05/2021 12:13 PM,John h,1x 7) Lamb And Beef Fiery Kreuzberg,1,9.89,1.01,0,,1.64,12.54,FF1A14B7-BD1D-41C9-8162-5D8CE0289221,R62CEtkNHlDSkCUbr16wXh5eV,South Lake Union,John h
+04/05/2021 12:12 PM,Karlo,1x 6) Lamb And Beef Berliner,1,9.89,1.01,0,,0.00,10.90,463AF84C-618C-4314-91F5-FF5140700FA0,r3IDA2V4YwyaE2IF3E8IYrxeV,South Lake Union,Karlo
+04/05/2021 12:09 PM,Ali,1x 2) Chicken Berliner,1,7.89,0.81,0,,0.00,8.70,B31249E1-6DC0-444C-B40C-941B84DAAE94,bzi518sSNx1gnRhSUf6s7P9eV,South Lake Union,Ali
+04/05/2021 12:09 PM,Terry,1x 5) House Lamb & Beef; 1x 2) Chicken Berliner; 2x Can Coke Zero,4,19.28,1.98,0,,0.00,21.26,95A71062-C51C-47AB-A705-226EACF2CCB0,1wkEexyju2Ga8ejICXTWJZieV,South Lake Union,Terry
+04/05/2021 12:08 PM,Mike,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,D0B63C5B-0660-4869-B30D-A4ACC42C3BC2,DDInkRJSLklJdgZqD9mftEheV,South Lake Union,Mike
+04/05/2021 12:04 PM,New sale ,1x 4) Chicken Scorching Kreuzberg; 1x 6) Lamb And Beef Berliner,2,16.78,1.72,0,,0.00,18.50,70CACF8F-48FB-457B-8F8F-99B244BBC802,3VKWK9nbryxZsQJOv4EBH3geV,South Lake Union,New sale 
+04/05/2021 11:52 AM,P,1x Lamb/Beef Platter,1,10.89,1.12,0,,0.00,12.01,649E4ECE-B99E-403B-A23D-979844E0EF3E,TBT30tO4Jjvap2DsqQG9AG1eV,South Lake Union,P
+04/05/2021 11:51 AM,Luis medina,1x Lamb/Beef Platter; 1x Can Coke,2,12.14,1.24,0,,0.00,13.38,1AF46960-6F74-4C3A-A53E-A4C53F1DC017,DR790ZNnUJBYj5uVs4fn1ZleV,South Lake Union,Luis medina
+04/05/2021 11:50 AM,Prashant,1x 10) Berliner Tofu/Feta,1,7.25,0.74,0,,1.00,8.99,8BEDBBA9-DD0B-419D-8ED0-7D63E73ECA00,TthlFBcTZNKUe7OAFY0BqGzeV,South Lake Union,Prashant
+04/05/2021 11:50 AM,Purak,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,3054FFD5-8049-4A17-8BB5-559C8F3D38D5,5mYHHgAEEecl7p5Azn2FpCqeV,South Lake Union,Purak
+04/05/2021 11:41 AM,Spencer,1x 6) Lamb And Beef Berliner; 1x Chips; 1x Can Coke,3,11.64,1.19,0,,2.57,15.40,9D41F17B-A1B5-4C05-9076-87DBD3DEF72C,HPFnOxdVhdZMgT5t4wM23E4eV,South Lake Union,Spencer
+04/05/2021 11:40 AM,Alex,1x Lamb/Beef Platter,1,10.89,1.12,0,,2.40,14.41,C717947A-A111-4093-8497-9804128F7D81,xEnGZ3jGebMOh1pxiHHvXg0eV,South Lake Union,Alex
+04/05/2021 11:39 AM,KS,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.30,10.00,5161B461-0196-48A0-97D3-57B62AA3D778,37pQ6u2aT1d6Xd1ZUWmFsWqeV,South Lake Union,KS
+04/05/2021 11:39 AM,Toni,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,7EA43751-C244-4FBE-A17E-625521461C99,bv6CLoUmX8rwzqftJ965cNzeV,South Lake Union,Toni
+04/05/2021 11:35 AM,Hao,1x 1) House Chicken,1,10.39,1.06,0,,0.00,11.45,90226A81-C6D8-4093-965F-DDD9D26D7E3D,Tf2RYJnuffvwjqBwXESUer8eV,South Lake Union,Hao
+04/05/2021 11:26 AM,David,1x House Lamb And Beef Salad,1,9.89,1.01,0,,2.18,13.08,D6CD4D56-1348-4118-89AE-1694B0260BB9,d0mrvJDTJsPyRuOzkjx2HjpeV,South Lake Union,David
+04/05/2021 11:24 AM,Mark,1x 5) House Lamb & Beef,1,8.89,0.91,0,,2.45,12.25,6452C6A4-A87A-41A3-8FC2-E63B0ACA345C,Rk99TW5nsRZ6mzeyCTDvid7eV,South Lake Union,Mark
+04/05/2021 11:19 AM,Enrry,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,4C488DC0-B51A-4E1E-9229-EECC174AB139,tUWVJs5WlQQMUTd35xLAZJ9eV,South Lake Union,Enrry
+04/05/2021 11:18 AM,Jimmy,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,1.20,11.00,EC9E0E81-72B7-47B8-897A-6DF2DE2EFFE1,tqfoTcdhUPhWoBkvthtQG1feV,South Lake Union,Jimmy
+04/05/2021 11:07 AM,Varun,1x 9) House Tofu/Feta; 1x 5) House Lamb & Beef,2,18.64,1.91,0,,0.00,20.55,545DEBA3-B37E-4C99-9459-D15100BE9FDB,bRVRwskHAOy7qu1Qi0uIKhoeV,South Lake Union,Varun
+04/02/2021 01:23 PM,Nagu,1x 12) Scorching Tofu/Feta,1,7.25,0.74,0,,0.00,7.99,DDB6BDA8-6BB4-44CA-B720-D924B1C9ECCC,xAxyeWi6iGtRwbWjUFTN9qteV,South Lake Union,Nagu
+04/02/2021 01:22 PM,Vk,1x 11) Fiery Tofu/Feta,1,7.25,0.74,0,,0.00,7.99,3307BBBD-479B-4028-8D1A-4B76A0CE0977,zDCA58MMDlY0LZ0OpJTFg68eV,South Lake Union,Vk
+04/02/2021 01:21 PM,Abhi,1x 9) House Tofu/Feta,1,7.25,0.74,0,,1.00,8.99,3B4F6878-8023-432F-8962-3055138472CC,X7tC8YZqBX1NHs9UJ1HQkvueV,South Lake Union,Abhi
+04/02/2021 01:05 PM,Viktor,1x Can Coke; 1x Bottle Mexican Fanta,2,4.00,0.41,0,,0.00,4.41,DB8B9757-44E9-48D9-B426-A7C03CD3F9EF,TjicDVBi0nqBoClHJ4nVTd9eV,South Lake Union,Viktor
+04/02/2021 01:04 PM,Viktor,1x 5) House Lamb & Beef; 1x 5) House Lamb & Beef,2,18.78,1.92,0,,3.10,23.80,3620BC3D-6378-4999-BC2D-3F08579211AB,rPKEzi9Ku4pHX8GPiKZEay6eV,South Lake Union,Viktor
+04/02/2021 12:33 PM,Prashant,1x 10) Berliner Tofu/Feta,1,7.25,0.74,0,,1.00,8.99,BC5D6617-E49F-481D-8AB7-0E0F8B31B3CF,N2lgts6DJ5UP69aoaZE1285eV,South Lake Union,Prashant
+04/02/2021 12:30 PM,Hassan,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,75AEFD64-A483-45BD-B4EB-038590FDBF93,ztvOG6YNo3U1bklIHRphSxieV,South Lake Union,Hassan
+04/02/2021 12:24 PM,Jon-Mark,1x Berliner Lamb and Beef Salad,1,9.89,1.01,0,,2.72,13.62,29DF8475-A4E6-45F1-8FAB-291C9874D2D8,hyucnwimvhMwGe2GkJy2Sl6eV,South Lake Union,Jon-Mark
+04/02/2021 12:22 PM,Scott,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,1.47,11.27,B9B5A358-F42B-4616-AA78-30E25736D20B,H7RioIA4lmgrTNXRrMn4ULAfV,South Lake Union,Scott
+04/02/2021 12:22 PM,Tyler h,1x 6) Lamb And Beef Berliner; 1x Can Diet Coke,2,10.14,1.04,0,,2.24,13.42,D5AF88CF-ADA4-4F5D-95AB-08C416F7E2D5,L1liqeFZ0OuAMBmpMTOvbE5eV,South Lake Union,Tyler h
+04/02/2021 12:19 PM,Kyle,1x 6) Lamb And Beef Berliner,1,9.89,1.01,0,,1.64,12.54,4A857D46-92B0-4139-AFDA-0BF776656E56,ZshK9UJBkRHLGpxoIA09KyqeV,South Lake Union,Kyle
+04/02/2021 12:17 PM,New ,1x Lamb/Beef Platter; 1x Lamb/Beef Platter; 1x 11) Fiery Tofu/Feta,3,29.03,2.98,0,,4.80,36.81,09261476-E557-40E7-AB5D-71CE24C7CF47,NGHrkWPVc5d8v9F8ohoHJykeV,South Lake Union,New 
+04/02/2021 12:10 PM,Doug,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,1.30,10.00,AFAC3934-04CA-4D80-993A-2DC993FF7982,xUNBtOLwicyulEzjWW9kLDseV,South Lake Union,Doug
+04/02/2021 12:08 PM,Chris,1x 5) House Lamb & Beef; 1x 7) Lamb And Beef Fiery Kreuzberg,2,17.78,1.82,0,,3.92,23.52,08DDB410-CA65-4304-B8E2-9CC02CDB6383,vHJg0WYlX9ofyqp1IHHn50ueV,South Lake Union,Chris
+04/02/2021 12:06 PM,Rick ,1x 7) Lamb And Beef Fiery Kreuzberg,1,10.39,1.06,0,,2.29,13.74,86468A5A-E47C-41B2-AD33-7B84D975FB55,tkmBvzOdxQZtvx2fS9DuInjeV,South Lake Union,Rick 
+04/02/2021 12:04 PM,Pedro,1x 6) Lamb And Beef Berliner,1,9.89,1.01,0,,0.00,10.90,C74B5242-8863-4CB0-91CA-E0B1662A3961,r7K1D1YH7awhfpNkJFzzhr0eV,South Lake Union,Pedro
+04/02/2021 12:00 PM,Billy,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.91,0,,0.00,9.80,9ADA9339-DC92-4EF9-ADAD-5E76478637BE,zNDKr2gWU5U4BERygZMTnHueV,South Lake Union,Billy
+04/02/2021 11:58 AM,Adiba,1x 6) Lamb And Beef Berliner,1,9.39,0.96,0,,2.07,12.42,8C5E6605-FA0C-4E20-BD42-20152D35D806,XDvNeiTB83i07Y8GlMW7tzpeV,South Lake Union,Adiba
+04/02/2021 11:48 AM,Dai,1x 3) Chicken Fiery Kreuzberg; 1x Can Coke,2,9.14,0.94,0,,1.51,11.59,A261628D-06E1-4825-BDD0-08236FCC4471,BaAvHQjq7T8BL552P9cW8B6eV,South Lake Union,Dai
+04/02/2021 11:46 AM,Victor,2x 7) Lamb And Beef Fiery Kreuzberg; 1x Bottled Water,3,19.53,2.00,0,,0.00,21.53,7C21CB8F-FDD7-4890-8AF3-E6FBE6D30029,NO3xoMz7226rOwLQD9RhlDweV,South Lake Union,Victor
+04/02/2021 11:39 AM,Jawad,1x Lamb/Beef Platter,1,10.89,1.12,0,,0.00,12.01,35C21A51-96CD-431C-8560-1BC5415F5F15,HLBmoyVQfPNOTnSNS0ANos6eV,South Lake Union,Jawad
+04/02/2021 11:37 AM,Tim,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,2.45,12.25,29EB21F7-3A6E-4E67-AFCF-24992634D9EC,XrhGhfgCithx5LYS9zEgno6eV,South Lake Union,Tim
+04/02/2021 11:28 AM,Chad,1x 2) Chicken Berliner; 1x 6) Lamb And Beef Berliner; 1x Bottled Water,3,18.53,1.90,0,,3.06,23.49,77DB6F93-F3B1-4BAE-9E74-21A225E46FC2,P7xpbe7XgCVa2QFwv2yGhueeV,South Lake Union,Chad
+04/02/2021 11:14 AM,David,1x 5) House Lamb & Beef,1,8.89,0.91,0,,1.96,11.76,9CDDBA2C-4D3C-424F-B65B-938945CBC8AF,PVcwlBZBFCx7ljSRYlsC4A3eV,South Lake Union,David
+04/02/2021 11:08 AM,Ian,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,9110D157-ED33-4C8E-A972-EC308470C715,tkUycL0aZR3g75C6BH7Qaz3eV,South Lake Union,Ian
+04/02/2021 11:06 AM,Vitaliy,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,D01A6EAF-4559-418D-8907-285B573EF46A,l6rl7tlIWzkxrKuZcWlXcjleV,South Lake Union,Vitaliy
+04/01/2021 07:29 PM,Johnny,1x 1) House Chicken; 1x Bottle Plain Yogurt Drink,2,10.89,1.12,0,,2.40,14.41,C2E4DCE4-48EC-4DBE-9E5C-76535A7EB594,71RWsfyUkVTd3aExj20MCjueV,South Lake Union,Johnny
+04/01/2021 06:52 PM,Ruby,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.81,0,,0.00,8.70,010D6E1D-4BFE-4915-893D-BA5812440921,BYp8ngeNkFsL2WIYLFB1CHpeV,South Lake Union,Ruby
+04/01/2021 06:52 PM,Olga,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.30,10.00,6B003F90-9AE1-4E72-BED9-A2A9C4D7D07B,dUIkFSQE1MXz8SSeUFxIxvyeV,South Lake Union,Olga
+04/01/2021 06:28 PM,Jack,1x 6) Lamb And Beef Berliner,1,8.89,0.91,0,,0.00,9.80,BBCEE187-C8DF-4F53-ADE9-B3033031D7FA,PjrCe0wNSreqyTFdB72S4cyeV,South Lake Union,Jack
+04/01/2021 05:29 PM,Hector,2x Bottle Mexican Coke; 1x Bottle Plain Yogurt Drink,3,8.50,0.87,0,,0.00,9.37,997F8A02-964E-4768-B65B-90CB2328539A,7Lufmcm2UZeWcgbdNnfr7zkeV,South Lake Union,Hector
+04/01/2021 05:28 PM,Hector,2x 6) Lamb And Beef Berliner,2,23.78,2.44,0,,2.00,28.22,4F5360F8-7199-42C3-A5BE-10F910825329,FEo7SZDtAGuBF612ifqRkTyeV,South Lake Union,Hector
+04/01/2021 05:01 PM,Riyad,1x 2) Chicken Berliner,1,7.89,0.81,0,,1.00,9.70,4730F2CD-FCA1-4E71-B25C-E382C66008AB,Vo2VdsnkaIitILIp5iPlzH3eV,South Lake Union,Riyad
+04/01/2021 04:31 PM,Idris,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.80,0,,0.00,8.69,3735C8F1-0537-4CF4-8525-243B8FAEEAF8,LhPajteHIBWJE5YP5vpo0txeV,South Lake Union,Idris
+04/01/2021 04:28 PM,S,1x 5) House Lamb & Beef,1,8.89,0.90,0,,0.00,9.79,2DE6B690-2D54-4839-91D5-5C9A4CB640B0,DJpqOhH4WLxv0Rr98iMov0zeV,South Lake Union,S
+04/01/2021 04:15 PM,Kay,1x Chicken Platter,1,12.39,1.25,0,,3.41,17.05,1C3DC283-3A24-4E3C-9669-F49710C8FE5D,9ClRihV8BWL8lh73t11QKixeV,South Lake Union,Kay
+04/01/2021 04:12 PM,Chris,1x 6) Lamb And Beef Berliner,1,8.89,0.90,0,,0.00,9.79,0C683C4E-FF34-495E-B287-E5663DB13BBD,PvTp9SMQq63Baz0vbGDwuQ6eV,South Lake Union,Chris
+04/01/2021 03:42 PM,Bri,1x 1) House Chicken,1,8.39,0.85,0,,1.00,10.24,65E6E541-18C4-45D2-8992-02EB5B8A2E0B,b5Zvzsai7dt7h3fgo5T7ZGqeV,South Lake Union,Bri
+04/01/2021 03:16 PM,Kennan,1x 1) House Chicken,1,7.89,0.80,0,,0.00,8.69,BE191E64-4DB7-4920-B344-9634B50BEDEC,TlvIG3exyORteo1xNB52IteeV,South Lake Union,Kennan
+04/01/2021 03:14 PM,Monish,1x 2) Chicken Berliner; 1x Can Coke Zero,2,9.14,0.92,0,,0.00,10.06,83171898-7F9D-4C54-ADE9-52FF9938EC73,FeN7I31VlHmNUBIE3qiYt2veV,South Lake Union,Monish
+04/01/2021 03:07 PM,G,1x 9) House Tofu/Feta,1,7.25,0.73,0,,0.00,7.98,97483E0A-0859-41B4-A2EE-95C0AE977BFD,XvrEezaAgBmVvKoPGq9AR86eV,South Lake Union,G
+04/01/2021 03:04 PM,Damon,2x 6) Lamb And Beef Berliner; 1x Can Diet Coke,3,26.03,2.63,0,,5.73,34.39,6197CE83-A7DA-47F0-B383-35ACC27A4E85,LvMj6vpp8L5pN9Y0A2rQfDfeV,South Lake Union,Damon
+04/01/2021 02:46 PM,Justin,1x Berliner Lamb and Beef Salad,1,13.39,1.35,0,,2.21,16.95,B9C4A118-A176-4328-896F-3B9B03B6F7C1,FskbWu6n5zajUWACH2wjPxoeV,South Lake Union,Justin
+04/01/2021 02:07 PM,Farhan,1x Berliner Lamb and Beef Salad,1,9.89,1.00,0,,0.00,10.89,6EFF2870-355B-40DF-A137-C00E4DDB62D2,tW3JJFwW8rH6SiFxgcCEdD4eV,South Lake Union,Farhan
+04/01/2021 02:01 PM,Sumaya,1x 7) Lamb And Beef Fiery Kreuzberg; 1x 3) Chicken Fiery Kreuzberg,2,19.28,1.95,0,,0.00,21.23,90BD7F29-0606-40CD-B4AC-08DE3778A3A4,haUFTE5x1eajdxKTeLAQiLheV,South Lake Union,Sumaya
+04/01/2021 02:00 PM,Sandeep,1x 2) Chicken Berliner,1,7.89,0.80,0,,0.00,8.69,68EF25FF-BC00-40F2-AD09-6F191CDA33BA,VOXeuCeotaVTR6NzWoJcOb5eV,South Lake Union,Sandeep
+04/01/2021 01:55 PM,Mike,1x Berliner Chicken Salad,1,8.89,0.90,0,,1.47,11.26,77FC137F-943F-41BE-8272-4D3AE066A675,lIMY8iad67INaBSeqbDtaJ9eV,South Lake Union,Mike
+04/01/2021 01:52 PM,Jeremy,1x 6) Lamb And Beef Berliner,1,8.89,0.90,0,,2.45,12.24,40B880C1-63D0-4829-9842-616596DB8EA2,BCADSEiH2sZRpLUHTjLH4d3eV,South Lake Union,Jeremy
+04/01/2021 01:46 PM,Anton,1x Lamb/Beef Platter,1,12.39,1.25,0,,0.00,13.64,8A5E3ECA-B0FF-4F4B-91BB-C1DC34514108,VSvlgqXPARfRGwiMbmSo3NheV,South Lake Union,Anton
+04/01/2021 01:45 PM,Brian,1x 11) Fiery Tofu/Feta; 1x Chips,2,8.75,0.88,0,,1.93,11.56,7719BA9E-1BA5-4F98-A539-DE1BD1707272,33dpvT1F30mx6J1XpJMunmyeV,South Lake Union,Brian
+04/01/2021 01:41 PM,Colin,1x 7) Lamb And Beef Fiery Kreuzberg,1,9.89,1.00,0,,0.00,10.89,BF31AE93-4406-4240-8322-8B0B7CA7EC98,TPAGGLo15IU0taZmgU4a6kweV,South Lake Union,Colin
+04/01/2021 01:36 PM,Ansel,1x 5) House Lamb & Beef,1,8.89,0.90,0,,1.96,11.75,76A630CC-0605-4B20-96F5-2C5199713148,52kZJrJ5SDvXN54DZu81p08eV,South Lake Union,Ansel
+04/01/2021 01:01 PM,Eric,1x 2) Chicken Berliner,1,7.89,0.80,0,,1.30,9.99,5D0C234B-D484-4DFB-BCBF-EB726EE48854,r7OpcLDl0wyJ1lJKMG5p9JueV,South Lake Union,Eric
+04/01/2021 12:55 PM,Dustin,1x 2) Chicken Berliner,1,8.39,0.85,0,,1.85,11.09,DC0E6DBB-94B2-42BF-97D1-3A7058046121,Zmm0oUb2LW4Ye87Ob1pDShAfV,South Lake Union,Dustin
+04/01/2021 12:54 PM,Oggi,1x 7) Lamb And Beef Fiery Kreuzberg; 1x Bottle Plain Yogurt Drink,2,12.89,1.30,0,,1.00,15.19,27EEE8BF-9BAA-4E8B-919E-7C1021309FB7,FS5QyDoDInPiJ4OAERxbDjreV,South Lake Union,Oggi
+04/01/2021 12:53 PM,Milos ,1x 6) Lamb And Beef Berliner,1,8.89,0.90,0,,1.00,10.79,61510369-F84A-48CD-8372-6BC763C43FC7,zdBbEtkM92sCD4OseYyYbEzeV,South Lake Union,Milos 
+04/01/2021 12:50 PM,Dave,1x 2) Chicken Berliner,1,7.89,0.80,0,,1.30,9.99,51FED34B-84E9-4925-8FC2-4AD3A3C946F2,xYvtbICBPOIUPFzKaS2VrjmeV,South Lake Union,Dave
+04/01/2021 12:49 PM,Josh,1x 6) Lamb And Beef Berliner,1,8.89,0.90,0,,1.21,11.00,F4B531C7-838C-4C6D-A538-DF99BB7EFB31,vXjvvqiePmk6ggT0v7DSDq4eV,South Lake Union,Josh
+04/01/2021 12:43 PM,Nick,1x 3) Chicken Fiery Kreuzberg,1,8.89,0.90,0,,1.47,11.26,19C8609A-27B6-481B-8F48-3691A6DD41FC,frFfOsguXmoOBZxIQ4SmiXfeV,South Lake Union,Nick
+04/01/2021 12:42 PM,Jas,1x 3) Chicken Fiery Kreuzberg,1,8.39,0.85,0,,1.39,10.63,3A314672-F4DB-4CEA-87C9-11DA148922C8,RcTORsbe88jQo27uebNQgpieV,South Lake Union,Jas
+04/01/2021 12:42 PM,Kru,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.90,0,,1.00,10.79,DE8EFDF6-91A6-4C73-9802-E8CA2F5DD482,pianbonk4d3U0GVUlaTpCdseV,South Lake Union,Kru
+04/01/2021 12:37 PM,New Sale,1x House Chicken Salad,1,10.39,1.05,0,,0.00,11.44,8DD7C3E8-0332-4FE8-8FBF-4C581E4CAA75,LdZegc2DtLyZhj5yg1QiuKAfV,South Lake Union,New Sale
+04/01/2021 12:34 PM,Clayton,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.90,0,,1.47,11.26,604CCBC6-7733-4538-B445-4701EB993460,FwsuknZns6LYMUPYUKgAvmteV,South Lake Union,Clayton
+04/01/2021 12:34 PM,Mikel,1x 1) House Chicken,1,7.89,0.80,0,,1.00,9.69,96067C4C-58B3-4BE2-8692-5683E33758D6,JIraRro5bSUqZqhsC8VczBkeV,South Lake Union,Mikel
+04/01/2021 12:30 PM,Mike,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.80,0,,0.00,8.69,9EE34B92-0ADB-4E0D-942A-1B6E7DE73A4B,3PpFP0nNFUvw41P4gQNYbt8eV,South Lake Union,Mike
+04/01/2021 12:24 PM,Alyssa,1x 2) Chicken Berliner,1,7.89,0.80,0,,0.00,8.69,D9A15094-5C08-4C42-B51B-69942B163D99,7tH1JLJWDraBjvCqZ9z0g7keV,South Lake Union,Alyssa
+04/01/2021 12:18 PM,Lemi,1x 6) Lamb And Beef Berliner,1,9.39,0.95,0,,0.00,10.34,CF7D1846-D1D0-4E1D-9C9E-44C9DEE67462,PxMFTBeZI7WLcup8aKP78TpeV,South Lake Union,Lemi
+04/01/2021 12:12 PM,Johnny,1x 5) House Lamb & Beef,1,9.89,1.00,0,,0.00,10.89,18662C89-064C-4463-833D-66AD339FE7D7,NCpzxhopzTxrmFqRO39vDPjeV,South Lake Union,Johnny
+04/01/2021 12:04 PM,Adam,1x 1) House Chicken,1,9.39,0.95,0,,2.07,12.41,2687E314-EA2A-4739-9F60-54889B1D82A6,pAFPUsUzY3E8HH8Nngop8jieV,South Lake Union,Adam
+04/01/2021 11:52 AM,Pat,1x 2) Chicken Berliner,1,7.89,0.80,0,,1.30,9.99,58DE4894-A2AF-4EE6-9B82-A4967BE3214A,9Ug4hRb9pkoPo7lnMAyYxl9eV,South Lake Union,Pat
+04/01/2021 11:51 AM,Alex,1x 11) Fiery Tofu/Feta,1,7.25,0.73,0,,1.20,9.18,F447A448-D236-4106-9E26-7A89E6AA3550,lI8OrYP0fEqDtetbAvpy1FfeV,South Lake Union,Alex
+04/01/2021 11:51 AM,Sean,1x 2) Chicken Berliner,1,7.89,0.80,0,,1.74,10.43,E2B3428D-D110-49C9-A68C-6FB4934DB8D0,J2GgRQPEGcvSeYWDRnEPO2heV,South Lake Union,Sean
+04/01/2021 11:48 AM,Marie,2x 7) Lamb And Beef Fiery Kreuzberg,2,19.78,2.00,0,,3.27,25.05,8A03B1F6-64B9-4A6C-94A2-B50C761C5BB9,ZEDvSoZiOWF9RzN7TYJX0e9eV,South Lake Union,Marie
+04/01/2021 11:45 AM,Jjjjjj,1x 7) Lamb And Beef Fiery Kreuzberg; 1x Bottle Mexican Fanta,2,11.64,1.18,0,,0.00,12.82,F6539C0C-8D15-4DFF-A4B2-E5F80A01784D,bhTyNZsrC3fGknROkhoeih0eV,South Lake Union,Jjjjjj
+04/01/2021 11:42 AM,John,1x 5) House Lamb & Beef,1,8.89,0.90,0,,0.00,9.79,B26BAF48-7DE8-4444-864A-2CB99466BFED,zDyCwBKMgi1IhNjrE62jJkieV,South Lake Union,John
+04/01/2021 11:40 AM,Alex,1x 6) Lamb And Beef Berliner; 1x Lamb/Beef Platter,2,21.28,2.15,0,,4.69,28.12,D258EE7F-C1EB-4E52-8DE5-BB8457D1C991,zhRmWj5Tlpq3eAuLCmPhw63eV,South Lake Union,Alex
+04/01/2021 11:37 AM,Kevin,1x 7) Lamb And Beef Fiery Kreuzberg,1,8.89,0.90,0,,1.47,11.26,CE2C2441-5562-44B2-BEE7-09B58054FE8A,tMEYawA8fZYPMjl9IWU4Uc8eV,South Lake Union,Kevin
+04/01/2021 11:36 AM,Hao,1x 1) House Chicken,1,10.39,1.05,0,,0.00,11.44,DFADBCD0-8A93-47F5-B5C6-8B5D4193D8D3,pknlRl18BAujPMTMK0uEQKheV,South Lake Union,Hao
+04/01/2021 11:30 AM,Ram,1x Chicken Platter,1,9.89,1.00,0,,1.63,12.52,B44C3DE3-03A9-419C-9A6C-DF64B4E2E8AF,TtxNR5R3DxeohimkD47zDNreV,South Lake Union,Ram
+04/01/2021 11:28 AM,Mark,1x 5) House Lamb & Beef,1,8.89,0.90,0,,2.45,12.24,955A9851-D200-4370-B06C-F98E0C0C425C,RwxklPvDWfhPKltsInpjhQ1eV,South Lake Union,Mark
+04/01/2021 11:27 AM,Steve,1x 3) Chicken Fiery Kreuzberg,1,7.89,0.80,0,,1.74,10.43,B5DFDDCE-9FC0-4D1D-9B16-18E0576D8140,LHI7ml90TPHNMhNnPQgkqDzeV,South Lake Union,Steve
+04/01/2021 11:12 AM,Josh,1x 6) Lamb And Beef Berliner,1,8.89,0.90,0,,0.00,9.79,E5AB24F3-46AC-49FD-A3D7-1DBC5B0255B8,tuDP2Qf8P1F0mV6pvjLHbfweV,South Lake Union,Josh
+04/01/2021 11:02 AM,Larry,1x 2) Chicken Berliner,1,8.89,0.90,0,,0.00,9.79,098EA012-C0F5-4AC7-A8AA-55328AA89A66,hsDuAjAk78C503kV2nzlT6seV,South Lake Union,Larry

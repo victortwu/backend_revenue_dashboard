@@ -1,5 +1,6 @@
 from flask import Flask, jsonify
 
+import csv
 # import models
 
 from flask_cors import CORS
@@ -36,7 +37,8 @@ app.secret_key = os.environ.get("FLASK_APP_SECRET")
 
 
 @app.route('/')
-def test():
+def test_csv():
+
     print('Hit test route')
     return "testing testing... 123"
 
