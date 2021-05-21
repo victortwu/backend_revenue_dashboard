@@ -1,7 +1,9 @@
 from flask import Flask, jsonify
 
-import csv
-# import models
+from resources.reports import reports
+
+
+import models
 
 from flask_cors import CORS
 
@@ -20,19 +22,22 @@ app = Flask(__name__)
 
 app.secret_key = os.environ.get("FLASK_APP_SECRET")
 
-# login_manager = LoginManager()
-#
+login_manager = LoginManager()
+
 # login_manager.init_app()
-#
-# @login_manager.user_loader
-# def load_user(user_id):
-#     return models.User.get(models.User.id == user_id)
+
+@login_manager.user_loader
+def load_user(user_id):
+    return models.User.get(models.User.id == user_id)
 
 #==== C O R S stuff goes here =====
 
 
 
-# use blueprint controllers here
+# ======= use blueprint controllers here ========
+
+app.register_blueprint(reports, url_prefix='/api/v1/reports')
+
 
 
 
@@ -46,5 +51,5 @@ def test_csv():
 
 
 if __name__ == '__main__':
-    # models.initialize()
+    models.init()
     app.run(debug=DEBUG, port=PORT)
