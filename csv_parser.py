@@ -1,33 +1,34 @@
 import csv
 
 reader = csv.DictReader(open('ubereats_sample.csv'))
-print('UberEats key: ', reader.fieldnames[1])
+print('UberEats key: ', reader.fieldnames[4])
 
 reader = csv.DictReader(open('Deliveries.csv'))
-print('Doordash key: ', reader.fieldnames[1])
+print('Doordash key: ', reader.fieldnames[4])
 
 reader = csv.DictReader(open('grubhub_sample.csv'))
-print('Grubhub key: ', reader.fieldnames[1])
+print('Grubhub key: ', reader.fieldnames[4])
 
 reader = csv.DictReader(open('kb_sample.csv'))
-print('KioskBuddy key: ', reader.fieldnames[1])
+print('KioskBuddy key: ', reader.fieldnames[4])
 
 reader = csv.DictReader(open('postmates_sample.csv'))
-print('Postmates key: ', reader.fieldnames[1])
+print('Postmates key: ', reader.fieldnames[4])
 
 
 
 # ======== a doordash file ===========
-with open('Deliveries.csv') as file:
-    reader = csv.DictReader(file)
+# with open('Deliveries.csv') as file:
+#     reader = csv.DictReader(file)
+#
+#     for row in reader:
+#         print('')
+#         print(row['\ufeffDate'])
+        # print(row['Date'])
 
-    for row in reader:
-        print('')
-        print(row['\ufeffDate'])
-
-        print(row['Subtotal'])
-        print(row['Commission'])
-        print(row['Payout'])
+        # print(row['Subtotal'])
+        # print(row['Commission'])
+        # print(row['Payout'])
 
 
 # Doordash row headers/key names....

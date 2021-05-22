@@ -40,10 +40,10 @@ def reports_index():
 def upload_report(file):
     # control flow of which files so all type of files get same cutom fields
     first_read = csv.DictReader(open(file))
-    unique_key = first_read.fieldnames[1]
+    unique_key = first_read.fieldnames[4]
     #===== DOORDASH =====
-    if unique_key == 'Place Nickname':
-        DATE='\ufeffDate'#<--only works if it's the first one uploaded
+    if unique_key == 'Order':
+        DATE='\ufeffDate'
         VENDOR='Doordash'
         WHOLESALE='True'
         SUBTOTAL='Subtotal'
@@ -52,7 +52,7 @@ def upload_report(file):
         COMMISSION='Commission'
         TIP='Tip'
     #===== GRUBHUB =====
-    if unique_key == 'Restaurant':
+    if unique_key == 'Date':
         DATE='Date'
         VENDOR='Grubhub'
         WHOLESALE='True'
@@ -61,8 +61,8 @@ def upload_report(file):
         FEE='Processing Fee'
         COMMISSION='Commission'
         TIP='Tip'
-    #===== UBEREATS =====
-    if unique_key == 'Store ID':
+    # #===== UBEREATS =====
+    if unique_key == 'Dining Mode':
         DATE='Order Date / Refund date'
         VENDOR='UberEats'
         WHOLESALE='True'
@@ -71,8 +71,8 @@ def upload_report(file):
         FEE='Order Processing Fee'
         COMMISSION='Uber Service Fee'
         TIP='Gratuity'
-    #===== KIOSKBUDDY =====
-    if unique_key == 'Name':
+    # #===== KIOSKBUDDY =====
+    if unique_key == 'Subtotal':
         DATE='Date'
         VENDOR='KioskBuddy'
         WHOLESALE='False'
@@ -81,8 +81,8 @@ def upload_report(file):
         FEE='Promo Code' # This is a problem, Kioskbuddy has no fees or commision
         COMMISSION='Discount' # These 2 fields are ti fill in the gaps
         TIP='Tips'
-    #===== POSTMATES =====
-    if unique_key == 'Place Nickname':
+    # #===== POSTMATES =====
+    if unique_key == 'Order Number':
         DATE='Date'
         VENDOR='Postmates'
         WHOLESALE='False'
@@ -90,7 +90,7 @@ def upload_report(file):
         TAX='Tax'
         FEE='Fees'
         COMMISSION='Commission'
-        TIP='Reimbursements' # same prob, no tips from PM, filled the gap
+        TIP='' # same prob, no tips from PM, filled the gap
 
 
 

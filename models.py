@@ -15,7 +15,7 @@ class User(UserMixin, Model):
 
 
 class Report(Model):
-    date = DateField()
+    date = DateTimeField(formats=['%Y-%m-%d %H:%M:%S.%f', '%Y-%m-%d %H:%M:%S', '%Y-%m-%d'])
     vendor = CharField()
     wholesale = BooleanField(default=False)
     subtotal = FloatField()
