@@ -7,6 +7,8 @@ from playhouse.shortcuts import model_to_dict
 
 from flask_login import current_user, login_required
 
+import csv
+
 #========================================
 
 reports = Blueprint('reports', 'reports')
@@ -31,25 +33,38 @@ def reports_index():
 
 
 #----CREATE (upload) REPORTS-----
-@reports.route('/', methods=['POST'])
+@reports.route('/<file>', methods=['POST'])
+# pass in a parameter here that is the file?
 
-def upload_report():
 
-    payload = request.get_json()
+def upload_report(file):
 
-    print(payload)
 
-    uploaded_report = models.Report.create(
-        date=payload['date'],
-        vendor=payload['vendor'],
-        wholesale=payload['wholesale'],
-        subtotal=payload['subtotal'],
-        tax=payload['tax'],
-        fee=payload['fee'],
-        commission=payload['commission']
-    )
 
-    report_dict = model_to_dict(uploaded_report)
+    # payload = request.get_json()
+    #
+    # print(payload)
+
+
+    # iterate here, had to hard code file name
+    with open(file) as file:
+        reader = csv.DictReader(file)
+
+        for row in reader:
+            uploaded_report = models.Report.create(
+                date=row['\ufeffDate'],
+                vendor='Doordash',
+                wholesale='True',
+                subtotal=row['Subtotal'],
+                tax=row['Tax'],
+                fee=row['Fees'],
+                commission=row['Commission'],
+                tip=row['Tip']
+            )
+
+            report_dict = model_to_dict(uploaded_report)
+
+            print(report_dict)
 
     return jsonify(
         data = report_dict,

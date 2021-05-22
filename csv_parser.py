@@ -95,22 +95,22 @@ import csv
 
 
 # ======= a postmates file =======
-with open('postmates_sample.csv') as file:
-    reader = csv.DictReader(file)
-
-    for row in reader:
-        # print('')
-        #
-        #
-        # print(row['Date'])
-        # print(row['Subtotal'])
-        # print(row['Tax'])
-        # print(row['Total'])
-        date = row['Date']
-        subtotal = row['Subtotal']
-        tax = row['Tax']
-        report = {'Date': date, 'Subtotal': subtotal, 'Tax': tax}
-        print(report)
+# with open('postmates_sample.csv') as file:
+#     reader = csv.DictReader(file)
+#
+#     for row in reader:
+#         # print('')
+#         #
+#         #
+#         # print(row['Date'])
+#         # print(row['Subtotal'])
+#         # print(row['Tax'])
+#         # print(row['Total'])
+#         date = row['Date']
+#         subtotal = row['Subtotal']
+#         tax = row['Tax']
+#         report = {'Date': date, 'Subtotal': subtotal, 'Tax': tax}
+#         print(report)
 
 
 

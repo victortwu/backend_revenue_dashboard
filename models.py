@@ -18,10 +18,11 @@ class Report(Model):
     date = DateField()
     vendor = CharField()
     wholesale = BooleanField(default=False)
-    subtotal = DecimalField(decimal_places=2)
-    tax = DecimalField(decimal_places=2)
-    fee = DecimalField(decimal_places=2)
-    commission = DecimalField(decimal_places=2)
+    subtotal = FloatField()
+    tax = FloatField()
+    fee = FloatField()
+    commission = FloatField()
+    tip = FloatField()
 
     class Meta:
         database = DATABASE
