@@ -1,16 +1,33 @@
 import csv
 
+reader = csv.DictReader(open('ubereats_sample.csv'))
+print('UberEats key: ', reader.fieldnames[1])
+
+reader = csv.DictReader(open('Deliveries.csv'))
+print('Doordash key: ', reader.fieldnames[1])
+
+reader = csv.DictReader(open('grubhub_sample.csv'))
+print('Grubhub key: ', reader.fieldnames[1])
+
+reader = csv.DictReader(open('kb_sample.csv'))
+print('KioskBuddy key: ', reader.fieldnames[1])
+
+reader = csv.DictReader(open('postmates_sample.csv'))
+print('Postmates key: ', reader.fieldnames[1])
+
+
+
 # ======== a doordash file ===========
-# with open('Deliveries.csv') as file:
-#     reader = csv.DictReader(file)
-#
-#     for row in reader:
-#         print('')
-#         print(row['\ufeffDate'])
-#
-#         print(row['Subtotal'])
-#         print(row['Commission'])
-#         print(row['Payout'])
+with open('Deliveries.csv') as file:
+    reader = csv.DictReader(file)
+
+    for row in reader:
+        print('')
+        print(row['\ufeffDate'])
+
+        print(row['Subtotal'])
+        print(row['Commission'])
+        print(row['Payout'])
 
 
 # Doordash row headers/key names....
@@ -25,15 +42,19 @@ import csv
 # ======= an ubereats file =======
 # with open('ubereats_sample.csv') as file:
 #     reader = csv.DictReader(file)
-#
-#     for row in reader:
-#         print('')
-#
-#
-#         print(row['Order Date / Refund date'])
-#         print(row['Food sales (including tax)'])
-#         print(row['Food Sales (excluding tax)'])
-#         print(row['Tax on Food Sales'])
+
+
+    # for row in reader:
+
+
+
+    #     print('')
+    #
+    #
+    #     print(row['Order Date / Refund date'])
+    #     print(row['Food sales (including tax)'])
+    #     print(row['Food Sales (excluding tax)'])
+    #     print(row['Tax on Food Sales'])
 
 
 
@@ -114,7 +135,7 @@ import csv
 
 
 
-# KioskBuddy row headers/key names.....
+# Postmates row headers/key names.....
 
 # Date,Place Nickname,Place Address,Order Type,Order Number,Order State,
 # Customer Name,Subtotal,Tax,Fees,Total,Commission,Gift Card Redemptions,
