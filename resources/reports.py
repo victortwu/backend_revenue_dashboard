@@ -90,7 +90,7 @@ def upload_report(file):
         TAX='Tax'
         FEE='Fees'
         COMMISSION='Commission'
-        TIP='' # same prob, no tips from PM, filled the gap
+        TIP='Reimbursements' # same prob, no tips from PM, filled the gap
 
 
 
