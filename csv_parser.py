@@ -18,17 +18,17 @@ print('Postmates key: ', reader.fieldnames[4])
 
 
 # ======== a doordash file ===========
-# with open('Deliveries.csv') as file:
-#     reader = csv.DictReader(file)
-#
-#     for row in reader:
-#         print('')
-#         print(row['\ufeffDate'])
-        # print(row['Date'])
+with open('Deliveries.csv') as file:
+    reader = csv.DictReader(file)
 
-        # print(row['Subtotal'])
-        # print(row['Commission'])
-        # print(row['Payout'])
+    for row in reader:
+        print('')
+        print(row['\ufeffDate'])
+        number = float(row['Subtotal'].replace('$', ''))
+
+        print(number)
+        print(row['Commission'])
+        print(row['Payout'])
 
 
 # Doordash row headers/key names....
@@ -104,7 +104,7 @@ print('Postmates key: ', reader.fieldnames[4])
 #
 #
 #         print(row['Date'])
-#         print(row['Subtotal'])
+#         print(float(row['Subtotal']))
 #         print(row['Taxes'])
 #         print(row['Tips'])
 
@@ -142,3 +142,90 @@ print('Postmates key: ', reader.fieldnames[4])
 # Customer Name,Subtotal,Tax,Fees,Total,Commission,Gift Card Redemptions,
 # Adjustments,Reimbursements,Returns,Promotion Cost,Payout,Items,Issues,
 # Special Instructions,Substitution,Uber Eats UUID
+#----CREATE (upload) REPORTS-----
+# @reports.route('/<file>', methods=['POST'])
+# pass in a parameter here that is the file?
+
+
+# def upload_report(file):
+#     # control flow of which files so all type of files get same cutom fields
+#     first_read = csv.DictReader(open(file))
+#     unique_key = first_read.fieldnames[4]
+#     #===== DOORDASH =====
+#     if unique_key == 'Order':
+#         DATE='\ufeffDate'
+#         VENDOR='Doordash'
+#         WHOLESALE='true'
+#         SUBTOTAL='Subtotal'
+#         TAX='Tax'
+#         FEE='Fees'
+#         COMMISSION='Commission'
+#         TIP='Tip'
+#     #===== GRUBHUB =====
+#     if unique_key == 'Date':
+#         DATE='Date'
+#         VENDOR='Grubhub'
+#         WHOLESALE='true'
+#         SUBTOTAL='Subtotal'
+#         TAX='Tax'
+#         FEE='Processing Fee'
+#         COMMISSION='Commission'
+#         TIP='Tip'
+#     # #===== UBEREATS =====
+#     if unique_key == 'Dining Mode':
+#         DATE='Order Date / Refund date'
+#         VENDOR='UberEats'
+#         WHOLESALE='true'
+#         SUBTOTAL='Food Sales (excluding tax)'
+#         TAX='Tax on Food Sales'
+#         FEE='Order Processing Fee'
+#         COMMISSION='Uber Service Fee'
+#         TIP='Gratuity'
+#     # #===== KIOSKBUDDY =====
+#     if unique_key == 'Subtotal':
+#         DATE='Date'
+#         VENDOR='KioskBuddy'
+#         WHOLESALE='false'
+#         SUBTOTAL='Subtotal'
+#         TAX='Taxes'
+#         FEE='Promo Code' # This is a problem, Kioskbuddy has no fees or commision
+#         COMMISSION='Discount' # These 2 fields are ti fill in the gaps
+#         TIP='Tips'
+#     # #===== POSTMATES =====
+#     if unique_key == 'Order Number':
+#         DATE='Date'
+#         VENDOR='Postmates'
+#         WHOLESALE='false'
+#         SUBTOTAL='Subtotal'
+#         TAX='Tax'
+#         FEE='Fees'
+#         COMMISSION='Commission'
+#         TIP='Reimbursements' # same prob, no tips from PM, filled the gap
+
+
+
+    # iterate here, had to hard code file name
+    # with open(file) as file:
+    #     reader = csv.DictReader(file)
+    #
+    #     for row in reader:
+    #         uploaded_report = models.Report.create(
+    #             date=row[DATE],
+    #             vendor=VENDOR,
+    #             wholesale=WHOLESALE,
+    #             subtotal=row[SUBTOTAL],
+    #             tax=row[TAX],
+    #             fee=row[FEE],
+    #             commission=row[COMMISSION],
+    #             tip=row[TIP]
+    #         )
+    #
+    #         report_dict = model_to_dict(uploaded_report)
+    #
+    #         print(report_dict)
+    #
+    # return jsonify(
+    #     data = report_dict,
+    #     message = 'Successfully uploaded report!',
+    #     status = 201
+    # ), 201

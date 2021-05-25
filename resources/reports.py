@@ -41,81 +41,141 @@ def upload_report(file):
     # control flow of which files so all type of files get same cutom fields
     first_read = csv.DictReader(open(file))
     unique_key = first_read.fieldnames[4]
+
     #===== DOORDASH =====
     if unique_key == 'Order':
-        DATE='\ufeffDate'
-        VENDOR='Doordash'
-        WHOLESALE='True'
-        SUBTOTAL='Subtotal'
-        TAX='Tax'
-        FEE='Fees'
-        COMMISSION='Commission'
-        TIP='Tip'
+        with open(file) as file:
+            reader = csv.DictReader(file)
+
+            for row in reader:
+                uploaded_report = models.Report.create(
+                    date=row['\ufeffDate'],
+                    vendor='Doordash',
+                    wholesale='true',
+                    subtotal=float(row['Subtotal'].replace('$', '')),
+                    tax=float(row['Tax'].replace('$', '')),
+                    fee=row['Fees'],
+                    commission=float(row['Commission'].replace('($', '-').replace(')', '')),
+                    tip=float(row['Tip'].replace('$', ''))
+                )
+
+                report_dict = model_to_dict(uploaded_report)
+
+                print(report_dict)
+
+        return jsonify(
+            data = report_dict,
+            message = 'Successfully uploaded report!',
+            status = 201
+        ), 201
+
+
     #===== GRUBHUB =====
     if unique_key == 'Date':
-        DATE='Date'
-        VENDOR='Grubhub'
-        WHOLESALE='True'
-        SUBTOTAL='Subtotal'
-        TAX='Tax'
-        FEE='Processing Fee'
-        COMMISSION='Commission'
-        TIP='Tip'
+        with open(file) as file:
+            reader = csv.DictReader(file)
+
+            for row in reader:
+                uploaded_report = models.Report.create(
+                    date=row['Date'],
+                    vendor='Grubhub',
+                    wholesale='true',
+                    subtotal=row['Subtotal'],
+                    tax=row['Tax'],
+                    fee=row['Processing Fee'],
+                    commission=row['Commission'],
+                    tip=row['Tip']
+                )
+
+                report_dict = model_to_dict(uploaded_report)
+
+                print(report_dict)
+
+        return jsonify(
+            data = report_dict,
+            message = 'Successfully uploaded report!',
+            status = 201
+        ), 201
+
+
     # #===== UBEREATS =====
     if unique_key == 'Dining Mode':
-        DATE='Order Date / Refund date'
-        VENDOR='UberEats'
-        WHOLESALE='True'
-        SUBTOTAL='Food Sales (excluding tax)'
-        TAX='Tax on Food Sales'
-        FEE='Order Processing Fee'
-        COMMISSION='Uber Service Fee'
-        TIP='Gratuity'
+        with open(file) as file:
+            reader = csv.DictReader(file)
+
+            for row in reader:
+                uploaded_report = models.Report.create(
+                    date=row['Order Date / Refund date'],
+                    vendor='UberEats',
+                    wholesale='true',
+                    subtotal=row['Food Sales (excluding tax)'],
+                    tax=row['Tax on Food Sales'],
+                    fee=row['Order Processing Fee'],
+                    commission=row['Uber Service Fee'],
+                    tip=row['Gratuity']
+                )
+
+                report_dict = model_to_dict(uploaded_report)
+
+                print(report_dict)
+
+        return jsonify(
+            data = report_dict,
+            message = 'Successfully uploaded report!',
+            status = 201
+        ), 201
+
+
     # #===== KIOSKBUDDY =====
     if unique_key == 'Subtotal':
-        DATE='Date'
-        VENDOR='KioskBuddy'
-        WHOLESALE='False'
-        SUBTOTAL='Subtotal'
-        TAX='Taxes'
-        FEE='Promo Code' # This is a problem, Kioskbuddy has no fees or commision
-        COMMISSION='Discount' # These 2 fields are ti fill in the gaps
-        TIP='Tips'
+        with open(file) as file:
+            reader = csv.DictReader(file)
+
+            for row in reader:
+                uploaded_report = models.Report.create(
+                    date=row['Date'],
+                    vendor='KioskBuddy',
+                    wholesale='false',
+                    subtotal=float(row['Subtotal']),
+                    tax=float(row['Taxes']),
+                    fee=0,
+                    commission=0,
+                    tip=float(row['Tips'])
+                )
+
+                report_dict = model_to_dict(uploaded_report)
+
+                print(report_dict)
+
+        return jsonify(
+            data = report_dict,
+            message = 'Successfully uploaded report!',
+            status = 201
+        ), 201
+
     # #===== POSTMATES =====
     if unique_key == 'Order Number':
-        DATE='Date'
-        VENDOR='Postmates'
-        WHOLESALE='False'
-        SUBTOTAL='Subtotal'
-        TAX='Tax'
-        FEE='Fees'
-        COMMISSION='Commission'
-        TIP='Reimbursements' # same prob, no tips from PM, filled the gap
+        with open(file) as file:
+            reader = csv.DictReader(file)
 
+            for row in reader:
+                uploaded_report = models.Report.create(
+                    date=row['Date'],
+                    vendor='Postmates',
+                    wholesale='false',
+                    subtotal=row['Subtotal'],
+                    tax=row['Tax'],
+                    fee=row['Fees'],
+                    commission=row['Commission'],
+                    tip=0
+                )
 
+                report_dict = model_to_dict(uploaded_report)
 
-    # iterate here, had to hard code file name
-    with open(file) as file:
-        reader = csv.DictReader(file)
+                print(report_dict)
 
-        for row in reader:
-            uploaded_report = models.Report.create(
-                date=row[DATE],
-                vendor=VENDOR,
-                wholesale=WHOLESALE,
-                subtotal=row[SUBTOTAL],
-                tax=row[TAX],
-                fee=row[FEE],
-                commission=row[COMMISSION],
-                tip=row[TIP]
-            )
-
-            report_dict = model_to_dict(uploaded_report)
-
-            print(report_dict)
-
-    return jsonify(
-        data = report_dict,
-        message = 'Successfully uploaded report!',
-        status = 201
-    ), 201
+        return jsonify(
+            data = report_dict,
+            message = 'Successfully uploaded report!',
+            status = 201
+        ), 201
