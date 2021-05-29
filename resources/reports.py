@@ -33,9 +33,9 @@ def reports_index():
 
 
 #----CREATE (upload) REPORTS-----
-@reports.route('/<file>', methods=['POST'])
+@reports.route('/<file>', methods=['GET', 'POST']) #right now files are in folder on machine
 # pass in a parameter here that is the file?
-
+# where to put files first before putting in DB??
 
 def upload_report(file):
     # control flow of which files so all type of files get same cutom fields
@@ -46,22 +46,30 @@ def upload_report(file):
     if unique_key == 'Order':
         with open(file) as file:
             reader = csv.DictReader(file)
-
+                # start loop here
             for row in reader:
-                uploaded_report = models.Report.create(
-                    date=row['\ufeffDate'],
-                    vendor='Doordash',
-                    wholesale='true',
-                    subtotal=float(row['Subtotal'].replace('$', '')),
-                    tax=float(row['Tax'].replace('$', '')),
-                    fee=row['Fees'],
-                    commission=float(row['Commission'].replace('($', '-').replace(')', '')),
-                    tip=float(row['Tip'].replace('$', ''))
-                )
 
-                report_dict = model_to_dict(uploaded_report)
+                try:
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['\ufeffDate']))
+                    print('Try:.....', report_dict)
 
-                print(report_dict)
+                except models.DoesNotExist:
+
+                    uploaded_report = models.Report.create(
+                        date=row['\ufeffDate'],
+                        vendor='Doordash',
+                        wholesale='true',
+                        subtotal=float(row['Subtotal'].replace('$', '')),
+                        tax=float(row['Tax'].replace('$', '')),
+                        fee=row['Fees'],
+                        commission=float(row['Commission'].replace('($', '-').replace(')', '')),
+                        tip=float(row['Tip'].replace('$', '')),
+                        unique_id=row['\ufeffDate']
+                    )
+
+                    report_dict = model_to_dict(uploaded_report)
+
+                    print(report_dict)
 
         return jsonify(
             data = report_dict,
@@ -76,20 +84,28 @@ def upload_report(file):
             reader = csv.DictReader(file)
 
             for row in reader:
-                uploaded_report = models.Report.create(
-                    date=row['Date'],
-                    vendor='Grubhub',
-                    wholesale='true',
-                    subtotal=row['Subtotal'],
-                    tax=row['Tax'],
-                    fee=row['Processing Fee'],
-                    commission=row['Commission'],
-                    tip=row['Tip']
-                )
 
-                report_dict = model_to_dict(uploaded_report)
+                try:
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['ID']))
+                    print('Try:.....', report_dict)
 
-                print(report_dict)
+                except models.DoesNotExist:
+
+                    uploaded_report = models.Report.create(
+                        date=row['Date'],
+                        vendor='Grubhub',
+                        wholesale='true',
+                        subtotal=row['Subtotal'],
+                        tax=row['Tax'],
+                        fee=row['Processing Fee'],
+                        commission=row['Commission'],
+                        tip=row['Tip'],
+                        unique_id=row['ID']
+                    )
+
+                    report_dict = model_to_dict(uploaded_report)
+
+                    print('EXCEPT======= ', report_dict)
 
         return jsonify(
             data = report_dict,
@@ -104,20 +120,29 @@ def upload_report(file):
             reader = csv.DictReader(file)
 
             for row in reader:
-                uploaded_report = models.Report.create(
-                    date=row['Order Date / Refund date'],
-                    vendor='UberEats',
-                    wholesale='true',
-                    subtotal=row['Food Sales (excluding tax)'],
-                    tax=row['Tax on Food Sales'],
-                    fee=row['Order Processing Fee'],
-                    commission=row['Uber Service Fee'],
-                    tip=row['Gratuity']
-                )
 
-                report_dict = model_to_dict(uploaded_report)
+                try:
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['Order ID']))
+                    print('Try:.....', report_dict)
 
-                print(report_dict)
+                except models.DoesNotExist:
+
+
+                    uploaded_report = models.Report.create(
+                        date=row['Order Date / Refund date'],
+                        vendor='UberEats',
+                        wholesale='true',
+                        subtotal=row['Food Sales (excluding tax)'],
+                        tax=row['Tax on Food Sales'],
+                        fee=row['Order Processing Fee'],
+                        commission=row['Uber Service Fee'],
+                        tip=row['Gratuity'],
+                        unique_id=row['Order ID']
+                    )
+
+                    report_dict = model_to_dict(uploaded_report)
+
+                    print('EXCEPT======= ', report_dict)
 
         return jsonify(
             data = report_dict,
@@ -132,20 +157,28 @@ def upload_report(file):
             reader = csv.DictReader(file)
 
             for row in reader:
-                uploaded_report = models.Report.create(
-                    date=row['Date'],
-                    vendor='KioskBuddy',
-                    wholesale='false',
-                    subtotal=float(row['Subtotal']),
-                    tax=float(row['Taxes']),
-                    fee=0,
-                    commission=0,
-                    tip=float(row['Tips'])
-                )
 
-                report_dict = model_to_dict(uploaded_report)
+                try:
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['Transaction Client ID']))
+                    print('Try=======', report_dict)
 
-                print(report_dict)
+                except models.DoesNotExist:
+
+                    uploaded_report = models.Report.create(
+                        date=row['Date'],
+                        vendor='KioskBuddy',
+                        wholesale='false',
+                        subtotal=float(row['Subtotal']),
+                        tax=float(row['Taxes']),
+                        fee=0,
+                        commission=0,
+                        tip=float(row['Tips']),
+                        unique_id=row['Transaction Client ID']
+                    )
+
+                    report_dict = model_to_dict(uploaded_report)
+
+                    print(report_dict)
 
         return jsonify(
             data = report_dict,
@@ -159,20 +192,28 @@ def upload_report(file):
             reader = csv.DictReader(file)
 
             for row in reader:
-                uploaded_report = models.Report.create(
-                    date=row['Date'],
-                    vendor='Postmates',
-                    wholesale='false',
-                    subtotal=row['Subtotal'],
-                    tax=row['Tax'],
-                    fee=row['Fees'],
-                    commission=row['Commission'],
-                    tip=0
-                )
 
-                report_dict = model_to_dict(uploaded_report)
+                try:
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['Date']))
+                    print('Try:.....', report_dict)
 
-                print(report_dict)
+                except models.DoesNotExist:
+
+                    uploaded_report = models.Report.create(
+                        date=row['Date'],
+                        vendor='Postmates',
+                        wholesale='false',
+                        subtotal=row['Subtotal'],
+                        tax=row['Tax'],
+                        fee=row['Fees'],
+                        commission=row['Commission'],
+                        tip=0,
+                        unique_id=row['Date']
+                    )
+
+                    report_dict = model_to_dict(uploaded_report)
+
+                    print(report_dict)
 
         return jsonify(
             data = report_dict,
