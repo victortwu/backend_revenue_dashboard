@@ -17,13 +17,18 @@ reports = Blueprint('reports', 'reports')
 
 
 #----GET REPORTS----
-@reports.route('/', methods=['GET'])
-
-def reports_index():
-
+@reports.route('/<dates>', methods=['GET'])
+# this route needs to pass in date params
+def reports_index(dates):# date params pass in function
+    print('')
+    print('')
+    print('Hitting GET route and passing in this---> ', dates)
+    print('')
+    print('')
+    # does date params need to be formated in models first?
     report_dicts = [model_to_dict(report) for report in models.Report.select()]
-
-    print(report_dicts)
+    # on the .select() need a WHERE in the query
+    # print(report_dicts)
 
     return jsonify({
         'data': report_dicts,
