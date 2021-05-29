@@ -42,7 +42,7 @@ def upload_report(file):
     first_read = csv.DictReader(open(file))
     unique_key = first_read.fieldnames[4]
 
-    #===== DOORDASH =====
+    #===== POSTMATES =====
     if unique_key == 'Order':
         with open(file) as file:
             reader = csv.DictReader(file)
@@ -51,14 +51,14 @@ def upload_report(file):
 
                 try:
                     report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['\ufeffDate']))
-                    print('Try:.....', report_dict)
+                    print('Try ======== ', report_dict)
 
                 except models.DoesNotExist:
 
                     uploaded_report = models.Report.create(
                         date=row['\ufeffDate'],
-                        vendor='Doordash',
-                        wholesale='true',
+                        vendor='Postmates',
+                        wholesale='false',
                         subtotal=float(row['Subtotal'].replace('$', '')),
                         tax=float(row['Tax'].replace('$', '')),
                         fee=row['Fees'],
@@ -69,7 +69,7 @@ def upload_report(file):
 
                     report_dict = model_to_dict(uploaded_report)
 
-                    print(report_dict)
+                    print('Except ====== ', report_dict)
 
         return jsonify(
             data = report_dict,
@@ -186,34 +186,34 @@ def upload_report(file):
             status = 201
         ), 201
 
-    # #===== POSTMATES =====
-    if unique_key == 'Order Number':
+    # #===== DOORDASH =====
+    if unique_key == 'PAYOUT_TIME':
         with open(file) as file:
             reader = csv.DictReader(file)
 
             for row in reader:
 
                 try:
-                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['Date']))
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['TRANSACTION_ID']))
                     print('Try:.....', report_dict)
 
                 except models.DoesNotExist:
+                    if row['TRANSACTION_TYPE'] != 'PAYOUT':
+                        uploaded_report = models.Report.create(
+                            date=row['TIMESTAMP_LOCAL_DATE'],
+                            vendor='Doordash',
+                            wholesale='true',
+                            subtotal=row['SUBTOTAL'],
+                            tax=row['TAX_REMITTED_BY_DOORDASH_TO_STATE'],
+                            fee=float(row['MARKETING_FEES']) * -1,
+                            commission=float(row['COMMISSION']) * -1,
+                            tip=row['STAFF_TIP'],
+                            unique_id=row['TRANSACTION_ID']
+                        )
 
-                    uploaded_report = models.Report.create(
-                        date=row['Date'],
-                        vendor='Postmates',
-                        wholesale='false',
-                        subtotal=row['Subtotal'],
-                        tax=row['Tax'],
-                        fee=row['Fees'],
-                        commission=row['Commission'],
-                        tip=0,
-                        unique_id=row['Date']
-                    )
+                        report_dict = model_to_dict(uploaded_report)
 
-                    report_dict = model_to_dict(uploaded_report)
-
-                    print(report_dict)
+                        print('Except ======  ', report_dict)
 
         return jsonify(
             data = report_dict,

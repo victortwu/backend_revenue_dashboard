@@ -1,42 +1,84 @@
 import csv
 
-reader = csv.DictReader(open('ubereats_sample.csv'))
-print('UberEats key: ', reader.fieldnames[4])
+# reader = csv.DictReader(open('ubereats_sample.csv'))
+# print('UberEats key: ', reader.fieldnames[4])
+#
+# reader = csv.DictReader(open('Deliveries.csv'))
+# print('Doordash key: ', reader.fieldnames[4])
+#
+# reader = csv.DictReader(open('grubhub_sample.csv'))
+# print('Grubhub key: ', reader.fieldnames[4])
+#
+# reader = csv.DictReader(open('kb_sample.csv'))
+# print('KioskBuddy key: ', reader.fieldnames[4])
+#
+# reader = csv.DictReader(open('postmates_sample.csv'))
+# print('Postmates key: ', reader.fieldnames[4])
 
-reader = csv.DictReader(open('Deliveries.csv'))
-print('Doordash key: ', reader.fieldnames[4])
+total = 175 * -1
 
-reader = csv.DictReader(open('grubhub_sample.csv'))
-print('Grubhub key: ', reader.fieldnames[4])
-
-reader = csv.DictReader(open('kb_sample.csv'))
-print('KioskBuddy key: ', reader.fieldnames[4])
-
-reader = csv.DictReader(open('postmates_sample.csv'))
-print('Postmates key: ', reader.fieldnames[4])
-
-
+print(total)
 
 # ======== a doordash file ===========
-with open('Deliveries.csv') as file:
-    reader = csv.DictReader(file)
+# with open('doordash_sample.csv') as file:
+#     reader = csv.DictReader(file)
+#
+#     for row in reader:
+#         print('===========================')
+        # print('')
+        # print('TIMESTAMP_UTC_TIME  ', row['TIMESTAMP_UTC_TIME'])
+        # print('TIMESTAMP_UTC_DATE  ', row['TIMESTAMP_UTC_DATE'])
+        # print('TIMESTAMP_LOCAL_TIME  ', row['TIMESTAMP_LOCAL_TIME'])
+        # print('TIMESTAMP_LOCAL_DATE   ', row['TIMESTAMP_LOCAL_DATE'])
+        # print('')
+        # print('PAYOUT_TIME   ', row['PAYOUT_TIME'])
+        # print('BUSINESS_ID   ', row['BUSINESS_ID'])
+        # print('STORE_NAME   ', row['STORE_NAME'])
+        # print('MERCHANT_STORE_ID   ', row['MERCHANT_STORE_ID'])
+        # print('')
+        # print('TRANSACTION_TYPE   ', row['TRANSACTION_TYPE'])
+        # # print('TRANSACTION_ID   ', row['TRANSACTION_ID'])
+        # # print('DOORDASH_ORDER_ID   ', row['DOORDASH_ORDER_ID'])
+        # # print('MERCHANT_DELIVERY_ID   ', row['MERCHANT_DELIVERY_ID'])
+        # # print('')
+        # # print('EXTERNAL_ID   ', row['EXTERNAL_ID'])
+        # # print('DESCRIPTION   ', row['DESCRIPTION'])
+        # # print('FINAL_ORDER_STATUS   ', row['FINAL_ORDER_STATUS'])
+        # # print('CURRENCY   ', row['CURRENCY'])
+        # print('')
+        # print('SUBTOTAL   ', row['SUBTOTAL'])
+        # # print('TAX_SUBTOTAL   ', row['TAX_SUBTOTAL'])
+        # print('COMMISSION   ', row['COMMISSION'])
+        # print('COMMISSION_TAX_AMOUNT   ', row['COMMISSION_TAX_AMOUNT'])
+        # print('')
+        # print('MARKETING_FEES   ', row['MARKETING_FEES'])
+        # print('STAFF_TIP   ', row['STAFF_TIP'])
+        # print('CREDIT   ', row['CREDIT'])
+        # print('DEBIT   ', row['DEBIT'])
+        # print('')
+        # print('DOORDASH_TRANSACTION_ID   ', row['DOORDASH_TRANSACTION_ID'])
+        # print('PAYOUT_ID   ', row['PAYOUT_ID'])
+        # print('DRIVE_CHARGE   ', row['DRIVE_CHARGE'])
+        # print('TAX_REMITTED_BY_DOORDASH_TO_STATE   ', row['TAX_REMITTED_BY_DOORDASH_TO_STATE'])
 
-    for row in reader:
-        print('')
-        print(row['\ufeffDate'])
-        number = float(row['Subtotal'].replace('$', ''))
+        # print(row['TOTAL_BEFORE_ADJUSTMENTS'])
+        # print(row['ESTIMATED_PAYOUT'])
 
-        print(number)
-        print(row['Commission'])
-        print(row['Payout'])
+
+
+
 
 
 # Doordash row headers/key names....
 
-# Date,Place Nickname,Place Address,Order Type,Order,Order State,Customer Name,
-# API Delivery Fee,Tip,API Delivery Total,Subtotal,Tax,Fees,Total,Commission,
-# Gift Card Redemptions,Adjustments,Reimbursement,Returns,Promotion Cost,
-# Payout,items,Issues,Special Instructions,Substitution
+#"TIMESTAMP_UTC_TIME","TIMESTAMP_UTC_DATE","TIMESTAMP_LOCAL_TIME",
+#"TIMESTAMP_LOCAL_DATE","PAYOUT_TIME","PAYOUT_DATE","STORE_ID",
+#"BUSINESS_ID","STORE_NAME","MERCHANT_STORE_ID","TRANSACTION_TYPE",
+#"TRANSACTION_ID","DOORDASH_ORDER_ID","MERCHANT_DELIVERY_ID","EXTERNAL_ID",
+#"DESCRIPTION","FINAL_ORDER_STATUS","CURRENCY","SUBTOTAL","TAX_SUBTOTAL",
+#"COMMISSION","COMMISSION_TAX_AMOUNT","MARKETING_FEES","STAFF_TIP",
+#"CREDIT","DEBIT","DOORDASH_TRANSACTION_ID","PAYOUT_ID",
+#"DRIVE_CHARGE","TAX_REMITTED_BY_DOORDASH_TO_STATE"
 
 
 
