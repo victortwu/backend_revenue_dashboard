@@ -137,6 +137,15 @@ print('Here is formatted: ', formatted)
 
 
 # ======= a grubhub file =======
+row = {'id': 1, 'date': '04/30/2021 04:00 PM', 'vendor': 'Grubhub', 'wholesale': 'true', 'subtotal': 11.0, 'tax': 1.13, 'fee': -0.67, 'commission': -1.65, 'tip': 0.0, 'unique_id': 'O-899314996514160'}
+print(row['date'])
+slice_object = slice(10)
+sliced_date = row['date'][slice_object]
+
+grubhub_formatted = datetime.strptime(sliced_date, '%m/%d/%Y').strftime('%Y-%m-%d')
+
+print(grubhub_formatted)
+
 # with open('grubhub_sample.csv') as file:
 #     reader = csv.DictReader(file)
 #

@@ -30,7 +30,7 @@ def reports_index(dates):# date params pass in function
     sliced_end = date_range[1][slice_object]
     start_date = datetime.strptime(sliced_start, '%a %b %d %Y').strftime('%Y-%m-%d')
     end_date = datetime.strptime(sliced_end, '%a %b %d %Y').strftime('%Y-%m-%d')
-    
+
     print('')
     print('Hitting GET route and passing in this---> ', dates)
     print(start_date)
@@ -38,7 +38,7 @@ def reports_index(dates):# date params pass in function
 
     print('')
     # does date params need to be formated in models first?
-    report_dicts = [model_to_dict(report) for report in models.Report.select().where(models.Report.date.between('2021-04-01', '2021-04-10'))]
+    report_dicts = [model_to_dict(report) for report in models.Report.select().where(models.Report.date.between(start_date, end_date))]
 
 
     # on the .select() need a WHERE in the query
@@ -76,9 +76,10 @@ def upload_report(file):
                     print('Try ======== ', report_dict)
 
                 except models.DoesNotExist:
-
+                    slice_object = slice(15)
+                    sliced_date = row['\ufeffDate'][slice_object]
                     uploaded_report = models.Report.create(
-                        date=row['\ufeffDate'],
+                        date=datetime.strptime(sliced_date, '%a %b %d %Y').strftime('%Y-%m-%d'),
                         vendor='Postmates',
                         wholesale='false',
                         subtotal=float(row['Subtotal'].replace('$', '')),
@@ -114,7 +115,7 @@ def upload_report(file):
                 except models.DoesNotExist:
 
                     uploaded_report = models.Report.create(
-                        date=row['Date'],
+                        date=datetime.strptime(row['Date'], '%x').strftime('%Y-%m-%d'),
                         vendor='Grubhub',
                         wholesale='true',
                         subtotal=row['Subtotal'],
@@ -185,9 +186,10 @@ def upload_report(file):
                     print('Try=======', report_dict)
 
                 except models.DoesNotExist:
-
+                    slice_object = slice(10)
+                    sliced_date = row['Date'][slice_object]
                     uploaded_report = models.Report.create(
-                        date=row['Date'],
+                        date=datetime.strptime(sliced_date, '%m/%d/%Y').strftime('%Y-%m-%d'),
                         vendor='KioskBuddy',
                         wholesale='false',
                         subtotal=float(row['Subtotal']),
