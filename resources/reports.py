@@ -7,6 +7,8 @@ from playhouse.shortcuts import model_to_dict
 
 from flask_login import current_user, login_required
 
+from datetime import datetime
+
 import csv
 
 #========================================
@@ -20,15 +22,30 @@ reports = Blueprint('reports', 'reports')
 @reports.route('/<dates>', methods=['GET'])
 # this route needs to pass in date params
 def reports_index(dates):# date params pass in function
-    print('')
+    date_range = dates.split(',')
+    st_date_str = date_range[0]
+    e_date_str = date_range[1]
+    slice_object = slice(15)
+    sliced_start = date_range[0][slice_object]
+    sliced_end = date_range[1][slice_object]
+    start_date = datetime.strptime(sliced_start, '%a %b %d %Y').strftime('%Y-%m-%d')
+    end_date = datetime.strptime(sliced_end, '%a %b %d %Y').strftime('%Y-%m-%d')
+    
     print('')
     print('Hitting GET route and passing in this---> ', dates)
-    print('')
+    print(start_date)
+    print(end_date)
+
     print('')
     # does date params need to be formated in models first?
-    report_dicts = [model_to_dict(report) for report in models.Report.select()]
+    report_dicts = [model_to_dict(report) for report in models.Report.select().where(models.Report.date.between('2021-04-01', '2021-04-10'))]
+
+
     # on the .select() need a WHERE in the query
-    # print(report_dicts)
+    #.where(models.Report.date.between(start_date, end_date))
+
+
+    print(report_dicts)
 
     return jsonify({
         'data': report_dicts,

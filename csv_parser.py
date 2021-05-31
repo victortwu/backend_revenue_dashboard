@@ -1,5 +1,5 @@
 import csv
-
+from datetime import datetime
 # reader = csv.DictReader(open('ubereats_sample.csv'))
 # print('UberEats key: ', reader.fieldnames[4])
 #
@@ -15,9 +15,29 @@ import csv
 # reader = csv.DictReader(open('postmates_sample.csv'))
 # print('Postmates key: ', reader.fieldnames[4])
 
-total = 175 * -1
+date_range_str = 'Thu Apr 01 2021 00:00:00 GMT-0700 (Pacific Daylight Time),Wed Apr 14 2021 00:00:00 GMT-0700 (Pacific Daylight Time)'
+# %a %b %d %Y %X %Z
 
-print(total)
+# split_dates = date_range.replace(",", '","')
+#
+# make_list = [split_dates]
+# print(len(make_list))
+# print(type(make_list))
+date_range_list = date_range_str.split(',')
+print(len(date_range_list))
+print(type(date_range_list))
+print(date_range_list)
+print(type(date_range_list[0]))
+print(date_range_list[1])
+
+
+slice_object = slice(15)
+sliced_date = date_range_list[0][slice_object]
+
+
+
+formatted = datetime.strptime(sliced_date, '%a %b %d %Y').strftime('%Y-%m-%d')
+print('Here is formatted: ', formatted)
 
 # ======== a doordash file ===========
 # with open('doordash_sample.csv') as file:
