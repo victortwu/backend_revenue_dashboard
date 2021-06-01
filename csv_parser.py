@@ -14,8 +14,8 @@ from datetime import datetime
 #
 # reader = csv.DictReader(open('postmates_sample.csv'))
 # print('Postmates key: ', reader.fieldnames[4])
-
-date_range_str = 'Thu Apr 01 2021 00:00:00 GMT-0700 (Pacific Daylight Time),Wed Apr 14 2021 00:00:00 GMT-0700 (Pacific Daylight Time)'
+#
+# date_range_str = 'Thu Apr 01 2021 00:00:00 GMT-0700 (Pacific Daylight Time),Wed Apr 14 2021 00:00:00 GMT-0700 (Pacific Daylight Time)'
 # %a %b %d %Y %X %Z
 
 # split_dates = date_range.replace(",", '","')
@@ -23,21 +23,21 @@ date_range_str = 'Thu Apr 01 2021 00:00:00 GMT-0700 (Pacific Daylight Time),Wed 
 # make_list = [split_dates]
 # print(len(make_list))
 # print(type(make_list))
-date_range_list = date_range_str.split(',')
-print(len(date_range_list))
-print(type(date_range_list))
-print(date_range_list)
-print(type(date_range_list[0]))
-print(date_range_list[1])
-
-
-slice_object = slice(15)
-sliced_date = date_range_list[0][slice_object]
-
-
-
-formatted = datetime.strptime(sliced_date, '%a %b %d %Y').strftime('%Y-%m-%d')
-print('Here is formatted: ', formatted)
+# date_range_list = date_range_str.split(',')
+# print(len(date_range_list))
+# print(type(date_range_list))
+# print(date_range_list)
+# print(type(date_range_list[0]))
+# print(date_range_list[1])
+#
+#
+# slice_object = slice(15)
+# sliced_date = date_range_list[0][slice_object]
+#
+#
+#
+# formatted = datetime.strptime(sliced_date, '%a %b %d %Y').strftime('%Y-%m-%d')
+# print('Here is formatted: ', formatted)
 
 # ======== a doordash file ===========
 # with open('doordash_sample.csv') as file:
@@ -103,21 +103,22 @@ print('Here is formatted: ', formatted)
 
 
 # ======= an ubereats file =======
-# with open('ubereats_sample.csv') as file:
+# with open('csv_files/ubereats_sample.csv') as file:
 #     reader = csv.DictReader(file)
-
-
-    # for row in reader:
-
-
-
-    #     print('')
-    #
-    #
-    #     print(row['Order Date / Refund date'])
-    #     print(row['Food sales (including tax)'])
-    #     print(row['Food Sales (excluding tax)'])
-    #     print(row['Tax on Food Sales'])
+#
+#
+#     for row in reader:
+#
+#
+#
+#         print('')
+#
+#         print('commissions-----')
+#         print(row['Uber Service Fee'])
+#         print('fee------')
+#         print(row['Merchant Fee'])
+        # print(row['Food Sales (excluding tax)'])
+        # print(row['Tax on Food Sales'])
 
 
 
@@ -137,14 +138,14 @@ print('Here is formatted: ', formatted)
 
 
 # ======= a grubhub file =======
-row = {'id': 1, 'date': '04/30/2021 04:00 PM', 'vendor': 'Grubhub', 'wholesale': 'true', 'subtotal': 11.0, 'tax': 1.13, 'fee': -0.67, 'commission': -1.65, 'tip': 0.0, 'unique_id': 'O-899314996514160'}
-print(row['date'])
-slice_object = slice(10)
-sliced_date = row['date'][slice_object]
-
-grubhub_formatted = datetime.strptime(sliced_date, '%m/%d/%Y').strftime('%Y-%m-%d')
-
-print(grubhub_formatted)
+# row = {'id': 1, 'date': '04/30/2021 04:00 PM', 'vendor': 'Grubhub', 'wholesale': 'true', 'subtotal': 11.0, 'tax': 1.13, 'fee': -0.67, 'commission': -1.65, 'tip': 0.0, 'unique_id': 'O-899314996514160'}
+# print(row['date'])
+# slice_object = slice(10)
+# sliced_date = row['date'][slice_object]
+#
+# grubhub_formatted = datetime.strptime(sliced_date, '%m/%d/%Y').strftime('%Y-%m-%d')
+#
+# print(grubhub_formatted)
 
 # with open('grubhub_sample.csv') as file:
 #     reader = csv.DictReader(file)
@@ -188,22 +189,22 @@ print(grubhub_formatted)
 
 
 # ======= a postmates file =======
-# with open('postmates_sample.csv') as file:
-#     reader = csv.DictReader(file)
-#
-#     for row in reader:
-#         # print('')
-#         #
-#         #
-#         # print(row['Date'])
-#         # print(row['Subtotal'])
-#         # print(row['Tax'])
-#         # print(row['Total'])
-#         date = row['Date']
-#         subtotal = row['Subtotal']
-#         tax = row['Tax']
-#         report = {'Date': date, 'Subtotal': subtotal, 'Tax': tax}
-#         print(report)
+with open('csv_files/postmates_two_weeks.csv') as file:
+    reader = csv.DictReader(file)
+
+    for row in reader:
+        print('')
+        #
+        #
+        print('Commission----')
+        print(row['Commission'])
+        print('Fees-----')
+        print(row['Fees'])
+        # date = row['Date']
+        # subtotal = row['Subtotal']
+        # tax = row['Tax']
+        # report = {'Date': date, 'Subtotal': subtotal, 'Tax': tax}
+        # print(report)
 
 
 
