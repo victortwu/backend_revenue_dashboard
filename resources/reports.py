@@ -11,6 +11,8 @@ from datetime import datetime
 
 import csv
 
+
+
 #========================================
 
 reports = Blueprint('reports', 'reports')
@@ -22,6 +24,7 @@ reports = Blueprint('reports', 'reports')
 @reports.route('/<dates>', methods=['GET'])
 # this route needs to pass in date params
 def reports_index(dates):# date params pass in function
+
     date_range = dates.split(',')
     st_date_str = date_range[0]
     e_date_str = date_range[1]
@@ -31,19 +34,7 @@ def reports_index(dates):# date params pass in function
     start_date = datetime.strptime(sliced_start, '%a %b %d %Y').strftime('%Y-%m-%d')
     end_date = datetime.strptime(sliced_end, '%a %b %d %Y').strftime('%Y-%m-%d')
 
-    print('')
-    print('Hitting GET route and passing in this---> ', dates)
-    print(start_date)
-    print(end_date)
-
-    print('')
-    # does date params need to be formated in models first?
     report_dicts = [model_to_dict(report) for report in models.Report.select().where(models.Report.date.between(start_date, end_date))]
-
-
-    # on the .select() need a WHERE in the query
-    #.where(models.Report.date.between(start_date, end_date))
-
 
     print(report_dicts)
 
@@ -55,14 +46,24 @@ def reports_index(dates):# date params pass in function
 
 
 #----CREATE (upload) REPORTS-----
-@reports.route('/<file>', methods=['GET', 'POST']) #right now files are in folder on machine
+@reports.route('/<file>', methods=['GET', 'POST'])
 # pass in a parameter here that is the file?
-# where to put files first before putting in DB??
+
 
 def upload_report(file):
-    # control flow of which files so all type of files get same cutom fields
+    # control flow of which files so all type of files get same custom fields
+    # if '.csv' not in file:
+    #     print('At line 56: ', file)
+    #     return jsonify(
+    #         data= file,
+    #         message = 'Invalid File!',
+    #         status = 500
+    #     ), 500
+
     first_read = csv.DictReader(open(file))
     unique_key = first_read.fieldnames[4]
+
+    print('At line 56: ', first_read)
 
     #===== POSTMATES =====
     if unique_key == 'Order':
