@@ -65,7 +65,7 @@ def register():
 @users.route('/login', methods=['POST'])
 def login():
     payload = request.get_json()
-    print('At line 65: ', payload)
+    
     # payload['email'] = payload['email'].lower()
     payload['username'] = payload['username'].lower()
 

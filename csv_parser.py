@@ -1,5 +1,7 @@
 import csv
 from datetime import datetime
+import os
+
 # reader = csv.DictReader(open('ubereats_sample.csv'))
 # print('UberEats key: ', reader.fieldnames[4])
 #
@@ -189,24 +191,88 @@ from datetime import datetime
 
 
 # ======= a postmates file =======
-with open('csv_files/postmates_two_weeks.csv') as file:
-    reader = csv.DictReader(file)
 
-    for row in reader:
-        print('')
-        #
-        #
-        print('Commission----')
-        print(row['Commission'])
-        print('Fees-----')
-        print(row['Fees'])
+# here = os.getcwd()
+
+# file_path = os.path.relpath(here + 'postmates_two_weeks.csv')
+# print(file_path+'/'+'postmates_two_weeks.csv')
+# whole_rel_path = file_path+'/'+'postmates_two_weeks.csv'
+# # # os.chdir(here)
+# whole_file_path = os.path.join('~'+here, 'postmates_two_weeks.csv')
+# print(whole_file_path)
+# print(os.path.abspath('./postmates_two_weeks.csv'))
+# absolute_path = os.path.abspath('./postmates_two_weeks.csv')
+#
+whats_this = b"Date,Place Nickname,Place Address,Order Type,Order,Order State,Customer Name,API Delivery Fee,Tip,API Delivery Total,Subtotal,Tax,Fees,Total,Commission,Gift Card Redemptions,Adjustments,Reimbursement,Returns,Promotion Cost,Payout,items,Issues,Special Instructions,Substitution\r\nMon May 17 2021 12:42:54 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,897,Completed,Gautham G.,$0.00,$0.00,$0.00,$13.50,$1.36,$0.00,$14.86,($2.02),$0.00,$0.00,$0.00,$0.00,$0.00,$12.84,Chicken D\xc3\xb6ner Sandwiches: Chicken Scorching Kreuzberg (Bread?: Pita Wrap; Extras?: Add Extra Meat); 0 x Set of utensils,None,,\r\nThu May 13 2021 12:04:39 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,896,Completed,Murphy R.,$0.00,$0.00,$0.00,$10.00,$1.01,$0.00,$11.01,($1.50),$0.00,$0.00,$0.00,$0.00,$0.00,$9.51,Vegetarian D\xc3\xb6ner Sandwiches: Tofu & Feta Berliner (Bread?: Pita Wrap; Extras?: Add Extra Sauce); 0 x Set of utensils,None,,\r\nThu May 13 2021 12:00:30 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,895,Completed,Yaw N.,$0.00,$0.00,$0.00,$13.50,$1.36,$0.00,$14.86,($2.02),$0.00,$0.00,$0.00,$0.00,$0.00,$12.84,Drinks: Bottle of Water; Chicken D\xc3\xb6ner Sandwiches: Chicken Fiery Kreuzberg (Bread?: House Bread (recommended)); 0 x Set of utensils,None,,\r\nWed May 12 2021 18:44:20 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,894,Completed,shuai c.,$0.00,$0.00,$0.00,$22.00,$2.22,$0.00,$24.22,($3.30),$0.00,$0.00,$0.00,$0.00,$0.00,$20.92,Chicken D\xc3\xb6ner Sandwiches: Chicken Berliner (Bread?: House Bread (recommended)); Chicken D\xc3\xb6ner Sandwiches: House Chicken (Bread?: House Bread (recommended)); 0 x Set of utensils,None,,\r\nWed May 12 2021 14:30:02 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,893,Completed,amit s.,$0.00,$0.00,$0.00,$26.50,$2.68,$0.00,$29.18,($3.97),$0.00,$0.00,$0.00,$0.00,$0.00,$25.21,Entr\xc3\xa9e Salads: Berliner Chicken Salad (Anything you DON'T want on it?: No Feta Cheese (if applicable); Extras?: Add Extra Meat); Entr\xc3\xa9e Salads: Fiery Kreuzberg Chicken Salad (Extras?: Add Extra Sauce); 0 x Set of utensils,None,,\r\nWed May 12 2021 13:49:51 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,892,Completed,Bobby H.,$0.00,$0.00,$0.00,$13.50,$1.36,$0.00,$14.86,($2.02),$0.00,$0.00,$0.00,$0.00,$0.00,$12.84,Chicken D\xc3\xb6ner Sandwiches: Chicken Scorching Kreuzberg (Extras?: Add Extra Meat; Bread?: Spinach Tortilla); 0 x Set of utensils,None,,\r\nTue May 11 2021 13:49:28 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,891,Completed,Ankit G.,$0.00,$0.00,$0.00,$12.00,$1.21,$0.00,$13.21,($1.80),$0.00,$0.00,$0.00,$0.00,$0.00,$11.41,Entr\xc3\xa9e Salads: Fiery Kreuzberg Chicken Salad; 0 x Set of utensils,None,,\r\nTue May 11 2021 12:59:20 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,890,Completed,Leslie B.,$0.00,$0.00,$0.00,$12.00,$1.21,$0.00,$13.21,($1.80),$0.00,$0.00,$0.00,$0.00,$0.00,$11.41,Chicken D\xc3\xb6ner Sandwiches: Chicken Fiery Kreuzberg (Extras?: Add Extra Sauce; Add Feta Cheese; Bread?: House Bread (recommended)); 0 x Set of utensils,None,,\r\nTue May 11 2021 12:22:20 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,889,Completed,Arpit K.,$0.00,$0.00,$0.00,$22.00,$2.22,$0.00,$24.22,($3.30),$0.00,$0.00,$0.00,$0.00,$0.00,$20.92,2 x Chicken D\xc3\xb6ner Sandwiches: House Chicken (Bread?: Pita Wrap); 0 x Set of utensils,None,,\r\nMon May 10 2021 12:58:30 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,888,Completed,Bobby H.,$0.00,$0.00,$0.00,$13.50,$1.36,$0.00,$14.86,($2.02),$0.00,$0.00,$0.00,$0.00,$0.00,$12.84,Chicken D\xc3\xb6ner Sandwiches: Chicken Scorching Kreuzberg (Extras?: Add Extra Meat; Bread?: Spinach Tortilla); 0 x Set of utensils,None,,\r\nMon May 10 2021 12:39:05 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,887,Completed,Tim C.,$0.00,$0.00,$0.00,$12.00,$1.21,$0.00,$13.21,($1.80),$0.00,$0.00,$0.00,$0.00,$0.00,$11.41,Lamb and Beef D\xc3\xb6ner Sandwiches: House Lamb and Beef (Bread?: House Bread (recommended)); 0 x Set of utensils,None,,\r\nMon May 10 2021 12:37:31 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,886,Completed,XIV T.,$0.00,$0.00,$0.00,$37.00,$3.74,$0.00,$40.74,($5.55),$0.00,$0.00,$0.00,$0.00,$0.00,$35.19,Lamb and Beef D\xc3\xb6ner Sandwiches: House Lamb and Beef (Bread?: House Bread (recommended); Extras?: Side of Hot Sauce); Entr\xc3\xa9e Salads: Fiery Kreuzberg Chicken Salad (Extras?: Side of Hot Sauce); Lamb and Beef D\xc3\xb6ner Sandwiches: Lamb and Beef Berliner (Bread?: House Bread (recommended); Anything you DON'T want on it?: No Tomatoes; No Cucumbers); 0 x Set of utensils,None,,\r\nMon May 10 2021 12:04:25 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,885,Completed,Mark K.,$0.00,$0.00,$0.00,$22.00,$2.22,$0.00,$24.22,($3.30),$0.00,$0.00,$0.00,$0.00,$0.00,$20.92,Chicken D\xc3\xb6ner Sandwiches: House Chicken (Bread?: House Bread (recommended)); Chicken D\xc3\xb6ner Sandwiches: Chicken Fiery Kreuzberg (Bread?: House Bread (recommended)); 0 x Set of utensils,None,,\r\nMon May 10 2021 11:38:11 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,884,Completed,Kevin G.,$0.00,$0.00,$0.00,$15.50,$1.57,$0.00,$17.07,($2.32),$0.00,$0.00,$0.00,$0.00,$0.00,$14.75,Drinks: Can of Coke; Chicken D\xc3\xb6ner Sandwiches: Chicken Fiery Kreuzberg (Bread?: Spinach Tortilla; Extras?: Add Extra Meat); 0 x Set of utensils,None,,\r\nThu May 06 2021 19:34:19 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,883,Completed,Sarah F.,$0.00,$0.00,$0.00,$68.00,$6.87,$0.00,$74.87,($10.20),$0.00,$0.00,$0.00,$0.00,$0.00,$64.67,D\xc3\xb6ner Platters: Lamb and Beef Platter (Garlic Sauce; Dill Yogurt Sauce or House Hot Sauce?: Garlic Sauce; Anything you DON'T want on it?: No Tofu (if applicable); No Tomatoes; No Cucumbers; No Red Cabbage); 3 x D\xc3\xb6ner Platters: Lamb and Beef Platter; Lamb and Beef D\xc3\xb6ner Sandwiches: Lamb and Beef Berliner (Bread?: House Bread (recommended)); 0 x Set of utensils,None,,\r\nThu May 06 2021 16:47:18 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,882,Completed,Stacey G.,$0.00,$0.00,$0.00,$11.00,$1.11,$0.00,$12.11,($1.65),$0.00,$0.00,$0.00,$0.00,$0.00,$10.46,Chicken D\xc3\xb6ner Sandwiches: Chicken Berliner (Bread?: House Bread (recommended); Extras?: Add Extra Sauce); 0 x Set of utensils,None,,\r\nWed May 05 2021 19:30:53 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,881,Completed,fardin r.,$0.00,$0.00,$0.00,$37.00,$3.74,$0.00,$40.74,($5.55),$0.00,$0.00,$0.00,$0.00,$0.00,$35.19,D\xc3\xb6ner Platters: Chicken Platter (Garlic Sauce; Dill Yogurt Sauce or House Hot Sauce?: Garlic Sauce); 2 x Lamb and Beef D\xc3\xb6ner Sandwiches: Lamb and Beef Berliner (Bread?: House Bread (recommended)); 0 x Set of utensils,None,,\r\nWed May 05 2021 17:39:37 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Delivery,880,Completed,Austin H.,$0.00,$0.00,$0.00,$24.00,$2.42,$0.00,$26.42,($3.60),$0.00,$0.00,$0.00,$0.00,$0.00,$22.82,Chicken D\xc3\xb6ner Sandwiches: House Chicken (Bread?: House Bread (recommended)); D\xc3\xb6ner Platters: Chicken Platter (Garlic Sauce; Dill Yogurt Sauce or House Hot Sauce?: Garlic Sauce); 0 x Set of utensils,None,,\r\nTue May 04 2021 11:45:17 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,879,Completed,Mark K.,$0.00,$0.00,$0.00,$11.00,$1.11,$0.00,$12.11,($1.65),$0.00,$0.00,$0.00,$0.00,$0.00,$10.46,Chicken D\xc3\xb6ner Sandwiches: Chicken Fiery Kreuzberg (Bread?: House Bread (recommended)); 0 x Set of utensils,None,,\r\nMon May 03 2021 13:17:01 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,878,Completed,Sean H.,$0.00,$0.00,$0.00,$14.00,$1.41,$0.00,$15.41,($2.10),$0.00,$0.00,$0.00,$0.00,$0.00,$13.31,D\xc3\xb6ner Platters: Lamb and Beef Platter (Garlic Sauce; Dill Yogurt Sauce or House Hot Sauce?: Garlic Sauce); 0 x Set of utensils,None,,\r\nMon May 03 2021 12:09:25 GMT-0700 (Pacific Daylight Time),The Berliner D\xc3\xb6ner Kebab Seattle,428 Westlake Ave N,Pickup,877,Completed,Ryan C.,$0.00,$0.00,$0.00,$25.50,$2.58,$0.00,$28.08,($3.82),$0.00,$0.00,$0.00,$0.00,$0.00,$24.26,Chicken D\xc3\xb6ner Sandwiches: Chicken Berliner (Bread?: House Bread (recommended)); Lamb and Beef D\xc3\xb6ner Sandwiches: Lamb and Beef Berliner (Bread?: House Bread (recommended); Extras?: Add Extra Meat); 0 x Set of utensils,None,,\r\n"
+
+rawtext = """Date,Place Nickname,Place Address,Order Type,Order,Order State,Customer Name,API Delivery Fee,Tip,API Delivery Total,Subtotal,Tax,Fees,Total,Commission,Gift Card Redemptions,Adjustments,Reimbursement,Returns,Promotion Cost,Payout,items,Issues,Special Instructions,Substitution
+Mon May 17 2021 12:42:54 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,897,Completed,Gautham G.,$0.00,$0.00,$0.00,$13.50,$1.36,$0.00,$14.86,($2.02),$0.00,$0.00,$0.00,$0.00,$0.00,$12.84,Chicken Döner Sandwiches: Chicken Scorching Kreuzberg (Bread?: Pita Wrap; Extras?: Add Extra Meat); 0 x Set of utensils,None,,
+Thu May 13 2021 12:04:39 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,896,Completed,Murphy R.,$0.00,$0.00,$0.00,$10.00,$1.01,$0.00,$11.01,($1.50),$0.00,$0.00,$0.00,$0.00,$0.00,$9.51,Vegetarian Döner Sandwiches: Tofu & Feta Berliner (Bread?: Pita Wrap; Extras?: Add Extra Sauce); 0 x Set of utensils,None,,
+Thu May 13 2021 12:00:30 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,895,Completed,Yaw N.,$0.00,$0.00,$0.00,$13.50,$1.36,$0.00,$14.86,($2.02),$0.00,$0.00,$0.00,$0.00,$0.00,$12.84,Drinks: Bottle of Water; Chicken Döner Sandwiches: Chicken Fiery Kreuzberg (Bread?: House Bread (recommended)); 0 x Set of utensils,None,,
+Wed May 12 2021 18:44:20 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,894,Completed,shuai c.,$0.00,$0.00,$0.00,$22.00,$2.22,$0.00,$24.22,($3.30),$0.00,$0.00,$0.00,$0.00,$0.00,$20.92,Chicken Döner Sandwiches: Chicken Berliner (Bread?: House Bread (recommended)); Chicken Döner Sandwiches: House Chicken (Bread?: House Bread (recommended)); 0 x Set of utensils,None,,
+Wed May 12 2021 14:30:02 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,893,Completed,amit s.,$0.00,$0.00,$0.00,$26.50,$2.68,$0.00,$29.18,($3.97),$0.00,$0.00,$0.00,$0.00,$0.00,$25.21,Entrée Salads: Berliner Chicken Salad (Anything you DON'T want on it?: No Feta Cheese (if applicable); Extras?: Add Extra Meat); Entrée Salads: Fiery Kreuzberg Chicken Salad (Extras?: Add Extra Sauce); 0 x Set of utensils,None,,
+Wed May 12 2021 13:49:51 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,892,Completed,Bobby H.,$0.00,$0.00,$0.00,$13.50,$1.36,$0.00,$14.86,($2.02),$0.00,$0.00,$0.00,$0.00,$0.00,$12.84,Chicken Döner Sandwiches: Chicken Scorching Kreuzberg (Extras?: Add Extra Meat; Bread?: Spinach Tortilla); 0 x Set of utensils,None,,
+Tue May 11 2021 13:49:28 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,891,Completed,Ankit G.,$0.00,$0.00,$0.00,$12.00,$1.21,$0.00,$13.21,($1.80),$0.00,$0.00,$0.00,$0.00,$0.00,$11.41,Entrée Salads: Fiery Kreuzberg Chicken Salad; 0 x Set of utensils,None,,
+Tue May 11 2021 12:59:20 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,890,Completed,Leslie B.,$0.00,$0.00,$0.00,$12.00,$1.21,$0.00,$13.21,($1.80),$0.00,$0.00,$0.00,$0.00,$0.00,$11.41,Chicken Döner Sandwiches: Chicken Fiery Kreuzberg (Extras?: Add Extra Sauce; Add Feta Cheese; Bread?: House Bread (recommended)); 0 x Set of utensils,None,,
+Tue May 11 2021 12:22:20 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,889,Completed,Arpit K.,$0.00,$0.00,$0.00,$22.00,$2.22,$0.00,$24.22,($3.30),$0.00,$0.00,$0.00,$0.00,$0.00,$20.92,2 x Chicken Döner Sandwiches: House Chicken (Bread?: Pita Wrap); 0 x Set of utensils,None,,
+Mon May 10 2021 12:58:30 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,888,Completed,Bobby H.,$0.00,$0.00,$0.00,$13.50,$1.36,$0.00,$14.86,($2.02),$0.00,$0.00,$0.00,$0.00,$0.00,$12.84,Chicken Döner Sandwiches: Chicken Scorching Kreuzberg (Extras?: Add Extra Meat; Bread?: Spinach Tortilla); 0 x Set of utensils,None,,
+Mon May 10 2021 12:39:05 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,887,Completed,Tim C.,$0.00,$0.00,$0.00,$12.00,$1.21,$0.00,$13.21,($1.80),$0.00,$0.00,$0.00,$0.00,$0.00,$11.41,Lamb and Beef Döner Sandwiches: House Lamb and Beef (Bread?: House Bread (recommended)); 0 x Set of utensils,None,,
+Mon May 10 2021 12:37:31 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,886,Completed,XIV T.,$0.00,$0.00,$0.00,$37.00,$3.74,$0.00,$40.74,($5.55),$0.00,$0.00,$0.00,$0.00,$0.00,$35.19,Lamb and Beef Döner Sandwiches: House Lamb and Beef (Bread?: House Bread (recommended); Extras?: Side of Hot Sauce); Entrée Salads: Fiery Kreuzberg Chicken Salad (Extras?: Side of Hot Sauce); Lamb and Beef Döner Sandwiches: Lamb and Beef Berliner (Bread?: House Bread (recommended); Anything you DON'T want on it?: No Tomatoes; No Cucumbers); 0 x Set of utensils,None,,
+Mon May 10 2021 12:04:25 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,885,Completed,Mark K.,$0.00,$0.00,$0.00,$22.00,$2.22,$0.00,$24.22,($3.30),$0.00,$0.00,$0.00,$0.00,$0.00,$20.92,Chicken Döner Sandwiches: House Chicken (Bread?: House Bread (recommended)); Chicken Döner Sandwiches: Chicken Fiery Kreuzberg (Bread?: House Bread (recommended)); 0 x Set of utensils,None,,
+Mon May 10 2021 11:38:11 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,884,Completed,Kevin G.,$0.00,$0.00,$0.00,$15.50,$1.57,$0.00,$17.07,($2.32),$0.00,$0.00,$0.00,$0.00,$0.00,$14.75,Drinks: Can of Coke; Chicken Döner Sandwiches: Chicken Fiery Kreuzberg (Bread?: Spinach Tortilla; Extras?: Add Extra Meat); 0 x Set of utensils,None,,
+Thu May 06 2021 19:34:19 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,883,Completed,Sarah F.,$0.00,$0.00,$0.00,$68.00,$6.87,$0.00,$74.87,($10.20),$0.00,$0.00,$0.00,$0.00,$0.00,$64.67,Döner Platters: Lamb and Beef Platter (Garlic Sauce; Dill Yogurt Sauce or House Hot Sauce?: Garlic Sauce; Anything you DON'T want on it?: No Tofu (if applicable); No Tomatoes; No Cucumbers; No Red Cabbage); 3 x Döner Platters: Lamb and Beef Platter; Lamb and Beef Döner Sandwiches: Lamb and Beef Berliner (Bread?: House Bread (recommended)); 0 x Set of utensils,None,,
+Thu May 06 2021 16:47:18 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,882,Completed,Stacey G.,$0.00,$0.00,$0.00,$11.00,$1.11,$0.00,$12.11,($1.65),$0.00,$0.00,$0.00,$0.00,$0.00,$10.46,Chicken Döner Sandwiches: Chicken Berliner (Bread?: House Bread (recommended); Extras?: Add Extra Sauce); 0 x Set of utensils,None,,
+Wed May 05 2021 19:30:53 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,881,Completed,fardin r.,$0.00,$0.00,$0.00,$37.00,$3.74,$0.00,$40.74,($5.55),$0.00,$0.00,$0.00,$0.00,$0.00,$35.19,Döner Platters: Chicken Platter (Garlic Sauce; Dill Yogurt Sauce or House Hot Sauce?: Garlic Sauce); 2 x Lamb and Beef Döner Sandwiches: Lamb and Beef Berliner (Bread?: House Bread (recommended)); 0 x Set of utensils,None,,
+Wed May 05 2021 17:39:37 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Delivery,880,Completed,Austin H.,$0.00,$0.00,$0.00,$24.00,$2.42,$0.00,$26.42,($3.60),$0.00,$0.00,$0.00,$0.00,$0.00,$22.82,Chicken Döner Sandwiches: House Chicken (Bread?: House Bread (recommended)); Döner Platters: Chicken Platter (Garlic Sauce; Dill Yogurt Sauce or House Hot Sauce?: Garlic Sauce); 0 x Set of utensils,None,,
+Tue May 04 2021 11:45:17 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,879,Completed,Mark K.,$0.00,$0.00,$0.00,$11.00,$1.11,$0.00,$12.11,($1.65),$0.00,$0.00,$0.00,$0.00,$0.00,$10.46,Chicken Döner Sandwiches: Chicken Fiery Kreuzberg (Bread?: House Bread (recommended)); 0 x Set of utensils,None,,
+Mon May 03 2021 13:17:01 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,878,Completed,Sean H.,$0.00,$0.00,$0.00,$14.00,$1.41,$0.00,$15.41,($2.10),$0.00,$0.00,$0.00,$0.00,$0.00,$13.31,Döner Platters: Lamb and Beef Platter (Garlic Sauce; Dill Yogurt Sauce or House Hot Sauce?: Garlic Sauce); 0 x Set of utensils,None,,
+Mon May 03 2021 12:09:25 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,877,Completed,Ryan C.,$0.00,$0.00,$0.00,$25.50,$2.58,$0.00,$28.08,($3.82),$0.00,$0.00,$0.00,$0.00,$0.00,$24.26,Chicken Döner Sandwiches: Chicken Berliner (Bread?: House Bread (recommended)); Lamb and Beef Döner Sandwiches: Lamb and Beef Berliner (Bread?: House Bread (recommended); Extras?: Add Extra Meat); 0 x Set of utensils,None,,"""
+
+
+
+data = 'Date,Place Nickname,Place Address,Order Type,Order,Order State,Customer Name,API Delivery Fee,Tip,API Delivery Total,Subtotal,Tax,Fees,Total,Commission,Gift Card Redemptions,Adjustments,Reimbursement,Returns,Promotion Cost,Payout,items,Issues,Special Instructions,Substitution\nMon May 17 2021 12:42:54 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,897,Completed,Gautham G.,$0.00,$0.00,$0.00,$13.50,$1.36,$0.00,$14.86,($2.02),$0.00,$0.00,$0.00,$0.00,$0.00,$12.84,Chicken Döner Sandwiches: Chicken Scorching Kreuzberg (Bread?: Pita Wrap; Extras?: Add Extra Meat); 0 x Set of utensils,None,,Thu May 13 2021 12:04:39 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,896,Completed,Murphy R.,$0.00,$0.00,$0.00,$10.00,$1.01,$0.00,$11.01,($1.50),$0.00,$0.00,$0.00,$0.00,$0.00,$9.51,Vegetarian Döner Sandwiches: Tofu & Feta Berliner (Bread?: Pita Wrap; Extras?: Add Extra Sauce); 0 x Set of utensils,None,,Thu May 13 2021 12:00:30 GMT-0700 (Pacific Daylight Time),The Berliner Döner Kebab Seattle,428 Westlake Ave N,Pickup,895,Completed,Yaw N.,$0.00,$0.00,$0.00,$13.50,$1.36,$0.00,$14.86,($2.02),$0.00,$0.00,$0.00,$0.00,$0.00,$12.84,Drinks: Bottle of Water; Chicken Döner Sandwiches: Chicken Fiery Kreuzberg (Bread?: House Bread (recommended)); 0 x Set of utensils,None,,'
+# print(type(whats_this))
+
+string = whats_this.decode('utf-8')
+
+print(type(string))
+
+
+# data_to_read = rawtext.splitlines()
+#
+first_read = csv.DictReader(string.splitlines())
+unique_key = first_read.fieldnames[4]
+print(unique_key)
+
+
+reader = csv.DictReader(string.splitlines())
+#
+#
+#
+for row in reader:
+    print(row['Date'])
+
+# print(data)
+#
+#
+# with open(data) as file:
+#     reader = csv.DictReader(file)
+#
+#     for row in reader:
+#         print(row)
+#         #
+#         #
+        # print('Commission----')
+        # print(row['Commission'])
+        # print('Fees-----')
+        # print(row['Fees'])
         # date = row['Date']
         # subtotal = row['Subtotal']
         # tax = row['Tax']
-        # report = {'Date': date, 'Subtotal': subtotal, 'Tax': tax}
-        # print(report)
-
-
+#         report = {'Date': date, 'Subtotal': subtotal, 'Tax': tax}
+#         print(report)
+# file_path = os.path.relpath(here, 'postmates_two_weeks.csv')
+# print(file_path)
 
 # Postmates row headers/key names.....
 
