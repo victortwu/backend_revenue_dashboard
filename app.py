@@ -34,11 +34,10 @@ def load_user(user_id):
     return models.User.get(models.User.id == user_id)
 
 
-
 #==== C O R S stuff goes here =====
-CORS(reports, origins=['http://localhost:3000'], supports_credentials=True)
+CORS(reports, origins=['http://localhost:3000', 'https://custom-restaurant-dashboard.herokuapp.com'], supports_credentials=True)
 
-CORS(users, origins=['http://localhost:3000'], supports_credentials=True)
+CORS(users, origins=['http://localhost:3000', 'https://custom-restaurant-dashboard.herokuapp.com'], supports_credentials=True)
 
 # ======= use blueprint controllers here ========
 
