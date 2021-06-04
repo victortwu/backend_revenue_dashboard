@@ -52,6 +52,9 @@ def reports_index(dates):# date params pass in function
 
 def upload_report():
     # control flow of which files so all type of files get same custom fields
+    payload = request.get_data()
+    print(payload)
+    return payload
     try:
         payload = request.get_data()
 
