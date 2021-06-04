@@ -62,20 +62,18 @@ def upload_report():
     reader = csv.DictReader(str_data.splitlines())
             # start loop here
     for row in reader:
-        slice_object = slice(10)
-        sliced_date = row['Date'][slice_object]
-        slice_minustwo = slice(-2)
-        uploaded_report = models.Report.create(
-            date=datetime.strptime(sliced_date, '%m/%d/%Y').strftime('%Y-%m-%d'),
-            vendor='KioskBuddy',
-            wholesale='false',
-            subtotal=float(row['Subtotal']),
-            tax=float(row['Taxes']),
-            fee=0,
-            commission=0,
-            tip=float(row['Tips']),
-            unique_id=float(row['Date'].replace('/', '').replace(':', '').replace(' ', '')[slice_minustwo])
-        )
+        if row['TRANSACTION_TYPE'] != 'PAYOUT':
+            uploaded_report = models.Report.create(
+                date=row['TIMESTAMP_LOCAL_DATE'],
+                vendor='Doordash',
+                wholesale='true',
+                subtotal=row['SUBTOTAL'],
+                tax=row['TAX_REMITTED_BY_DOORDASH_TO_STATE'],
+                fee=float(row['MARKETING_FEES']) * -1,
+                commission=float(row['COMMISSION']) * -1,
+                tip=row['STAFF_TIP'],
+                unique_id=row['TRANSACTION_ID']
+            )
 
     report_dict = model_to_dict(uploaded_report)
     print(report_dict)
