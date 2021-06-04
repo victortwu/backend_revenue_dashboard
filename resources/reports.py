@@ -263,6 +263,7 @@ def upload_report():
                 except models.DoesNotExist:
                     slice_object = slice(10)
                     sliced_date = row['Date'][slice_object]
+                    slice_minustwo = slice(-2)
                     uploaded_report = models.Report.create(
                         date=datetime.strptime(sliced_date, '%m/%d/%Y').strftime('%Y-%m-%d'),
                         vendor='KioskBuddy',
@@ -272,8 +273,25 @@ def upload_report():
                         fee=0,
                         commission=0,
                         tip=float(row['Tips']),
-                        unique_id=row['Transaction Client ID']
+                        unique_id=float(row['Date'].replace('/', '').replace(':', '').replace(' ', '')[slice_minustwo])
                     )
+
+
+
+
+                    # slice_object = slice(10)
+                    # sliced_date = row['Date'][slice_object]
+                    # uploaded_report = models.Report.create(
+                    #     date=datetime.strptime(sliced_date, '%m/%d/%Y').strftime('%Y-%m-%d'),
+                    #     vendor='KioskBuddy',
+                    #     wholesale='false',
+                    #     subtotal=float(row['Subtotal']),
+                    #     tax=float(row['Taxes']),
+                    #     fee=0,
+                    #     commission=0,
+                    #     tip=float(row['Tips']),
+                    #     unique_id=row['Transaction Client ID']
+                    # )
 
                     report_dict = model_to_dict(uploaded_report)
 
