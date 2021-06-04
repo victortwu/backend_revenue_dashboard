@@ -63,8 +63,22 @@ def upload_report():
     reader = csv.DictReader(str_data.splitlines())
             # start loop here
     for row in reader:
-        print(row)
+        slice_object = slice(15)
+        sliced_date = row['Date'][slice_object]
+        uploaded_report = models.Report.create(
+            date=datetime.strptime(sliced_date, '%a %b %d %Y').strftime('%Y-%m-%d'),
+            vendor='Postmates',
+            wholesale='false',
+            subtotal=float(row['Subtotal'].replace('$', '')),
+            tax=float(row['Tax'].replace('$', '')),
+            fee=row['Fees'],
+            commission=float(row['Commission'].replace('($', '-').replace(')', '')),
+            tip=float(row['Tip'].replace('$', '')),
+            unique_id=row['Date']
+        )
 
+        report_dict = model_to_dict(uploaded_report)
+        print(report_dict)
 
     return payload
     try:
