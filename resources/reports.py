@@ -53,9 +53,13 @@ def reports_index(dates):# date params pass in function
 def upload_report():
     # control flow of which files so all type of files get same custom fields
     payload = request.get_data()
-    
+
     str_data = payload.decode('utf-8')
     print(str_data)
+
+    first_read = csv.DictReader(str_data.splitlines())
+    unique_key = first_read.fieldnames[4]
+    print(unique_key)
 
     return payload
     try:
