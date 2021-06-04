@@ -62,6 +62,8 @@ def upload_report():
     reader = csv.DictReader(str_data.splitlines())
             # start loop here
     for row in reader:
+        slice_object = slice(-2)
+        sliced_time = row['Order Accept Time'][slice_object]
         uploaded_report = models.Report.create(
             date=row['Order Date / Refund date'],
             vendor='UberEats',
@@ -71,7 +73,7 @@ def upload_report():
             fee=row['Order Processing Fee'],
             commission=row['Uber Service Fee'],
             tip=row['Gratuity'],
-            unique_id=float(row['Order Date / Refund date'].replace('/', '') + row['Order Accept Time'].replace(':', ''))
+            unique_id=float(row['Order Date / Refund date'].replace('/', '') + sliced_time.replace(':', ''))
         )
 
     report_dict = model_to_dict(uploaded_report)
