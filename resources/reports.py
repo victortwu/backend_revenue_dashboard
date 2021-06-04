@@ -73,7 +73,7 @@ def upload_report():
             fee=float(row['Fees'].replace('$', '')),
             commission=float(row['Commission'].replace('($', '-').replace(')', '')),
             tip=float(row['Tip'].replace('$', '')),
-            unique_id=float(datetime.strptime(sliced_date, '%a %b %d %Y').strftime('%Y-%m-%d'))
+            unique_id=float(row['Order'])
         )
 
         report_dict = model_to_dict(uploaded_report)
