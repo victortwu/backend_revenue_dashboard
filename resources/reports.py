@@ -105,7 +105,7 @@ def upload_report():
             for row in reader:
 
                 try:
-                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['Date']))
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['Order'])))
                     print('Try ======== ', report_dict)
 
                 except models.DoesNotExist:
@@ -156,7 +156,7 @@ def upload_report():
             for row in reader:
 
                 try:
-                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['ID']))
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['ID'].replace('O-', ''))))
                     print('Try:.....', report_dict)
 
                 except models.DoesNotExist:
@@ -204,7 +204,7 @@ def upload_report():
             for row in reader:
 
                 try:
-                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['Order ID']))
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['Order Date / Refund date'].replace('/', '') + sliced_time.replace(':', ''))))
                     print('Try:.....', report_dict)
 
                 except models.DoesNotExist:
@@ -256,7 +256,7 @@ def upload_report():
             for row in reader:
 
                 try:
-                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['Transaction Client ID']))
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['Date'].replace('/', '').replace(':', '').replace(' ', '')[slice_minustwo])))
                     print('Try=======', report_dict)
 
                 except models.DoesNotExist:
@@ -310,7 +310,7 @@ def upload_report():
             for row in reader:
 
                 try:
-                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['TRANSACTION_ID']))
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['TIMESTAMP_UTC_TIME'].replace(':', ''))))
                     print('Try:.....', report_dict)
 
                 except models.DoesNotExist:
