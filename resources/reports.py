@@ -63,15 +63,15 @@ def upload_report():
             # start loop here
     for row in reader:
         uploaded_report = models.Report.create(
-            date=datetime.strptime(row['Date'], '%x').strftime('%Y-%m-%d'),
-            vendor='Grubhub',
+            date=row['Order Date / Refund date'],
+            vendor='UberEats',
             wholesale='true',
-            subtotal=row['Subtotal'],
-            tax=row['Tax'],
-            fee=row['Processing Fee'],
-            commission=row['Commission'],
-            tip=row['Tip'],
-            unique_id=float(row['ID'].replace('O-', ''))
+            subtotal=row['Food Sales (excluding tax)'],
+            tax=row['Tax on Food Sales'],
+            fee=row['Order Processing Fee'],
+            commission=row['Uber Service Fee'],
+            tip=row['Gratuity'],
+            unique_id=row['Order ID']
         )
 
     report_dict = model_to_dict(uploaded_report)
@@ -158,7 +158,6 @@ def upload_report():
                     print('Try:.....', report_dict)
 
                 except models.DoesNotExist:
-
                     uploaded_report = models.Report.create(
                         date=datetime.strptime(row['Date'], '%x').strftime('%Y-%m-%d'),
                         vendor='Grubhub',
@@ -168,8 +167,21 @@ def upload_report():
                         fee=row['Processing Fee'],
                         commission=row['Commission'],
                         tip=row['Tip'],
-                        unique_id=row['ID']
+                        unique_id=float(row['ID'].replace('O-', ''))
                     )
+
+
+                    # uploaded_report = models.Report.create(
+                    #     date=datetime.strptime(row['Date'], '%x').strftime('%Y-%m-%d'),
+                    #     vendor='Grubhub',
+                    #     wholesale='true',
+                    #     subtotal=row['Subtotal'],
+                    #     tax=row['Tax'],
+                    #     fee=row['Processing Fee'],
+                    #     commission=row['Commission'],
+                    #     tip=row['Tip'],
+                    #     unique_id=row['ID']
+                    # )
 
                     report_dict = model_to_dict(uploaded_report)
 
