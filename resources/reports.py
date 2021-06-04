@@ -71,7 +71,7 @@ def upload_report():
             fee=row['Order Processing Fee'],
             commission=row['Uber Service Fee'],
             tip=row['Gratuity'],
-            unique_id=float(row['Order ID'])
+            unique_id=float(row['Order Date / Refund date'].replace('/', '') + row['Order Accept Time'].replace(':', ''))
         )
 
     report_dict = model_to_dict(uploaded_report)
