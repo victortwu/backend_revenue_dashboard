@@ -29,8 +29,8 @@ class Report(Model):
     fee = FloatField()
     commission = FloatField()
     tip = FloatField()
-    unique_id = FloatField()
-
+    # unique_id = FloatField()
+    unique_id = CharField()
     class Meta:
         database = DATABASE
 
