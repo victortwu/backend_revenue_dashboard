@@ -1,7 +1,6 @@
 import os
 from playhouse.db_url import connect
 
-
 from peewee import *
 import datetime
 
