@@ -56,7 +56,6 @@ def upload_report():
 
     str_data = payload.decode('utf-8')
     print(str_data)
-
     # first_read = csv.DictReader(str_data.splitlines())
     # unique_key = first_read.fieldnames[4]
     # print(unique_key)
