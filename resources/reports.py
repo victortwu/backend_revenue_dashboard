@@ -71,7 +71,7 @@ def upload_report():
             wholesale='false',
             subtotal=float(row['Subtotal'].replace('$', '')),
             tax=float(row['Tax'].replace('$', '')),
-            fee=row['Fees'],
+            fee=float(row['Fees'].replace('$', '')),
             commission=float(row['Commission'].replace('($', '-').replace(')', '')),
             tip=float(row['Tip'].replace('$', '')),
             unique_id=row['Date']
