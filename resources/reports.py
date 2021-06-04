@@ -72,7 +72,7 @@ def upload_report():
                 fee=float(row['MARKETING_FEES']) * -1,
                 commission=float(row['COMMISSION']) * -1,
                 tip=row['STAFF_TIP'],
-                unique_id=row['TRANSACTION_ID']
+                unique_id=float(row['DOORDASH_TRANSACTION_ID'])
             )
 
     report_dict = model_to_dict(uploaded_report)
