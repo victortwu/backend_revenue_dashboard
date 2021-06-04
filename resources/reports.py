@@ -52,33 +52,33 @@ def reports_index(dates):# date params pass in function
 
 def upload_report():
     # control flow of which files so all type of files get same custom fields
-    payload = request.get_data()
-
-    str_data = payload.decode('utf-8')
-    print(str_data)
-    # first_read = csv.DictReader(str_data.splitlines())
-    # unique_key = first_read.fieldnames[4]
-    # print(unique_key)
-    reader = csv.DictReader(str_data.splitlines())
-            # start loop here
-    for row in reader:
-        if row['TRANSACTION_TYPE'] != 'PAYOUT':
-            uploaded_report = models.Report.create(
-                date=row['TIMESTAMP_LOCAL_DATE'],
-                vendor='Doordash',
-                wholesale='true',
-                subtotal=row['SUBTOTAL'],
-                tax=row['TAX_REMITTED_BY_DOORDASH_TO_STATE'],
-                fee=float(row['MARKETING_FEES']) * -1,
-                commission=float(row['COMMISSION']) * -1,
-                tip=row['STAFF_TIP'],
-                unique_id=float(row['TIMESTAMP_UTC_TIME'].replace(':', ''))
-            )
-
-    report_dict = model_to_dict(uploaded_report)
-    print(report_dict)
-
-    return payload
+    # payload = request.get_data()
+    #
+    # str_data = payload.decode('utf-8')
+    # print(str_data)
+    # # first_read = csv.DictReader(str_data.splitlines())
+    # # unique_key = first_read.fieldnames[4]
+    # # print(unique_key)
+    # reader = csv.DictReader(str_data.splitlines())
+    #         # start loop here
+    # for row in reader:
+    #     if row['TRANSACTION_TYPE'] != 'PAYOUT':
+    #         uploaded_report = models.Report.create(
+    #             date=row['TIMESTAMP_LOCAL_DATE'],
+    #             vendor='Doordash',
+    #             wholesale='true',
+    #             subtotal=row['SUBTOTAL'],
+    #             tax=row['TAX_REMITTED_BY_DOORDASH_TO_STATE'],
+    #             fee=float(row['MARKETING_FEES']) * -1,
+    #             commission=float(row['COMMISSION']) * -1,
+    #             tip=row['STAFF_TIP'],
+    #             unique_id=float(row['TIMESTAMP_UTC_TIME'].replace(':', ''))
+    #         )
+    #
+    # report_dict = model_to_dict(uploaded_report)
+    # print(report_dict)
+    #
+    # return payload
     try:
         payload = request.get_data()
 
@@ -323,8 +323,24 @@ def upload_report():
                             fee=float(row['MARKETING_FEES']) * -1,
                             commission=float(row['COMMISSION']) * -1,
                             tip=row['STAFF_TIP'],
-                            unique_id=row['TRANSACTION_ID']
+                            unique_id=float(row['TIMESTAMP_UTC_TIME'].replace(':', ''))
                         )
+
+
+
+
+                    # if row['TRANSACTION_TYPE'] != 'PAYOUT':
+                    #     uploaded_report = models.Report.create(
+                    #         date=row['TIMESTAMP_LOCAL_DATE'],
+                    #         vendor='Doordash',
+                    #         wholesale='true',
+                    #         subtotal=row['SUBTOTAL'],
+                    #         tax=row['TAX_REMITTED_BY_DOORDASH_TO_STATE'],
+                    #         fee=float(row['MARKETING_FEES']) * -1,
+                    #         commission=float(row['COMMISSION']) * -1,
+                    #         tip=row['STAFF_TIP'],
+                    #         unique_id=row['TRANSACTION_ID']
+                    #     )
 
                         report_dict = model_to_dict(uploaded_report)
 
