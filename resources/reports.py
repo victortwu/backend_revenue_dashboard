@@ -99,6 +99,7 @@ def upload_report():
         #===== POSTMATES =====
         if unique_key == 'Order':
             # with open(file) as file:
+            print('Checking Postmates data.....')
             reader = csv.DictReader(str_data.splitlines())
                     # start loop here
             for row in reader:
@@ -108,20 +109,20 @@ def upload_report():
                     print('Try ======== ', report_dict)
 
                 except models.DoesNotExist:
-                    for row in reader:
-                        slice_object = slice(15)
-                        sliced_date = row['Date'][slice_object]
-                        uploaded_report = models.Report.create(
-                            date=datetime.strptime(sliced_date, '%a %b %d %Y').strftime('%Y-%m-%d'),
-                            vendor='Postmates',
-                            wholesale='false',
-                            subtotal=float(row['Subtotal'].replace('$', '')),
-                            tax=float(row['Tax'].replace('$', '')),
-                            fee=float(row['Fees'].replace('$', '')),
-                            commission=float(row['Commission'].replace('($', '-').replace(')', '')),
-                            tip=float(row['Tip'].replace('$', '')),
-                            unique_id=float(row['Order'])
-                        )
+
+                    slice_object = slice(15)
+                    sliced_date = row['Date'][slice_object]
+                    uploaded_report = models.Report.create(
+                        date=datetime.strptime(sliced_date, '%a %b %d %Y').strftime('%Y-%m-%d'),
+                        vendor='Postmates',
+                        wholesale='false',
+                        subtotal=float(row['Subtotal'].replace('$', '')),
+                        tax=float(row['Tax'].replace('$', '')),
+                        fee=float(row['Fees'].replace('$', '')),
+                        commission=float(row['Commission'].replace('($', '-').replace(')', '')),
+                        tip=float(row['Tip'].replace('$', '')),
+                        unique_id=float(row['Order'])
+                    )
                     # slice_object = slice(15)
                     # sliced_date = row['Date'][slice_object]
                     # uploaded_report = models.Report.create(
@@ -149,7 +150,7 @@ def upload_report():
 
         #===== GRUBHUB =====
         if unique_key == 'Date':
-
+            print('Checking Grubhub data.....')
             reader = csv.DictReader(str_data.splitlines())
 
             for row in reader:
@@ -197,7 +198,7 @@ def upload_report():
 
         # #===== UBEREATS =====
         if unique_key == 'Dining Mode':
-
+            print('Checking UberEats data.....')
             reader = csv.DictReader(str_data.splitlines())
 
             for row in reader:
@@ -249,7 +250,7 @@ def upload_report():
 
         # #===== KIOSKBUDDY =====
         if unique_key == 'Subtotal':
-
+            print('Checking KioskBuddy data.....')
             reader = csv.DictReader(str_data.splitlines())
 
             for row in reader:
@@ -303,7 +304,7 @@ def upload_report():
 
         # #===== DOORDASH =====
         if unique_key == 'PAYOUT_TIME':
-
+            print('Checking Doordash data.....')
             reader = csv.DictReader(str_data.splitlines())
 
             for row in reader:
