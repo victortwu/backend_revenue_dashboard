@@ -157,7 +157,7 @@ def upload_report():
 
                 try:
                     print('Trying.....')
-                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['ID'])
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['ID']))
                     # report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['ID'].replace('O-', ''))))
                     print('Try:.....', report_dict)
 
