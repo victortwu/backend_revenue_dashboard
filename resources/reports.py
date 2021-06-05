@@ -324,10 +324,12 @@ def upload_report():
             for row in reader:
 
                 try:
+                    print('TRYING.....')
                     report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['TIMESTAMP_UTC_TIME'].replace(':', ''))))
                     print('Try:.....', report_dict)
 
                 except models.DoesNotExist:
+                    print('EXCEPTING.....')
                     if row['TRANSACTION_TYPE'] != 'PAYOUT':
                         uploaded_report = models.Report.create(
                             date=row['TIMESTAMP_LOCAL_DATE'],
