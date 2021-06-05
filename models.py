@@ -10,7 +10,7 @@ from flask_login import UserMixin
 DATABASE = connect(os.environ.get('DATABASE_URL') or 'sqlite:///revenue.sqlite')
 # Connect to the database URL defined in the environment, falling
 # back to a local Sqlite database if no database URL is specified.
-
+# unique_id = FloatField()
 class User(UserMixin, Model):
     username = CharField(unique=True)
     email = CharField(unique=True)
@@ -29,8 +29,8 @@ class Report(Model):
     fee = FloatField()
     commission = FloatField()
     tip = FloatField()
-    # unique_id = FloatField()
     unique_id = CharField()
+
     class Meta:
         database = DATABASE
 
