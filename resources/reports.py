@@ -156,10 +156,12 @@ def upload_report():
             for row in reader:
 
                 try:
-                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['ID'].replace('O-', ''))))
+                    # report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['ID'].replace('O-', ''))))
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['unique_id']))
                     print('Try:.....', report_dict)
 
                 except models.DoesNotExist:
+
                     uploaded_report = models.Report.create(
                         date=datetime.strptime(row['Date'], '%x').strftime('%Y-%m-%d'),
                         vendor='Grubhub',
