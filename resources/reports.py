@@ -202,10 +202,13 @@ def upload_report():
         if unique_key == 'Dining Mode':
             print('Checking UberEats data.....')
             reader = csv.DictReader(str_data.splitlines())
+            print('Line 205...')
 
+            print(reader.fieldnames[4])
             for row in reader:
 
                 try:
+                    print('Is it trying????')
                     report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['Order Date / Refund date'].replace('/', '') + sliced_time.replace(':', ''))))
                     print('Try:.....', report_dict)
 
