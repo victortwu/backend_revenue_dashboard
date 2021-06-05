@@ -209,6 +209,10 @@ def upload_report():
 
                 try:
                     print('Is it trying????')
+                    slice_object = slice(-2)
+                    sliced_time = row['Order Accept Time'][slice_object]
+
+                    print(float(row['Order Date / Refund date'].replace('/', '') + sliced_time.replace(':', '')))
                     report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['Order Date / Refund date'].replace('/', '') + sliced_time.replace(':', ''))))
                     print('Try:.....', report_dict)
 
