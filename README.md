@@ -1,5 +1,9 @@
+<h1>Custom Restaurant Dashboard</h1>
+
+
 3rd PARTY ORDER APP DASHBOARD FOR THE RESTAURANT OWNER
 
+https://custom-restaurant-dashboard.herokuapp.com/
 
 APP INFO:
 
@@ -32,3 +36,16 @@ Since the user will be saving a lot of time from using this app, a procrastinati
 User can click the 'Transform' button and transform Soundwave, the Procrastinatacon.
 
 When user logs out or is logged out, search bar and uploading file feature is unavailable.
+
+
+TECHNOLOGIES USED:
+
+Flask, Python, peewee
+
+PosgreSQL
+
+React.js
+
+React packages: react-dropzone component, react-datepicker calendar
+
+Deployed on Heroku
