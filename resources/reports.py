@@ -105,7 +105,8 @@ def upload_report():
             for row in reader:
 
                 try:
-                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['Order'])))
+                    # report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['Order'])))
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['Date']))
                     print('Try ======== ', report_dict)
 
                 except models.DoesNotExist:
@@ -121,7 +122,8 @@ def upload_report():
                         fee=float(row['Fees'].replace('$', '')),
                         commission=float(row['Commission'].replace('($', '-').replace(')', '')),
                         tip=float(row['Tip'].replace('$', '')),
-                        unique_id=float(row['Order'])
+                        unique_id=row['Date']
+
                     )
                     # slice_object = slice(15)
                     # sliced_date = row['Date'][slice_object]
@@ -134,7 +136,7 @@ def upload_report():
                     #     fee=row['Fees'],
                     #     commission=float(row['Commission'].replace('($', '-').replace(')', '')),
                     #     tip=float(row['Tip'].replace('$', '')),
-                    #     unique_id=row['Date']
+                    #     unique_id=float(row['Order'])
                     # )
 
                     report_dict = model_to_dict(uploaded_report)
@@ -211,16 +213,17 @@ def upload_report():
 
                 try:
                     print('Is it trying????')
-                    slice_object = slice(-2)
-                    sliced_time = row['Order Accept Time'][slice_object]
-
-                    print(float(row['Order Date / Refund date'].replace('/', '') + sliced_time.replace(':', '')))
-                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['Order Date / Refund date'].replace('/', '') + sliced_time.replace(':', ''))))
+                    # slice_object = slice(-2)
+                    # sliced_time = row['Order Accept Time'][slice_object]
+                    #
+                    # print(float(row['Order Date / Refund date'].replace('/', '') + sliced_time.replace(':', '')))
+                    # report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['Order Date / Refund date'].replace('/', '') + sliced_time.replace(':', ''))))
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['Order ID']))
                     print('Try:.....', report_dict)
 
                 except models.DoesNotExist:
-                    slice_object = slice(-2)
-                    sliced_time = row['Order Accept Time'][slice_object]
+                    # slice_object = slice(-2)
+                    # sliced_time = row['Order Accept Time'][slice_object]
                     uploaded_report = models.Report.create(
                         date=row['Order Date / Refund date'],
                         vendor='UberEats',
@@ -230,7 +233,8 @@ def upload_report():
                         fee=row['Order Processing Fee'],
                         commission=row['Uber Service Fee'],
                         tip=row['Gratuity'],
-                        unique_id=float(row['Order Date / Refund date'].replace('/', '') + sliced_time.replace(':', ''))
+                        unique_id=row['Order ID']
+
                     )
 
 
@@ -245,7 +249,7 @@ def upload_report():
                     #     fee=row['Order Processing Fee'],
                     #     commission=row['Uber Service Fee'],
                     #     tip=row['Gratuity'],
-                    #     unique_id=row['Order ID']
+                    #     unique_id=float(row['Order Date / Refund date'].replace('/', '') + sliced_time.replace(':', ''))
                     # )
 
                     report_dict = model_to_dict(uploaded_report)
@@ -268,15 +272,17 @@ def upload_report():
 
                 try:
                     print('Trying.....')
-                    slice_minustwo = slice(-2)
-                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['Date'].replace('/', '').replace(':', '').replace(' ', '')[slice_minustwo])))
+                    # slice_minustwo = slice(-2)
+                    # report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['Date'].replace('/', '').replace(':', '').replace(' ', '')[slice_minustwo])))
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['Transaction Client ID']))
+
                     print('Try=======', report_dict)
 
                 except models.DoesNotExist:
                     print('Excepting.....')
                     slice_object = slice(10)
                     sliced_date = row['Date'][slice_object]
-                    slice_minustwo = slice(-2)
+                    # slice_minustwo = slice(-2)
                     uploaded_report = models.Report.create(
                         date=datetime.strptime(sliced_date, '%m/%d/%Y').strftime('%Y-%m-%d'),
                         vendor='KioskBuddy',
@@ -286,7 +292,8 @@ def upload_report():
                         fee=0,
                         commission=0,
                         tip=float(row['Tips']),
-                        unique_id=float(row['Date'].replace('/', '').replace(':', '').replace(' ', '')[slice_minustwo])
+                        unique_id=row['Transaction Client ID']
+
                     )
 
 
@@ -303,7 +310,7 @@ def upload_report():
                     #     fee=0,
                     #     commission=0,
                     #     tip=float(row['Tips']),
-                    #     unique_id=row['Transaction Client ID']
+                    #     unique_id=float(row['Date'].replace('/', '').replace(':', '').replace(' ', '')[slice_minustwo])
                     # )
 
                     report_dict = model_to_dict(uploaded_report)
@@ -325,7 +332,7 @@ def upload_report():
 
                 try:
                     print('TRYING.....')
-                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['TIMESTAMP_UTC_TIME'].replace(':', ''))))
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['TRANSACTION_ID']))
                     print('Try:.....', report_dict)
 
                 except models.DoesNotExist:
@@ -340,7 +347,8 @@ def upload_report():
                             fee=float(row['MARKETING_FEES']) * -1,
                             commission=float(row['COMMISSION']) * -1,
                             tip=row['STAFF_TIP'],
-                            unique_id=float(row['TIMESTAMP_UTC_TIME'].replace(':', ''))
+                            unique_id=row['TRANSACTION_ID']
+
                         )
 
 
@@ -356,7 +364,7 @@ def upload_report():
                     #         fee=float(row['MARKETING_FEES']) * -1,
                     #         commission=float(row['COMMISSION']) * -1,
                     #         tip=row['STAFF_TIP'],
-                    #         unique_id=row['TRANSACTION_ID']
+                    #         unique_id=float(row['TIMESTAMP_UTC_TIME'].replace(':', ''))
                     #     )
 
                         report_dict = model_to_dict(uploaded_report)
