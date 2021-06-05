@@ -11,6 +11,7 @@ users = Blueprint('users', 'users')
 def test_user_resource():
     return 'user controller!'
 
+
 # ===== POST - register user ======
 
 @users.route('/register', methods=['POST'])
@@ -65,7 +66,7 @@ def register():
 @users.route('/login', methods=['POST'])
 def login():
     payload = request.get_json()
-    
+
     # payload['email'] = payload['email'].lower()
     payload['username'] = payload['username'].lower()
 
