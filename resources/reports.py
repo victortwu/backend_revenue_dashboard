@@ -271,6 +271,7 @@ def upload_report():
                     print('Try=======', report_dict)
 
                 except models.DoesNotExist:
+                    print('Excepting.....')
                     slice_object = slice(10)
                     sliced_date = row['Date'][slice_object]
                     slice_minustwo = slice(-2)
