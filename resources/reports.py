@@ -156,8 +156,9 @@ def upload_report():
             for row in reader:
 
                 try:
+                    print('Trying.....')
+                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['ID'])
                     # report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['ID'].replace('O-', ''))))
-                    report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['ID'].replace('O-', ''))))
                     print('Try:.....', report_dict)
 
                 except models.DoesNotExist:
@@ -171,7 +172,8 @@ def upload_report():
                         fee=row['Processing Fee'],
                         commission=row['Commission'],
                         tip=row['Tip'],
-                        unique_id=float(row['ID'].replace('O-', ''))
+                        # unique_id=float(row['ID'].replace('O-', ''))
+                        unique_id=row['ID']
                     )
 
 
