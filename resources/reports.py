@@ -261,10 +261,12 @@ def upload_report():
         if unique_key == 'Subtotal':
             print('Checking KioskBuddy data.....')
             reader = csv.DictReader(str_data.splitlines())
-
+            print('At line 264: ', reader.fieldnames[4])
             for row in reader:
 
                 try:
+                    print('Trying.....')
+                    slice_minustwo = slice(-2)
                     report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['Date'].replace('/', '').replace(':', '').replace(' ', '')[slice_minustwo])))
                     print('Try=======', report_dict)
 
