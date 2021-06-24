@@ -51,34 +51,7 @@ def reports_index(dates):# date params pass in function
 
 
 def upload_report():
-    # control flow of which files so all type of files get same custom fields
-    # payload = request.get_data()
-    #
-    # str_data = payload.decode('utf-8')
-    # print(str_data)
-    # # first_read = csv.DictReader(str_data.splitlines())
-    # # unique_key = first_read.fieldnames[4]
-    # # print(unique_key)
-    # reader = csv.DictReader(str_data.splitlines())
-    #         # start loop here
-    # for row in reader:
-    #     if row['TRANSACTION_TYPE'] != 'PAYOUT':
-    #         uploaded_report = models.Report.create(
-    #             date=row['TIMESTAMP_LOCAL_DATE'],
-    #             vendor='Doordash',
-    #             wholesale='true',
-    #             subtotal=row['SUBTOTAL'],
-    #             tax=row['TAX_REMITTED_BY_DOORDASH_TO_STATE'],
-    #             fee=float(row['MARKETING_FEES']) * -1,
-    #             commission=float(row['COMMISSION']) * -1,
-    #             tip=row['STAFF_TIP'],
-    #             unique_id=float(row['TIMESTAMP_UTC_TIME'].replace(':', ''))
-    #         )
-    #
-    # report_dict = model_to_dict(uploaded_report)
-    # print(report_dict)
-    #
-    # return payload
+
     try:
         payload = request.get_data()
 
@@ -105,7 +78,7 @@ def upload_report():
             for row in reader:
 
                 try:
-                    # report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['Order'])))
+
                     report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['Date']))
                     print('Try ======== ', report_dict)
 
@@ -125,19 +98,7 @@ def upload_report():
                         unique_id=row['Date']
 
                     )
-                    # slice_object = slice(15)
-                    # sliced_date = row['Date'][slice_object]
-                    # uploaded_report = models.Report.create(
-                    #     date=datetime.strptime(sliced_date, '%a %b %d %Y').strftime('%Y-%m-%d'),
-                    #     vendor='Postmates',
-                    #     wholesale='false',
-                    #     subtotal=float(row['Subtotal'].replace('$', '')),
-                    #     tax=float(row['Tax'].replace('$', '')),
-                    #     fee=row['Fees'],
-                    #     commission=float(row['Commission'].replace('($', '-').replace(')', '')),
-                    #     tip=float(row['Tip'].replace('$', '')),
-                    #     unique_id=float(row['Order'])
-                    # )
+
 
                     report_dict = model_to_dict(uploaded_report)
 
@@ -179,17 +140,7 @@ def upload_report():
                     )
 
 
-                    # uploaded_report = models.Report.create(
-                    #     date=datetime.strptime(row['Date'], '%x').strftime('%Y-%m-%d'),
-                    #     vendor='Grubhub',
-                    #     wholesale='true',
-                    #     subtotal=row['Subtotal'],
-                    #     tax=row['Tax'],
-                    #     fee=row['Processing Fee'],
-                    #     commission=row['Commission'],
-                    #     tip=row['Tip'],
-                    #     unique_id=row['ID']
-                    # )
+
 
                     report_dict = model_to_dict(uploaded_report)
 
@@ -225,7 +176,7 @@ def upload_report():
                     # slice_object = slice(-2)
                     # sliced_time = row['Order Accept Time'][slice_object]
                     uploaded_report = models.Report.create(
-                        date=row['Order Date / Refund date'],
+                        date=datetime.strptime(row['Order Date / Refund date'], '%x').strftime('%Y-%m-%d'),
                         vendor='UberEats',
                         wholesale='true',
                         subtotal=row['Food Sales (excluding tax)'],
@@ -240,17 +191,7 @@ def upload_report():
 
 
 
-                    # uploaded_report = models.Report.create(
-                    #     date=row['Order Date / Refund date'],
-                    #     vendor='UberEats',
-                    #     wholesale='true',
-                    #     subtotal=row['Food Sales (excluding tax)'],
-                    #     tax=row['Tax on Food Sales'],
-                    #     fee=row['Order Processing Fee'],
-                    #     commission=row['Uber Service Fee'],
-                    #     tip=row['Gratuity'],
-                    #     unique_id=float(row['Order Date / Refund date'].replace('/', '') + sliced_time.replace(':', ''))
-                    # )
+
 
                     report_dict = model_to_dict(uploaded_report)
 
@@ -299,19 +240,7 @@ def upload_report():
 
 
 
-                    # slice_object = slice(10)
-                    # sliced_date = row['Date'][slice_object]
-                    # uploaded_report = models.Report.create(
-                    #     date=datetime.strptime(sliced_date, '%m/%d/%Y').strftime('%Y-%m-%d'),
-                    #     vendor='KioskBuddy',
-                    #     wholesale='false',
-                    #     subtotal=float(row['Subtotal']),
-                    #     tax=float(row['Taxes']),
-                    #     fee=0,
-                    #     commission=0,
-                    #     tip=float(row['Tips']),
-                    #     unique_id=float(row['Date'].replace('/', '').replace(':', '').replace(' ', '')[slice_minustwo])
-                    # )
+
 
                     report_dict = model_to_dict(uploaded_report)
 
@@ -354,18 +283,7 @@ def upload_report():
 
 
 
-                    # if row['TRANSACTION_TYPE'] != 'PAYOUT':
-                    #     uploaded_report = models.Report.create(
-                    #         date=row['TIMESTAMP_LOCAL_DATE'],
-                    #         vendor='Doordash',
-                    #         wholesale='true',
-                    #         subtotal=row['SUBTOTAL'],
-                    #         tax=row['TAX_REMITTED_BY_DOORDASH_TO_STATE'],
-                    #         fee=float(row['MARKETING_FEES']) * -1,
-                    #         commission=float(row['COMMISSION']) * -1,
-                    #         tip=row['STAFF_TIP'],
-                    #         unique_id=float(row['TIMESTAMP_UTC_TIME'].replace(':', ''))
-                    #     )
+
 
                         report_dict = model_to_dict(uploaded_report)
 
