@@ -24,7 +24,7 @@ reports = Blueprint('reports', 'reports')
 @reports.route('/<dates>', methods=['GET'])
 # this route needs to pass in date params
 def reports_index(dates):# date params pass in function
-
+    print('Line 27: ', dates)
     date_range = dates.split(',')
     st_date_str = date_range[0]
     e_date_str = date_range[1]
@@ -36,7 +36,7 @@ def reports_index(dates):# date params pass in function
 
     report_dicts = [model_to_dict(report) for report in models.Report.select().where(models.Report.date.between(start_date, end_date))]
 
-    print(report_dicts)
+    # print(report_dicts)
 
     return jsonify({
         'data': report_dicts,
@@ -80,7 +80,7 @@ def upload_report():
                 try:
 
                     report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['Date']))
-                    print('Try ======== ', report_dict)
+                    # print('Try ======== ', report_dict)
 
                 except models.DoesNotExist:
 
@@ -102,7 +102,7 @@ def upload_report():
 
                     report_dict = model_to_dict(uploaded_report)
 
-                    print('Except ====== ', report_dict)
+                    # print('Except ====== ', report_dict)
 
             return jsonify(
                 data = report_dict,
@@ -122,7 +122,7 @@ def upload_report():
                     print('Trying.....')
                     report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['ID']))
                     # report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['ID'].replace('O-', ''))))
-                    print('Try:.....', report_dict)
+                    # print('Try:.....', report_dict)
 
                 except models.DoesNotExist:
 
@@ -144,7 +144,7 @@ def upload_report():
 
                     report_dict = model_to_dict(uploaded_report)
 
-                    print('EXCEPT======= ', report_dict)
+                    # print('EXCEPT======= ', report_dict)
 
             return jsonify(
                 data = report_dict,
@@ -170,7 +170,7 @@ def upload_report():
                     # print(float(row['Order Date / Refund date'].replace('/', '') + sliced_time.replace(':', '')))
                     # report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['Order Date / Refund date'].replace('/', '') + sliced_time.replace(':', ''))))
                     report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['Order ID']))
-                    print('Try:.....', report_dict)
+                    # print('Try:.....', report_dict)
 
                 except models.DoesNotExist:
                     # slice_object = slice(-2)
@@ -195,7 +195,7 @@ def upload_report():
 
                     report_dict = model_to_dict(uploaded_report)
 
-                    print('EXCEPT======= ', report_dict)
+                    # print('EXCEPT======= ', report_dict)
 
             return jsonify(
                 data = report_dict,
@@ -217,7 +217,7 @@ def upload_report():
                     # report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['Date'].replace('/', '').replace(':', '').replace(' ', '')[slice_minustwo])))
                     report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['Transaction Client ID']))
 
-                    print('Try=======', report_dict)
+                    # print('Try=======', report_dict)
 
                 except models.DoesNotExist:
                     print('Excepting.....')
@@ -244,7 +244,7 @@ def upload_report():
 
                     report_dict = model_to_dict(uploaded_report)
 
-                    print(report_dict)
+                    # print(report_dict)
 
             return jsonify(
                 data = report_dict,
@@ -262,7 +262,7 @@ def upload_report():
                 try:
                     print('TRYING.....')
                     report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['TRANSACTION_ID']))
-                    print('Try:.....', report_dict)
+                    # print('Try:.....', report_dict)
 
                 except models.DoesNotExist:
                     print('EXCEPTING.....')
@@ -287,7 +287,7 @@ def upload_report():
 
                         report_dict = model_to_dict(uploaded_report)
 
-                        print('Except ======  ', report_dict)
+                        # print('Except ======  ', report_dict)
 
             return jsonify(
                 data = report_dict,
