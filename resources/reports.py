@@ -36,7 +36,7 @@ def reports_index(dates):# date params pass in function
 
     report_dicts = [model_to_dict(report) for report in models.Report.select().where(models.Report.date.between(start_date, end_date))]
 
-    # print(report_dicts)
+
 
     return jsonify({
         'data': report_dicts,
@@ -47,7 +47,7 @@ def reports_index(dates):# date params pass in function
 
 #----CREATE (upload) REPORTS-----
 @reports.route('/', methods=['POST'])
-# pass in a parameter here that is the file?
+
 
 
 def upload_report():
@@ -80,7 +80,7 @@ def upload_report():
                 try:
 
                     report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['Date']))
-                    # print('Try ======== ', report_dict)
+                    print('Try ======== ', report_dict)
 
                 except models.DoesNotExist:
 
@@ -102,7 +102,7 @@ def upload_report():
 
                     report_dict = model_to_dict(uploaded_report)
 
-                    # print('Except ====== ', report_dict)
+                    print('Except ====== ', report_dict)
 
             return jsonify(
                 data = report_dict,
@@ -121,8 +121,8 @@ def upload_report():
                 try:
                     print('Trying.....')
                     report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['ID']))
-                    # report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['ID'].replace('O-', ''))))
-                    # print('Try:.....', report_dict)
+
+                    print('Try:.....', report_dict)
 
                 except models.DoesNotExist:
 
@@ -135,7 +135,7 @@ def upload_report():
                         fee=row['Processing Fee'],
                         commission=row['Commission'],
                         tip=row['Tip'],
-                        # unique_id=float(row['ID'].replace('O-', ''))
+
                         unique_id=row['ID']
                     )
 
@@ -144,7 +144,7 @@ def upload_report():
 
                     report_dict = model_to_dict(uploaded_report)
 
-                    # print('EXCEPT======= ', report_dict)
+                    print('EXCEPT======= ', report_dict)
 
             return jsonify(
                 data = report_dict,
@@ -163,18 +163,12 @@ def upload_report():
             for row in reader:
 
                 try:
-                    print('Is it trying????')
-                    # slice_object = slice(-2)
-                    # sliced_time = row['Order Accept Time'][slice_object]
-                    #
-                    # print(float(row['Order Date / Refund date'].replace('/', '') + sliced_time.replace(':', '')))
-                    # report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['Order Date / Refund date'].replace('/', '') + sliced_time.replace(':', ''))))
+                    print('Trying...')
                     report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['Order ID']))
-                    # print('Try:.....', report_dict)
+                    print('Try:.....', report_dict)
 
                 except models.DoesNotExist:
-                    # slice_object = slice(-2)
-                    # sliced_time = row['Order Accept Time'][slice_object]
+
                     uploaded_report = models.Report.create(
                         date=datetime.strptime(row['Order Date / Refund date'], '%x').strftime('%Y-%m-%d'),
                         vendor='UberEats',
@@ -195,7 +189,7 @@ def upload_report():
 
                     report_dict = model_to_dict(uploaded_report)
 
-                    # print('EXCEPT======= ', report_dict)
+                    print('EXCEPT======= ', report_dict)
 
             return jsonify(
                 data = report_dict,
@@ -213,17 +207,16 @@ def upload_report():
 
                 try:
                     print('Trying.....')
-                    # slice_minustwo = slice(-2)
-                    # report_dict = model_to_dict(models.Report.get(models.Report.unique_id == float(row['Date'].replace('/', '').replace(':', '').replace(' ', '')[slice_minustwo])))
+
                     report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['Transaction Client ID']))
 
-                    # print('Try=======', report_dict)
+                    print('Try=======', report_dict)
 
                 except models.DoesNotExist:
                     print('Excepting.....')
                     slice_object = slice(10)
                     sliced_date = row['Date'][slice_object]
-                    # slice_minustwo = slice(-2)
+
                     uploaded_report = models.Report.create(
                         date=datetime.strptime(sliced_date, '%m/%d/%Y').strftime('%Y-%m-%d'),
                         vendor='KioskBuddy',
@@ -244,7 +237,7 @@ def upload_report():
 
                     report_dict = model_to_dict(uploaded_report)
 
-                    # print(report_dict)
+                    print(report_dict)
 
             return jsonify(
                 data = report_dict,
@@ -262,7 +255,7 @@ def upload_report():
                 try:
                     print('TRYING.....')
                     report_dict = model_to_dict(models.Report.get(models.Report.unique_id == row['TRANSACTION_ID']))
-                    # print('Try:.....', report_dict)
+                    print('Try:.....', report_dict)
 
                 except models.DoesNotExist:
                     print('EXCEPTING.....')
@@ -287,7 +280,7 @@ def upload_report():
 
                         report_dict = model_to_dict(uploaded_report)
 
-                        # print('Except ======  ', report_dict)
+                        print('Except ======  ', report_dict)
 
             return jsonify(
                 data = report_dict,
